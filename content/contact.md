@@ -1,14 +1,16 @@
 ---
 date: "2018-02-22T17:01:34+07:00"
 layout: contact
-title: Contact
+title: Contacto
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Puedes contactarme en  un horario de 9-5 de lunes a viernes.  Solo enviame un correo  a jlmanzanares@coles.mx
 
-| Day       | Opening Hours   |
+Recuerda que nuestra sesiones se llevan  a cabo los dias: 
+
+| Día       | Horario         |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
+| Lunes 19  | 4 pm   -    6pm |
 | Wednesday | 8:30am - 5:00pm |
 | Thursday  | 8:30am - 5:00pm |
 | Friday    | 8:30am - 5:00pm |

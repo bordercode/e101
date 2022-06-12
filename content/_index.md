@@ -1,5 +1,5 @@
 ---
-description: Serif is a modern business theme for Hugo.
+description: XXXXXX.
 intro_image: images/illustrations/pointing.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
@@ -7,6 +7,8 @@ meta_title: Hugo Serif Theme
 title: Homepage
 ---
 
-# Serif - A Hugo Business Theme.
+# Binevenido a clase! 
+### Introducción a la economía
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Clase  correpondiente al primer semestre del programa de  Maestría en Acción Pública y Desarrollo Social.
+
