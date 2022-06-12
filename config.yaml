@@ -45,7 +45,7 @@ menu:
       url: /contact/
       weight: 2
   main:
-    - name: Services
+    - name: Sesiones
       url: /services/
       weight: 1
     - name: Team
@@ -54,6 +54,6 @@ menu:
     - name: About
       url: /about/
       weight: 3
-    - name: Contact
+    - name: Contacto
       url: /contact/
       weight: 4
