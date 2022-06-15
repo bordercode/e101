@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://intro-economia-2022.netlify.app
 languageCode: en-us
 title: Introducción a Econoomía
 theme: hugo-serif-theme
@@ -38,17 +38,17 @@ params:
     summary_large_truncate: 120
 menu:
   footer:
-    - name: Home
+    - name: Bienvenida
       url: /
       weight: 1
-    - name: Contact
+    - name: Contacto
       url: /contact/
       weight: 2
   main:
     - name: Sesiones
       url: /services/
       weight: 1
-    - name: Team
+    - name: Entregas
       url: /team/
       weight: 2
     - name: Recursos
