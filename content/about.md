@@ -18,7 +18,6 @@ En esta sección encontraras recursos adicionales para complementar tu experienc
 [El engaño populista](https://drive.google.com/file/d/187HEu3v6yfMnMazMEz5JhnW2nvmvgZfN/view?usp=sharing)
 
 
-
 [La fatal ignorancia](https://drive.google.com/file/d/1vmh2jgXgZzaJREHm2gK63H-JHp6Y4bkV/view?usp=sharing)
 
 
@@ -31,7 +30,6 @@ En esta sección encontraras recursos adicionales para complementar tu experienc
 
 
 [Economía G. Mankiw](https://drive.google.com/file/d/159fETs8vxTqFhn18fmxxT2gH6jwWfDth/view?usp=sharing)
-
 
 ## Artículos de opinión.
 

@@ -8,11 +8,27 @@ Puedes contactarme en  un horario de 9-5 de lunes a viernes.  Solo enviame un co
 
 Recuerda que nuestra sesiones se llevan  a cabo los dias: 
 
+**Septiembre**
 | Día       | Horario         |
 | --------- | --------------- |
-| Lunes 19  | 4 pm   -    6pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Sunday    | Closed          |
+| Lunes 19  | 3 pm   -    5pm |
+| Mié 21    | 3 pm   -    5pm |
+| Viernes 23| 12 am   -   2pm |
+| Lunes 26  | 3 pm   -    5pm |
+
+**Octubre**
+
+| Día       | Horario         |
+| --------- | --------------- |
+| Lunes 3   | 3 pm   -    5pm |
+| Lunes 10  | 3 pm   -    5pm |
+| Lunes 17  | 3 pm   -    5pm |
+| Lunes 24  | 3 pm   -    5pm |
+| Lunes 31  | 3 pm   -    5pm |
+
+**Noviembre** 
+| Día       | Horario         |
+| --------- | --------------- |
+| Lunes  7  | 3 pm   -    5pm |
+
+
