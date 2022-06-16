@@ -4,7 +4,7 @@ layout: contact
 title: Contacto
 ---
 
-Puedes contactarme en  un horario de 9-5 de lunes a viernes.  Solo enviame un correo  a jlmanzanares@coles.mx
+Puedes contactarme en un horario de 9-5 de lunes a viernes.  O bien, envíame un correo  a jlmanzanares@colef.mx.
 
 Recuerda que nuestra sesiones se llevan  a cabo los dias: 
 
