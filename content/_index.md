@@ -1,6 +1,6 @@
 ---
 description: XXXXXX.
-intro_image: images/illustrations/pointing.svg
+intro_image: images/illustrations/u2.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 meta_title: Hugo Serif Theme
