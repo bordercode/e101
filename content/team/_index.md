@@ -16,7 +16,7 @@ title: Evaluación
 
 
 
-![Temario](/temario1.jpg)
+![Temario](/images/temario1.jpg)
 
 
 **Temas:**
