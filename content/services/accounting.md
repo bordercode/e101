@@ -31,7 +31,7 @@ La economía como campo científico  de estudio no siempre ha existido.
 Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía.
 
 
-Origenes en la filosofía.
+Origenes en la **filosofía**.
 
 Un elemento central de este campo de estudio es la **toma de decisiones** por lo que tiene relación importante con la **sicología**.
 
@@ -40,18 +40,32 @@ Los **individuos** que integran las **sociedades** llevan a cabo procesos de tom
 
 ¿Cómo las ideas de Adam Smith se perciben en la actualidad? 
 
+
+[El liberalismo](https://youtu.be/MiF5tI38lW0)
+
+
 Sin lugar a dudas la corriente de pensamiento **libertal** que conocemos hoy encuentra sus antecedentes en las ideas de Smith.
 
 Por ejemplo el libre comercio o la libre competencia. 
 
 
+Defición básica:
+
+> Ciencia que estudia la toma de decisiones bajo incertidumbre.
 
 
-Lectura básica:
+Una realidad fundamental es la disponibilidad limitada de recuros. En tanto que existe escasez, la toma de decisiones se vuelve necesaria para garantizar una asignación **eficiente** de recursos.
 
-> Ciencia que estudia la toma de decisiones sugetas a la disponibilidad de recursos.
 
-Necesidades ilimitadas, recursos escasos.
+
+¿Cómo entendemos la eficiencia?
+
+Depende del contexto. En general depende  de la maximización de una función objetivo.
+
+Contexto objetivo de la toma de deciones en economía.
+
++ Necesidades ilimitadas, 
++ Recursos escasos.
 Optimización.
 
 
