@@ -2,7 +2,7 @@
 intro_image: images/team/smartworks-coworking-cW4lLTavU80-unsplash.jpg
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
-title: Ejercicios y tareas
+title: Evaluación
 ---
 
 # Criterios de evalaución.
@@ -13,6 +13,10 @@ title: Ejercicios y tareas
 - Examenes  parciales    (3)          15%
 - Reporte  análisis de coyuntura económica (1) 20%  
 
+
+
+
+![Temario](/temario1.jpg){width=30px}
 
 
 **Temas:**
