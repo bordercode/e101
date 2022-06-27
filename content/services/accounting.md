@@ -24,14 +24,17 @@ Ser capaces de definir qué estudia la economía, identificar los autores de las
 
 ## Introducción
 
-La economía como campo científico  de estudio no siempre ha existido. 
+La economía como campo científico  de estudio.
 
 ¿Desde cuando nos referimos a la ciencia económica como tal?
 
-Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía.
+Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía. Esta obra es un tratado de **economía política**
 
 
-Origenes en la **filosofía**.
+Origenes en la **filosofía**.  La obra de Smith es un tratado de econompia política. 
+
+Se observan antencedentes conceptuales como el liberalimo de **John Lock**  (1632- 1704).
+
 
 Un elemento central de este campo de estudio es la **toma de decisiones** por lo que tiene relación importante con la **sicología**.
 
@@ -40,23 +43,18 @@ Los **individuos** que integran las **sociedades** llevan a cabo procesos de tom
 
 ¿Cómo las ideas de Adam Smith se perciben en la actualidad? 
 
-
-[El liberalismo](https://youtu.be/MiF5tI38lW0)
-
-
 Sin lugar a dudas la corriente de pensamiento **libertal** que conocemos hoy encuentra sus antecedentes en las ideas de Smith.
 
 Por ejemplo el libre comercio o la libre competencia. 
 
+[El liberalismo](https://youtu.be/MiF5tI38lW0)
 
 Defición básica:
 
 > Ciencia que estudia la toma de decisiones bajo incertidumbre.
 
 
-Una realidad fundamental es la disponibilidad limitada de recuros. En tanto que existe escasez, la toma de decisiones se vuelve necesaria para garantizar una asignación **eficiente** de recursos.
-
-
+Una realidad fundamental es la disponibilidad **limitada de recuros**. En tanto que existe escasez, la toma de decisiones se vuelve necesaria para garantizar una asignación **eficiente** de recursos.
 
 ¿Cómo entendemos la eficiencia?
 
@@ -66,27 +64,9 @@ Contexto objetivo de la toma de deciones en economía.
 
 + Necesidades ilimitadas, 
 + Recursos escasos.
-Optimización.
++ Optimización.
++ Racionalidad de los agentes.
 
-
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
 
 ---
 
