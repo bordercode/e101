@@ -19,21 +19,42 @@ Ser capaces de definir qué estudia la economía, identificar los autores de las
 ![Accounting Services](/images/p1.jpg)
 
 
-Actividad:
+**Actividad:** Identificar una problemática actual por cada uno de los 10 principios básicos de economía.
 
-# Objectives 
 
-Financial accounting and financial reporting are often used as synonyms.
+## Introducción
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+La economía como campo científico  de estudio no siempre ha existido. 
 
-## Relevance
+¿Desde cuando nos referimos a la ciencia económica como tal?
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía.
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+
+Origenes en la filosofía.
+
+Un elemento central de este campo de estudio es la **toma de decisiones** por lo que tiene relación importante con la **sicología**.
+
+
+Los **individuos** que integran las **sociedades** llevan a cabo procesos de toma de decisiones considerando las restricciones presupuestales que impone el fenómeno de la **escasez** 
+
+¿Cómo las ideas de Adam Smith se perciben en la actualidad? 
+
+Sin lugar a dudas la corriente de pensamiento **libertal** que conocemos hoy encuentra sus antecedentes en las ideas de Smith.
+
+Por ejemplo el libre comercio o la libre competencia. 
+
+
+
+
+Lectura básica:
+
+> Ciencia que estudia la toma de decisiones sugetas a la disponibilidad de recursos.
+
+Necesidades ilimitadas, recursos escasos.
+Optimización.
+
+
 
 Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
