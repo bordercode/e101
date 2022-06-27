@@ -6,9 +6,20 @@ title: El surgimiento de la economía
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+**Objetivos:** 
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+- Estudiar los origenes de pensamiento económico, 
+- Conocer el campo de estudio de la ciencia económica 
+- Conocer las principales subdiscplinas.  
+
+## Meta o  aprendizaje esperado: 
+
+Ser capaces de definir qué estudia la economía, identificar los autores de las principaes escuelas de pensamiento económico y la distinción entre el campo de macroeconomía y microeconommía.
+
+![Accounting Services](/images/p1.jpg)
+
+
+Actividad:
 
 # Objectives 
 
