@@ -138,7 +138,10 @@ El valor de estas alternativas, puede definirse como el costo oculto o costo de 
 
 Para ilustrar el concepto de costo de oportnunidad revise el siguiente material 
 
-[Claude Frédéric Bastiat](http://bastiat.org/es/lqsvylqnsv.html)
+[Claude Frédéric Bastiat Ver Cap.I El cristal roto ](http://bastiat.org/es/lqsvylqnsv.html)
+
+[La falacia de la ventana rota de Claude Frédéric Bastiat](https://youtu.be/erJEaFpS9ls).
+
 
 - Argumente sobre los beneficios para la sociedad de la acción del niño.
 
@@ -148,7 +151,7 @@ Para ilustrar el concepto de costo de oportnunidad revise el siguiente material
 
 
 
-[La falacia de la ventana rota de Claude Frédéric Bastiat](https://youtu.be/erJEaFpS9ls).
+
 
 **Actividad:** Identificar una problemática actual por cada uno de los 10 principios básicos de economía.
 
