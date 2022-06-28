@@ -36,14 +36,14 @@ Se observan antencedentes conceptuales como el **liberalimo** de **John Locke** 
 
 
 
-De manera complementaria es importante precisar entonces que la **ECONOMÍA** se ubica dentro de las **ciencias sociales** por lo tanto el comportamiento de los individuos y su forma de organizarse. 
+De manera complementaria es importante precisar entonces que la **ECONOMÍA** se ubica dentro de las **ciencias sociales** por lo tanto, interviene en ella el comportamiento de los individuos y su forma de organizarse. 
 
-Por cierto, ¿cuál es la raíz etimológica de donde proviene la palabra economía?
+Por cierto, ¿cuál es la raíz etimológica? ¿de donde proviene la palabra economía?
 
 *oîkos* ‘casa’ y *nomós* ‘reglas. Del griego  **oikonomós** Dirección o administración de una casa.
 
 
-Un elemento central de este campo de estudio es la **toma de decisiones** En esta perspectiva, la econompia tiene una relación importante con la **sicología**. 
+Un elemento central de este campo de estudio es la **toma de decisiones** En esta perspectiva, la economía tiene una relación importante con la **sicología**. 
 
 Uno de los supuestos principales de este campo de estudio es la **racionalidad** es decir, que los individuos son capaces de diferenciar entre sus preferencias aquellas que les reportan mayor grado de satisfacción. 
 
