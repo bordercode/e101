@@ -95,6 +95,15 @@ Mientras el precio natural es el mínimo ppsible. El precio de mercado, oascila 
 
 ¿Cómo las ideas de Adam Smith se perciben en la actualidad? 
 
+¿Cuál es el papel  del gobinerno para Adam Smith? 
+
+**Ans**. Limitarse a proveer tres funciones. 
+
+-Protección en contra de invasiones extrajeras. 
+
+-Protección y seguridad de los habitantes de la nación en contra de la violencia y acciones de los miembros de la propia sociedad.
+-Contrucción y mantenimiento de infraestructura que por su escala solo es rentable su administración por el monopolio del estado. Ej. cosntrucción y operación de Carreteras, puentes,etc., 
+
 Sin lugar a dudas la corriente de pensamiento **libertal** que conocemos hoy encuentra sus antecedentes en las ideas de Smith.
 
 Por ejemplo el libre comercio o la libre competencia. 
@@ -148,10 +157,14 @@ Para ilustrar el concepto de costo de oportnunidad revise el siguiente material
 - ¿Cuales son los efectos que no se ven en este caso?
 
 
+Lectura para discusión. 
+
+
+[Frederic Bastiat](https://drive.google.com/file/d/1K9Y8ywXVNtipB9lFi-UleRiA5X8Fqrtx/view?usp=sharing)
 
 
 
-
+Sobre el concepto de escasez. 
 
 **Actividad:** Identificar una problemática actual por cada uno de los 10 principios básicos de economía.
 
