@@ -29,10 +29,10 @@ La economía como campo científico  de estudio.
 Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía. Esta obra es un tratado de **economía política**
 
 
-Origenes en la **filosofía**.  La obra de Smith es un tratado de econompia política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía. 
+Origenes en la **filosofía**.  La obra de Smith es un tratado de economía política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía. 
 
 
-Se observan antencedentes conceptuales como el **liberalimo** de **John Lock**  (1632- 1704).
+Se observan antencedentes conceptuales como el **liberalimo** de **John Locke**  (1632- 1704).
 
 
 
@@ -61,6 +61,27 @@ Los **individuos** que integran las **sociedades** llevan a cabo procesos de tom
 **Actividad:** Observe el siguiente material y redacte  un argumento sobre la importancia de la obra de Adam Smith.
 
 [Adam Smith](https://youtu.be/xSPYTUcf6Bc)
+
+Responda los siguientes cuestionamientos. 
+
+1. Argumente sobre la importancia del interés personal para el proceso de intercambio de bienes. 
+
+Ans. La satisfacción de los intereses de cada persona permite que involuntariemente se generen intercambios.  En este sentido hay dos fuerzas que interevienen. El egoísmo y el altruimos.  Según Aam Smith, cunado hacemos operaciones de intercambio estamos apelando al egoístmo de las personas no a su altruismo. la contraparte percibe los potenciales beneficios y actua en consecuencia y provee su mercancia a cambio de un beneficio. 
+
+A este juego en el que al parecer una fuerza invisible hace que se concreten las transacciones, se le ha conocido como la mano invisible. 
+Al concretar trasnsaccione en su beneficio, Los individuos alcanzan fines que no forman parte de su intención original.
+
+Al perseguir su beneficio personal un individuo contribuye al bienestar común.  pero no es que el individuo piense en nuestras necesidades, más bien, procura su beneficio personal y al hacerlo contribuye a un flujo de transacciones que define el intercmabio en la sociedad.  
+
+
+2. ¿Qué papel tiene la division del trabajo o la acumulación de capital para el funcionamiento de la sociedad? 
+
+Ans. 
+
+
+3.¿Cómo es regulado el libre mercado?  Ans. Por las fuerzas de la oferta y la demanda.
+
+4.Explique la noción de precio de mercado y  precio natural
 
 ¿Cómo las ideas de Adam Smith se perciben en la actualidad? 
 
