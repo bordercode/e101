@@ -81,11 +81,17 @@ Ans. Por medio de la **divisón del trabajo** se pueden suplir las variadas nece
 
 3.¿Cómo es regulado el libre mercado?  Ans. Por las fuerzas de la oferta y la demanda. Es un mecanismo autoregulado mediante las acciones reciprocas de la oferta y la demanda. 
 
-4.Explique la noción de precio de mercado y  precio natural.
+4.Explique la noción de precio de mercado,  precio natural y precio de monopolio. 
 
 Precio natural  (o precio del libre mercado), el monto necesario para pagar factores de producción y llevar el producto al mercado. 
 
 El precio de mercado: al que se ofrece un bien y depende de la interacción entre la oferta y la demanda. De modo que cuando la demanda excede, la oferta, se genera compentencia y el precio se elevará por arriba del precio natual. 
+
+Lo contrario ocurre cuando la oferta excede la demanda. 
+El precio de la monopolio se presenta cuando solo un productor ofrece el bien y por lo tanto no existe competencia.  En este caso el precio de monopolio es el más elevado pposible. 
+
+Mientras el precio natural es el mínimo ppsible. El precio de mercado, oascila entre estos extremos y dependen de la interacción de la oferta y la demanda. 
+
 
 ¿Cómo las ideas de Adam Smith se perciben en la actualidad? 
 
@@ -95,7 +101,7 @@ Por ejemplo el libre comercio o la libre competencia.
 
 [El liberalismo](https://youtu.be/MiF5tI38lW0)
 
-Defición básica:
+Defición básica de economía:
 
 > Ciencia que estudia la toma de decisiones bajo incertidumbre.
 
@@ -121,7 +127,7 @@ Una clasificación del pensameinto economico:
 + Política económica.  1500-1776
 + Teoría económica.     1776- 20xxxx 
 
-**Actividad:** Observa el sigueinte material y escribe un argumento sobre la imporancia de la interdependencia de los recursos que integran una economía.
+**Actividad:** Observa el siguiente material y escribe un argumento sobre la imporancia de la interdependencia de los recursos que integran una economía.
 
 [I pencil ](https://youtu.be/IYO3tOqDISE)
 
