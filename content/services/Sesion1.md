@@ -1,5 +1,5 @@
 ---
-date: "2018-11-18T12:33:46+10:00"
+date: "2022-06-18T12:33:46+10:00"
 draft: false
 featured: true
 title: El surgimiento de la economía
@@ -19,8 +19,6 @@ Ser capaces de definir qué estudia la economía, identificar los autores de las
 ![Accounting Services](/images/p1.jpg)
 
 
-**Actividad:** Identificar una problemática actual por cada uno de los 10 principios básicos de economía.
-
 
 ## Introducción
 
@@ -33,6 +31,7 @@ Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- I
 
 Origenes en la **filosofía**.  La obra de Smith es un tratado de econompia política. 
 
+
 Se observan antencedentes conceptuales como el liberalimo de **John Lock**  (1632- 1704).
 
 
@@ -40,6 +39,11 @@ Un elemento central de este campo de estudio es la **toma de decisiones** por lo
 
 
 Los **individuos** que integran las **sociedades** llevan a cabo procesos de toma de decisiones considerando las restricciones presupuestales que impone el fenómeno de la **escasez** 
+
+
+**Actividad:** Observe el siguiente material y redacte  un argumento sobre la importancia de la obra de Adam Smith.
+
+[Adam Smith](https://youtu.be/xSPYTUcf6Bc)
 
 ¿Cómo las ideas de Adam Smith se perciben en la actualidad? 
 
@@ -68,6 +72,18 @@ Contexto objetivo de la toma de deciones en economía.
 + Racionalidad de los agentes.
 
 
+
+Una clasificación del pensameinto economico: 
+
++ Justicia económica.  300-1500
++ Política económica.  1500-1776
++ Teoría económica.     1776- 20xxxx 
+
+**Actividad:** Observa el sigueinte material y escribe un argumento sobre la imporancia de la interdependencia de los recursos que integran una economía.
+
+[I pencil ](https://youtu.be/IYO3tOqDISE)
+
+**Actividad:** Identificar una problemática actual por cada uno de los 10 principios básicos de economía.
 ---
 
 ## Statement of cash flows

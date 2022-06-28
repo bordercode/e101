@@ -12,10 +12,6 @@ title: Evaluación
 - Reportes  de lectura   (5)          15%
 - Examenes  parciales    (3)          15%
 - Reporte  análisis de coyuntura económica (1) 20%  
-
-
-
-
 ![Temario](/images/temario1.jpg)
 
 
