@@ -29,14 +29,31 @@ La economía como campo científico  de estudio.
 Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía. Esta obra es un tratado de **economía política**
 
 
-Origenes en la **filosofía**.  La obra de Smith es un tratado de econompia política. 
+Origenes en la **filosofía**.  La obra de Smith es un tratado de econompia política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía. 
 
 
-Se observan antencedentes conceptuales como el liberalimo de **John Lock**  (1632- 1704).
+Se observan antencedentes conceptuales como el **liberalimo** de **John Lock**  (1632- 1704).
 
 
-Un elemento central de este campo de estudio es la **toma de decisiones** por lo que tiene relación importante con la **sicología**.
 
+De manera complementaria es importante precisar entonces que la **ECONOMÍA** se ubica dentro de las **ciencias sociales** por lo tanto el comportamiento de los individuos y su forma de organizarse. 
+
+Por cierto, ¿cuál es la raíz etimológica de donde proviene la palabra economía?
+
+*oîkos* ‘casa’ y *nomós* ‘reglas. Del griego  **oikonomós** Dirección o administración de una casa.
+
+
+Un elemento central de este campo de estudio es la **toma de decisiones** En esta perspectiva, la econompia tiene una relación importante con la **sicología**. 
+
+Uno de los supuestos principales de este campo de estudio es la **racionalidad** es decir, que los individuos son capaces de diferenciar entre sus preferencias aquellas que les reportan mayor grado de satisfacción. 
+
+Formalmente las **decisiones** implican distintos niveles de satisfacción. Una manera alternativa de referirnos a esta idea es mediante el concepto de **utilidad**.  acorde con los autores clasicos, la Utilidad se pude definir como la satisfaccion o el beneficio que se obtiene derivado de una decisión. En nuestro contexto una decisión de consumo.  
+
+
+Esta idea de la utilidad forma unabase de la teoria microeconomíca y plantea un problema fundamental. ¿Cómo medirla? 
+
+Para autores clasicos la utilidad es de hecho tan abstracta que se pude definir como un concepto metafisico de circularidad impenetrable. 
+En otras palabras la utilidad es un concepto tan impreciso, ambiguo y subjetivo como la imaginación lo permita. 
 
 Los **individuos** que integran las **sociedades** llevan a cabo procesos de toma de decisiones considerando las restricciones presupuestales que impone el fenómeno de la **escasez** 
 
@@ -84,6 +101,8 @@ Una clasificación del pensameinto economico:
 [I pencil ](https://youtu.be/IYO3tOqDISE)
 
 **Actividad:** Identificar una problemática actual por cada uno de los 10 principios básicos de economía.
+
+
 ---
 
 ## Statement of cash flows
