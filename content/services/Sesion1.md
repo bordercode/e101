@@ -76,12 +76,16 @@ Al perseguir su beneficio personal un individuo contribuye al bienestar común. 
 
 2. ¿Qué papel tiene la division del trabajo o la acumulación de capital para el funcionamiento de la sociedad? 
 
-Ans. 
+Ans. Por medio de la **divisón del trabajo** se pueden suplir las variadas necesidades de los individuos. La acumulación de capital permite proveer con diferente grado de **eficiencia**, los diversos bienes que demandan los individuos en la sociedad. 
 
 
-3.¿Cómo es regulado el libre mercado?  Ans. Por las fuerzas de la oferta y la demanda.
+3.¿Cómo es regulado el libre mercado?  Ans. Por las fuerzas de la oferta y la demanda. Es un mecanismo autoregulado mediante las acciones reciprocas de la oferta y la demanda. 
 
-4.Explique la noción de precio de mercado y  precio natural
+4.Explique la noción de precio de mercado y  precio natural.
+
+Precio natural  (o precio del libre mercado), el monto necesario para pagar factores de producción y llevar el producto al mercado. 
+
+El precio de mercado: al que se ofrece un bien y depende de la interacción entre la oferta y la demanda. De modo que cuando la demanda excede, la oferta, se genera compentencia y el precio se elevará por arriba del precio natual. 
 
 ¿Cómo las ideas de Adam Smith se perciben en la actualidad? 
 
