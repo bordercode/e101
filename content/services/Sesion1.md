@@ -112,7 +112,7 @@ Una realidad fundamental es la disponibilidad **limitada de recuros**. En tanto 
 
 Depende del contexto. En general depende  de la maximización de una función objetivo.
 
-Contexto objetivo de la toma de deciones en economía.
+Contexto objetivo de la toma de decisiones en economía.
 
 + Necesidades ilimitadas, 
 + Recursos escasos.
@@ -130,6 +130,25 @@ Una clasificación del pensameinto economico:
 **Actividad:** Observa el siguiente material y escribe un argumento sobre la imporancia de la interdependencia de los recursos que integran una economía.
 
 [I pencil ](https://youtu.be/IYO3tOqDISE)
+
+
+**El costo de tomar decisiones:**  Cada decisión se acompaña de consecuencias y efectos implícitos o indirectos.  El ejemplo clásico es la asignación del tiempo. Dado que el tiempo es un recurso escaso, cuando lo asignamos a una determinada actividad, implicitamente estamos incurriendo en el rechazo de asignaciones alternativas. 
+
+El valor de estas alternativas, puede definirse como el costo oculto o costo de oportunidad. Esta nación es importante por quenos hace reflexionar en que nuestras decisiones tiene costos y estos puden ser tangibles, visibles , directos o bien puden ser intagibles o costos ocultos, mejor referidos en lenguaje de economista como costos de oportunidad.
+
+Para ilustrar el concepto de costo de oportnunidad revise el siguiente material 
+
+[Claude Frédéric Bastiat](http://bastiat.org/es/lqsvylqnsv.html)
+
+- Argumente sobre los beneficios para la sociedad de la acción del niño.
+
+- ¿Cuales son los efectos que no se ven en este caso?
+
+
+
+
+
+[La falacia de la ventana rota de Claude Frédéric Bastiat](https://youtu.be/erJEaFpS9ls).
 
 **Actividad:** Identificar una problemática actual por cada uno de los 10 principios básicos de economía.
 
