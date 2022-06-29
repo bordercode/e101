@@ -29,6 +29,12 @@ La economía como campo científico  de estudio.
 Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía. Esta obra es un tratado de **economía política**
 
 
+Sin embargo, el estudio de los asuntos que hoy reconocemos como parte de la ciencia económica, se daba desde diferentes enfoques y perspectivas desde momentos previos a la obra de Smith.
+
+
+
+
+
 Economistas clásicos: 
 
 -**Jean Baptiste Say**. Francés (1767-1832). Oferta y demanda como determinantes del valor. 
@@ -72,6 +78,7 @@ Los **individuos** que integran las **sociedades** llevan a cabo procesos de tom
 **Actividad:** Observe el siguiente material y redacte  un argumento sobre la importancia de la obra de Adam Smith.
 
 [Adam Smith](https://youtu.be/xSPYTUcf6Bc)
+
 
 Responda los siguientes cuestionamientos. 
 
@@ -119,11 +126,30 @@ Sin lugar a dudas la corriente de pensamiento **libertal** que conocemos hoy enc
 
 Por ejemplo el libre comercio o la libre competencia. 
 
+
+
+**Nota:** Para algunos estudiosos de economía posteriores, la postura de los clásicos refleja su intención de justificar o explicar la posición privilegiada  de la clase dominante en la época en la que escribieron. Una objetivo de justificación moral para la forma de operar de la sociedad en el momento de la redacción de obras clásicas como la obra maestra de Smith.
+
+Para Joan Robinson (1903-1983. una economista identificada con la tradición keynesiana. Una escuela de pensamiento denominada en honor a **John Maynard Keynes**, identificado como base de la vertiente de estudio que hoy conocemos como **Macroeconomía**, que estudia grandes agregados economicos como la producción, el movimiento de los precios o el empleo.)
+
+*"One of the main effects (I will not say purposes) of orthodox traditional economics was ... a plan for explaining to the privileged class that their position was morally right and was necessary for the welfare of society.*
+
+
+Estudie el siguiente material audiovisual sobre el liberalismo y conteste las preguntas que se hacen a continuación:  
+
 [El liberalismo](https://youtu.be/MiF5tI38lW0)
 
-Defición básica de economía:
 
-> Ciencia que estudia la toma de decisiones bajo incertidumbre.
+Preguntas: 
+
+1. Considera que el liberalismo es una ideología? 
+
+
+2. Por qué considera que es importante conocer los planteamientos del liberalismo  para el esctudio de economía?
+
+3. En su opinión que papel tiene el mercado para la asignación de los recursos en la sociedad y que papel debe tener el gobierno?
+
+
 
 
 Una realidad fundamental es la disponibilidad **limitada de recuros**. En tanto que existe escasez, la toma de decisiones se vuelve necesaria para garantizar una asignación **eficiente** de recursos.
@@ -141,7 +167,7 @@ Contexto objetivo de la toma de decisiones en economía.
 
 
 
-Una clasificación del pensameinto economico: 
+Una clasificación del pensamiento económico: 
 
 + Justicia económica.  300-1500
 + Política económica.  1500-1776
@@ -154,11 +180,13 @@ Una clasificación del pensameinto economico:
 
 **El costo de tomar decisiones:**  Cada decisión se acompaña de consecuencias y efectos implícitos o indirectos.  El ejemplo clásico es la asignación del tiempo. Dado que el tiempo es un recurso escaso, cuando lo asignamos a una determinada actividad, implicitamente estamos incurriendo en el rechazo de asignaciones alternativas. 
 
-El valor de estas alternativas, puede definirse como el costo oculto o costo de oportunidad. Esta nación es importante por quenos hace reflexionar en que nuestras decisiones tiene costos y estos puden ser tangibles, visibles , directos o bien puden ser intagibles o costos ocultos, mejor referidos en lenguaje de economista como costos de oportunidad.
+El valor de estas alternativas, puede definirse como el costo oculto, un costo que no se ve en primera instancia y que ha a denominado en el argot de la ciencia economica como el costo de oportunidad. 
 
-Para ilustrar el concepto de costo de oportnunidad revise el siguiente material 
+Esta nación es importante por que nos hace reflexionar sobre el hecho de que nuestras decisiones tiene costos y estos puden ser tangibles, visibles , directos o bien pueden ser intagibles o estar ocultos. Estos son referidos en lenguaje de econoía como costos de oportunidad.
 
-[Claude Frédéric Bastiat Ver Cap.I El cristal roto ](http://bastiat.org/es/lqsvylqnsv.html)
+Para ilustrar el concepto de costo de oportnunidad revise el siguiente material en el apartado I (El cristal roto).
+
+[Claude Frédéric Bastiat Ver Cap.I El cristal roto]( )
 
 [La falacia de la ventana rota de Claude Frédéric Bastiat](https://youtu.be/erJEaFpS9ls).
 
@@ -167,11 +195,8 @@ Para ilustrar el concepto de costo de oportnunidad revise el siguiente material
 
 - ¿Cuales son los efectos que no se ven en este caso?
 
+###  Determinación del valor
 
-Lectura para discusión. 
-
-
-[Frederic Bastiat](https://drive.google.com/file/d/1K9Y8ywXVNtipB9lFi-UleRiA5X8Fqrtx/view?usp=sharing)
 
 
 
