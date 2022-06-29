@@ -33,23 +33,29 @@ Sin embargo, el estudio de los asuntos que hoy reconocemos como parte de la cien
 
 
 
+Corrientes de análisis económico precedentes a la escuela clásica cuyo ícono es Adam Smith: 
+
+**El mercantilismo** (Siglos XVI-XVII). precede a la economía clásica. El comercio exterior y particularmente el excedente expresado en acumulación de reservas de oro como un objetivo deseable. El contexto con **intervención del gobierno**. La forma de gobierno en Europa en ese momento era la Monarquía absoluta.
+
+**Los fisiocratas:** La agricultura como fuente de riqueza y actividad fundamental para la sociedad. **Jean Francois Quesnay**.
+
+Economistas clásicos:
 
 
-Economistas clásicos: 
 
--**Jean Baptiste Say**. Francés (1767-1832). Oferta y demanda como determinantes del valor. 
+- **Jean Baptiste Say**. Francés (1767-1832). Oferta y demanda como determinantes del valor. 
 
 Defensor del Libre comercio.
 
 
 Contraste a la teoría de trabajo como fuente del valor. Planteamiento destacado: **Ley de Say.** La oferta crea su propia demanda. O en otros términos se ejemplifica el flujo circular donde la producción genera ingresos que a su vez permiten la demanda de nuevos bienes.
 
--David Ricardo.
+- **David Ricardo**.
 
 Origenes en la **filosofía**.  La obra de Smith es un tratado de economía política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía. 
 
 
-Se observan antencedentes conceptuales como el **liberalimo** de **John Locke**  (1632- 1704).
+
 
 
 
@@ -197,6 +203,12 @@ Para ilustrar el concepto de costo de oportnunidad revise el siguiente material 
 
 ###  Determinación del valor
 
+Uno de los primeros objetivos en economía fue la explicación del valor.  Si bien este puede parecer un planteamiento filosófico con la subjetividad propia, los diversos autores que integran el pensamiento económico sistematizaron explicaciones sobre este importante concepto.
+
+
+- El valor y la escasez. Paradoja del agua y los diamantes.
+
+-Valor y el trabajo.
 
 
 
