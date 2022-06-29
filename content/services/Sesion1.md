@@ -29,6 +29,17 @@ La economía como campo científico  de estudio.
 Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía. Esta obra es un tratado de **economía política**
 
 
+Economistas clásicos: 
+
+-**Jean Baptiste Say**. Francés (1767-1832). Oferta y demanda como determinantes del valor. 
+
+Defensor del Libre comercio.
+
+
+Contraste a la teoría de trabajo como fuente del valor. Planteamiento destacado: **Ley de Say.** La oferta crea su propia demanda. O en otros términos se ejemplifica el flujo circular donde la producción genera ingresos que a su vez permiten la demanda de nuevos bienes.
+
+-David Ricardo.
+
 Origenes en la **filosofía**.  La obra de Smith es un tratado de economía política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía. 
 
 
@@ -47,12 +58,12 @@ Un elemento central de este campo de estudio es la **toma de decisiones** En est
 
 Uno de los supuestos principales de este campo de estudio es la **racionalidad** es decir, que los individuos son capaces de diferenciar entre sus preferencias aquellas que les reportan mayor grado de satisfacción. 
 
-Formalmente las **decisiones** implican distintos niveles de satisfacción. Una manera alternativa de referirnos a esta idea es mediante el concepto de **utilidad**.  acorde con los autores clasicos, la Utilidad se pude definir como la satisfaccion o el beneficio que se obtiene derivado de una decisión. En nuestro contexto una decisión de consumo.  
+Formalmente las **decisiones** implican distintos niveles de satisfacción. Una manera alternativa de referirnos a esta idea es mediante el concepto de **utilidad**.  acorde con los autores clásicos, la Utilidad se puede definir como la satisfaccion o el beneficio que se obtiene derivado de una decisión. Por ejemplo una decisión de consumo.  
 
 
-Esta idea de la utilidad forma unabase de la teoria microeconomíca y plantea un problema fundamental. ¿Cómo medirla? 
+Esta idea de la **utilidad** forma una base de la teoría microeconomíca y plantea un problema fundamental. ¿Cómo medirla? 
 
-Para autores clasicos la utilidad es de hecho tan abstracta que se pude definir como un concepto metafisico de circularidad impenetrable. 
+Para autores clásicos la utilidad es de hecho tan abstracta que se puede definir como un concepto metafísico de circularidad impenetrable. 
 En otras palabras la utilidad es un concepto tan impreciso, ambiguo y subjetivo como la imaginación lo permita. 
 
 Los **individuos** que integran las **sociedades** llevan a cabo procesos de toma de decisiones considerando las restricciones presupuestales que impone el fenómeno de la **escasez** 
