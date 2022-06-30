@@ -35,7 +35,10 @@ Origenes en la **filosofía** con preguntas como: ¿qué es el valor? ¿Qué rel
 
 Dos corrientes de análisis económico precedentes a la escuela clásica cuyo ícono es Adam Smith son: 
 
-**El denominado El mercantilismo** (que es un periodo histórico  que tuvo lugar durante los Siglos XVI-XVII y que más lla de un cuero de ideas sistemático, se puede afirmar que es una etiqueta impuesta por los opositores a la intervención del gobierno sobre todo en temas de comercio). 
+### El denominado El mercantilismo 
+
+
+(que es un periodo histórico  que tuvo lugar durante los Siglos XVI-XVII y que más lla de un cuero de ideas sistemático, se puede afirmar que es una etiqueta impuesta por los opositores a la intervención del gobierno sobre todo en temas de comercio). 
 
 Este periido Precede a las ideas de la economía clásica. 
 
@@ -43,7 +46,11 @@ El comercio exterior y particularmente el excedente en la balanza comercial expr
 
 En este contexto se tiene una activa  **intervención del gobierno**. Hay que recordar que la forma de gobierno en Europa en ese momento era la **Monarquía absoluta**, (con excepción de Inglaterra donde se tenía una monarquía parlamentaria, digamos que esto permitía un contra peso y un escenario más "democrático").  En este periodo era natural una **intervención gubernamental** muy intensa y esta participación generalmente favorecía a los intereses de los grupos de comerciantes en posiciones de administración gubernamental. 
 
-**Fisiocracia: 1700-1800** (del griego gobierno de la naturaleza). La agricultura como fuente de riqueza y actividad fundamental para el bienestar y desarrollo de la sociedad.  dado que la naturaleza era el pilar conceptual, entonces podemos compreder que la gricultura siendo una actividad inherentemente relacionada con la naturaleza, sea la actividad que tiene para esta corrien de pensamiento, la mayor importnacia en el sistema económico. 
+**Fisiocracia: 1700-1800** (del griego gobierno de la naturaleza). La agricultura como fuente de riqueza y actividad fundamental para el bienestar y desarrollo de la sociedad. 
+
+Un argumento central es que el balance entre los insumos y el producto generado permiten un excedente que posibilita la creación de riqueza,  
+
+Dado que la naturaleza era el pilar conceptual, entonces podemos compreder que la gricultura siendo una actividad inherentemente relacionada con la naturaleza, sea la actividad que tiene para esta corrien de pensamiento, la mayor importnacia en el sistema económico. 
 
 
 Un exponente emblemático**Jean Francois Quesnay**.   
