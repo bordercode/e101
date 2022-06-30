@@ -29,15 +29,15 @@ La economía como campo científico  de estudio.
 Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía. Esta obra es un tratado de **economía política**
 
 
-Sin embargo, el estudio de los asuntos que hoy reconocemos como parte de la ciencia económica, se daba desde diferentes enfoques y perspectivas desde momentos previos a la obra de Smith.
+Sin embargo, es evidente que el estudio de los asuntos que hoy reconocemos como parte de la ciencia económica, se daba ya, mediante diferentes enfoques y perspectivas desde momentos previos a la obra de Smith.
 
+Origenes en la **filosofía** con preguntas como: ¿qué es el valor? ¿Qué relación tiene con la escasez? ¿ Como es que algunas naciones o sociedades son mas prosperas que otras?  Cómo el egoísmo o el altruismo interviene para que el intercambio de bienes se lleve a cabo de manera espontánea?  
 
+Dos corrientes de análisis económico precedentes a la escuela clásica cuyo ícono es Adam Smith son: 
 
-Corrientes de análisis económico precedentes a la escuela clásica cuyo ícono es Adam Smith: 
+**El mercantilismo** (Siglos XVI-XVII). precede a la economía clásica. El comercio exterior y particularmente el excedente en la balanza comercial expresado en acumulación de reservas de oro como un objetivo deseable. El contexto con **intervención del gobierno**. La forma de gobierno en Europa en ese momento era la Monarquía absoluta.
 
-**El mercantilismo** (Siglos XVI-XVII). precede a la economía clásica. El comercio exterior y particularmente el excedente expresado en acumulación de reservas de oro como un objetivo deseable. El contexto con **intervención del gobierno**. La forma de gobierno en Europa en ese momento era la Monarquía absoluta.
-
-**Los fisiocratas:** La agricultura como fuente de riqueza y actividad fundamental para la sociedad. **Jean Francois Quesnay**.
+**Los fisiocratas:** La agricultura como fuente de riqueza y actividad fundamental para el bienestar y desarrollo de la sociedad. **Jean Francois Quesnay**.
 
 Economistas clásicos:
 
@@ -52,14 +52,37 @@ Contraste a la teoría de trabajo como fuente del valor. Planteamiento destacado
 
 - **David Ricardo**.
 
-Origenes en la **filosofía**.  La obra de Smith es un tratado de economía política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía. 
+La obra de Smith es un tratado de economía política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía. 
+
+
+**John Stuart Mill** La busqueda de la felicidad, la libertad como parte fundamental del funcionamiento de la sociedad. Entre sus obras sobre economía, el clásico de 1848: **Principios de economía política**  define fundamentos de economía clásica.
+
+Obras de interés recomendadas para comprender fundamentos de economía *On liberty*  y **Utilitarianism.**.
+
+Importante notar la influencia de autores como **Jeremy Betham** en el desarrollo del **utilitarismo.** Una teoría influenciada por el hedononismo. 
+
+*"He famously held that humans were ruled by two sovereign masters — pleasure and pain."*
+
+
+*We seek pleasure and the avoidance of pain, they “…govern us in all we do, in all we say, in all we think…” (Bentham PML, 1)*
 
 
 
+*He also promulgated the principle of utility as the standard of right action on the part of governments and individuals. Actions are approved when they are such as to promote happiness, or pleasure, and disapproved of when they have a tendency to cause unhappiness, or pain (PML).* 
+
+Combine this criterion of **rightness** with a view that we should be actively trying to promote overall happiness, and one has a serious incompatibility with psychological egoism.
+
+¿Qué pasa si la búsqueda de mi utilidad es incompatible con aquella de los otros? En otras palabras es consistente la búsqueda del bienestar o utilidad de  los otros con mi propio proceso de obtención de utilidad. por definición el egoísmo (sicológico) que me lleva a obtener mi beneficio puede ser incompatible  o previene alcanzar el beneficio de otros.
 
 
+*El objetivo de la vida es la maximización de la felicidad!* Y claro obtener el mayor bienestar posible no excluye el bienestar general. *"we ought to maximize the good, that is, bring about ‘the greatest amount of good for the greatest number"*
 
-De manera complementaria es importante precisar entonces que la **ECONOMÍA** se ubica dentro de las **ciencias sociales** por lo tanto, interviene en ella el comportamiento de los individuos y su forma de organizarse. 
+Una aproximación en el terreno de la ética y la moral. Donde se debatían cuestiones como  determinar las acciones apropiadas de los individuos y se razona que es moralmente aporpiado no dañar a los "otros".
+
+Por el contrario buscar el beneficio propio y el de los demás es deseable y en la lógica de **Mill** el beneficio o utiliad individual a menudo se relaciona con el placer. Una idea con influencia del hedonismo.
+
+
+Antes de continuar con las particularidades de los rasgos históricos de los principales antecedentes de la economía como campo formal de estudio, es importante precisar entonces que la **ECONOMÍA** se ubica dentro de las **ciencias sociales** por lo tanto, interviene en ella el comportamiento de los individuos y su forma de organizarse. 
 
 Por cierto, ¿cuál es la raíz etimológica? ¿de donde proviene la palabra economía?
 
