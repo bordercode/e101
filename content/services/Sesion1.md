@@ -135,14 +135,15 @@ Ans. Por las fuerzas de la oferta y la demanda. Importante enfatizar que el merc
 
 4.Explique la noción de precio de mercado,  precio natural y precio de monopolio. 
 
-Precio natural  (o precio del libre mercado), el monto necesario para pagar factores de producción y llevar el producto al mercado. 
+**Precio natural**  (o precio del libre mercado), el monto necesario para pagar factores de producción y llevar el producto al mercado. 
 
-El precio de mercado: al que se ofrece un bien y depende de la interacción entre la oferta y la demanda. De modo que cuando la demanda excede, la oferta, se genera compentencia y el precio se elevará por arriba del precio natual. 
+El **precio de mercado:** al que se ofrece un bien y depende de la interacción entre la oferta y la demanda. De modo que cuando la demanda excede, la oferta, se genera compentencia y el precio se elevará por arriba del precio natual. 
 
 Lo contrario ocurre cuando la oferta excede la demanda. 
-El precio de la monopolio se presenta cuando solo un productor ofrece el bien y por lo tanto no existe competencia.  En este caso el precio de monopolio es el más elevado pposible. 
 
-Mientras el precio natural es el mínimo ppsible. El precio de mercado, oascila entre estos extremos y dependen de la interacción de la oferta y la demanda. 
+El **precio de la monopolio** se presenta cuando solo un productor ofrece el bien y por lo tanto no existe competencia.  En este caso el precio de monopolio es el más elevado pposible. 
+
+Mientras el precio natural es el mínimo ppsible. El precio de mercado, oascila entre estos extremos y depende de la interacción de la oferta y la demanda. 
 
 
 ¿Cómo las ideas de Adam Smith se perciben en la actualidad? 
@@ -153,8 +154,9 @@ Mientras el precio natural es el mínimo ppsible. El precio de mercado, oascila 
 
 -Protección en contra de invasiones extrajeras. 
 
--Protección y seguridad de los habitantes de la nación en contra de la violencia y acciones de los miembros de la propia sociedad.
--Contrucción y mantenimiento de infraestructura que por su escala solo es rentable su administración por el monopolio del estado. Ej. cosntrucción y operación de Carreteras, puentes,etc., 
+-Protección y seguridad de los habitantes de la nación en contra de la violencia y acciones de esta índole por parte de los miembros de la propia sociedad, en contra de otros.
+
+-Contrucción y mantenimiento de infraestructura que por su escala solo es rentable concretrla por el monopolio del estado. Ej. cosntrucción y operación de Carreteras, puentes,etc., 
 
 Sin lugar a dudas la corriente de pensamiento **libertal** que conocemos hoy encuentra sus antecedentes en las ideas de Smith.
 
@@ -162,9 +164,11 @@ Por ejemplo el libre comercio o la libre competencia.
 
 
 
-**Nota:** Para algunos estudiosos de economía posteriores, la postura de los clásicos refleja su intención de justificar o explicar la posición privilegiada  de la clase dominante en la época en la que escribieron. Una objetivo de justificación moral para la forma de operar de la sociedad en el momento de la redacción de obras clásicas como la obra maestra de Smith.
+**Nota:** Para algunos estudiosos de economía posteriores, la postura de los clásicos refleja su intención de justificar o explicar la posición privilegiada  de la clase dominante en la época en la que escribieron. 
 
-Para Joan Robinson (1903-1983. una economista identificada con la tradición keynesiana. Una escuela de pensamiento denominada en honor a **John Maynard Keynes**, identificado como base de la vertiente de estudio que hoy conocemos como **Macroeconomía**, que estudia grandes agregados economicos como la producción, el movimiento de los precios o el empleo.)
+Una objetivo de justificación moral para la forma de operar de la sociedad en el momento de la redacción de obras clásicas como la obra maestra de Smith.
+
+Para **Joan Robinson** (1903-1983. una economista identificada con la tradición keynesiana. Una escuela de pensamiento denominada en honor a **John Maynard Keynes**, identificado como base de la vertiente de estudio que hoy conocemos como **Macroeconomía**, que estudia grandes agregados economicos como la producción, el movimiento de los precios o el empleo.):
 
 *"One of the main effects (I will not say purposes) of orthodox traditional economics was ... a plan for explaining to the privileged class that their position was morally right and was necessary for the welfare of society.*
 
@@ -179,11 +183,13 @@ Preguntas:
 1. Considera que el liberalismo es una ideología? 
 
 
-2. Por qué considera que es importante conocer los planteamientos del liberalismo  para el esctudio de economía?
+2. Por qué considera que es importante conocer los planteamientos del liberalismo  para el estudio de economía?
+
+Ans. Gran parte del debate sobre las formas de organización de la sociedad para alcanzar un estado de progreso, desarrollo y mejores condiciones de vida, se relaciona de una u otra manera con el **grado de libertad** que las sociedades pueden tener frente a las regulaciones necesarias para evitar la guerra y el caos que significaría un estado en el que se persiguen los deseos e intereses de cada individuo que inspirados por  su más puro egoismo trangreden los limites de lo que naturalmente les corresponde. Ej. impactos ambientales, 
 
 3. En su opinión que papel tiene el mercado para la asignación de los recursos en la sociedad y que papel debe tener el gobierno?
 
-
+Ans. Como  mecanismo de asignación de los recursos me parece que permite la expresión libre de los individuos. Es claro que tiene limites importantes que rebasan el ámbito  social. 
 
 
 Una realidad fundamental es la disponibilidad **limitada de recuros**. En tanto que existe escasez, la toma de decisiones se vuelve necesaria para garantizar una asignación **eficiente** de recursos.
