@@ -33,13 +33,13 @@ Sin embargo, es evidente que el estudio de los asuntos que hoy reconocemos como 
 
 Una ciencia relativamente "nueva"  con orígenes en la **filosofía**.  En sus inicios con preguntas como: 
 
-+¿qué es el valor? 
++ ¿qué es el valor? 
 
-+¿Qué relación tiene con la escasez? 
++ ¿Qué relación tiene con la escasez? 
 
--¿Cómo es que algunas naciones o sociedades son mas prósperas que otras?  
+- ¿Cómo es que algunas naciones o sociedades son mas prósperas que otras?  
 
--Cómo el egoísmo o el altruismo interviene para que el intercambio de bienes se lleve a cabo de manera espontánea?  
+- Cómo el egoísmo o el altruismo interviene para que el intercambio de bienes se lleve a cabo de manera espontánea?  
 
 Dos corrientes de análisis económico precedentes a la escuela clásica cuyo ícono es Adam Smith son: 
 
