@@ -35,27 +35,29 @@ Origenes en la **filosofía** con preguntas como: ¿qué es el valor? ¿Qué rel
 
 Dos corrientes de análisis económico precedentes a la escuela clásica cuyo ícono es Adam Smith son: 
 
-**El mercantilismo** (Siglos XVI-XVII). precede a la economía clásica. El comercio exterior y particularmente el excedente en la balanza comercial expresado en acumulación de reservas de oro como un objetivo deseable. El contexto con **intervención del gobierno**. La forma de gobierno en Europa en ese momento era la Monarquía absoluta.
+**El denominado El mercantilismo** (que es un periodo histórico  que tuvo lugar durante los Siglos XVI-XVII y que más lla de un cuero de ideas sistemático, se puede afirmar que es una etiqueta impuesta por los opositores a la intervención del gobierno sobre todo en temas de comercio). 
+
+Este periido Precede a las ideas de la economía clásica. 
+
+El comercio exterior y particularmente el excedente en la balanza comercial expresado en acumulación de reservas de oro como un objetivo deseable. El contexto con **intervención del gobierno**. La forma de gobierno en Europa en ese momento era la Monarquía absoluta, (con excepción de INglaterra donde se tenpia una monarquía parlamentaria, digamos que esto permitia un contra peso y un escenario más "democrático") de modo que era natural una intervención gubernamental muy intensa y esta participación generalmente favorecía a los intereses de los grupos de comerciantes en el poder. 
 
 **Los fisiocratas:** La agricultura como fuente de riqueza y actividad fundamental para el bienestar y desarrollo de la sociedad. **Jean Francois Quesnay**.
 
 Economistas clásicos:
-
-
 
 - **Jean Baptiste Say**. Francés (1767-1832). Oferta y demanda como determinantes del valor. 
 
 Defensor del Libre comercio.
 
 
-Contraste a la teoría de trabajo como fuente del valor. Planteamiento destacado: **Ley de Say.** La oferta crea su propia demanda. O en otros términos se ejemplifica el flujo circular donde la producción genera ingresos que a su vez permiten la demanda de nuevos bienes.
+Contraste a la teoría de trabajo como fuente del valor. Uno de sus planteamiento más difundidos: **Ley de Say.** La oferta crea su propia demanda. O en otros términos se ejemplifica el flujo circular donde la producción genera ingresos que a su vez permiten la demanda de nuevos bienes.
 
-- **David Ricardo**.
+- **David Ricardo**:
 
 La obra de Smith es un tratado de economía política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía. 
 
 
-**John Stuart Mill** La busqueda de la felicidad, la libertad como parte fundamental del funcionamiento de la sociedad. Entre sus obras sobre economía, el clásico de 1848: **Principios de economía política**  define fundamentos de economía clásica.
+**John Stuart Mill** La busqueda de la felicidad, la libertad como parte fundamental del funcionamiento de la sociedad. Entre sus obras sobre economía, el clásico de 1848: **Principios de economía política**  define fundamentos del liberalismo y de economía clásica.
 
 Obras de interés recomendadas para comprender fundamentos de economía *On liberty*  y **Utilitarianism.**.
 
@@ -66,20 +68,18 @@ Importante notar la influencia de autores como **Jeremy Betham** en el desarroll
 
 *We seek pleasure and the avoidance of pain, they “…govern us in all we do, in all we say, in all we think…” (Bentham PML, 1)*
 
-
-
 *He also promulgated the principle of utility as the standard of right action on the part of governments and individuals. Actions are approved when they are such as to promote happiness, or pleasure, and disapproved of when they have a tendency to cause unhappiness, or pain (PML).* 
 
 Combine this criterion of **rightness** with a view that we should be actively trying to promote overall happiness, and one has a serious incompatibility with psychological egoism.
 
-¿Qué pasa si la búsqueda de mi utilidad es incompatible con aquella de los otros? En otras palabras es consistente la búsqueda del bienestar o utilidad de  los otros con mi propio proceso de obtención de utilidad. por definición el egoísmo (sicológico) que me lleva a obtener mi beneficio puede ser incompatible  o previene alcanzar el beneficio de otros.
+¿Qué pasa si la búsqueda de mi utilidad es incompatible con aquella de los otros? En otras palabras: ¿Es consistente la búsqueda del bienestar o utilidad de  los otros con mi propio proceso de obtención de utilidad. por definición el egoísmo (sicológico) que me lleva a obtener mi beneficio puede ser incompatible  o potecialmente tiene la capacidad de  previr alcanzar el beneficio de otros.
 
 
 *El objetivo de la vida es la maximización de la felicidad!* Y claro obtener el mayor bienestar posible no excluye el bienestar general. *"we ought to maximize the good, that is, bring about ‘the greatest amount of good for the greatest number"*
 
-Una aproximación en el terreno de la ética y la moral. Donde se debatían cuestiones como  determinar las acciones apropiadas de los individuos y se razona que es moralmente aporpiado no dañar a los "otros".
+Una aproximación en el terreno de la ética y la moral. Donde se debatían cuestiones como  determinar las acciones apropiadas de los individuos y se razona que es moralmente apropiado no dañar a los "otros".
 
-Por el contrario buscar el beneficio propio y el de los demás es deseable y en la lógica de **Mill** el beneficio o utiliad individual a menudo se relaciona con el placer. Una idea con influencia del hedonismo.
+Por el contrario buscar el beneficio propio y el de los demás es deseable y en la lógica de **Mill** el beneficio o utiliad individual a menudo se relaciona con el placer. Una idea con influencia  clara de Hedonismo.
 
 
 Antes de continuar con las particularidades de los rasgos históricos de los principales antecedentes de la economía como campo formal de estudio, es importante precisar entonces que la **ECONOMÍA** se ubica dentro de las **ciencias sociales** por lo tanto, intervienen en ella el comportamiento de los individuos y su forma de organizarse. 
@@ -88,18 +88,20 @@ Por cierto, ¿cuál es la raíz etimológica? ¿de donde proviene la palabra eco
 
 *oîkos* ‘casa’ y *nomós* ‘reglas. Del griego  **oikonomós** Dirección o administración de una casa.
 
-
 Un elemento central de este campo de estudio es la **toma de decisiones** En esta perspectiva, la economía tiene una relación importante con la **sicología**. 
 
-Uno de los supuestos principales de este campo de estudio es la **racionalidad** es decir, que los individuos son capaces de diferenciar entre sus preferencias aquellas que les reportan mayor grado de satisfacción. 
+Uno de los **supuestos** principales de este campo de estudio es la **racionalidad** es decir, que los individuos son capaces de diferenciar entre sus preferencias aquellas que les reportan mayor grado de satisfacción. 
 
-Formalmente las **decisiones** implican distintos niveles de satisfacción. Una manera alternativa de referirnos a esta idea es mediante el concepto de **utilidad**.  acorde con los autores clásicos, la Utilidad se puede definir como la satisfaccion o el beneficio que se obtiene derivado de una decisión. Por ejemplo una decisión de consumo.  
+Formalmente las **decisiones** implican distintos niveles de satisfacción. 
+
+Una manera alternativa de referirnos a esta idea es mediante el concepto de **utilidad**.  acorde con los autores clásicos, la Utilidad se puede definir como la satisfaccion o el beneficio que se obtiene derivado de una decisión. Por ejemplo una decisión de consumo.  
 
 
 Esta idea de la **utilidad** forma una base de la teoría microeconomíca y plantea un problema fundamental. ¿Cómo medirla? 
 
-Para autores clásicos la utilidad es de hecho tan abstracta que se puede definir como un concepto metafísico de circularidad impenetrable. 
+Para autores clásicos la **utilidad** es de hecho tan abstracta que se puede definir como un concepto metafísico de circularidad impenetrable. 
 En otras palabras la utilidad es un concepto tan impreciso, ambiguo y subjetivo como la imaginación lo permita. 
+
 
 Los **individuos** que integran las **sociedades** llevan a cabo procesos de toma de decisiones considerando las restricciones presupuestales que impone el fenómeno de la **escasez** 
 
