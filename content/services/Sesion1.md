@@ -31,7 +31,7 @@ Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- I
 
 Sin embargo, es evidente que el estudio de los asuntos que hoy reconocemos como parte de la ciencia económica, se daba ya, mediante diferentes enfoques y perspectivas desde momentos previos a la obra de Smith.
 
-Origenes en la **filosofía** con preguntas como: ¿qué es el valor? ¿Qué relación tiene con la escasez? ¿ Como es que algunas naciones o sociedades son mas prosperas que otras?  Cómo el egoísmo o el altruismo interviene para que el intercambio de bienes se lleve a cabo de manera espontánea?  
+Una ciencia "nueva" relativamente con origenes en la **filosofía**.  En sus inicios con preguntas como: ¿qué es el valor? ¿Qué relación tiene con la escasez? ¿ Como es que algunas naciones o sociedades son mas prosperas que otras?  Cómo el egoísmo o el altruismo interviene para que el intercambio de bienes se lleve a cabo de manera espontánea?  
 
 Dos corrientes de análisis económico precedentes a la escuela clásica cuyo ícono es Adam Smith son: 
 
