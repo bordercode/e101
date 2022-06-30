@@ -82,7 +82,7 @@ Una aproximación en el terreno de la ética y la moral. Donde se debatían cues
 Por el contrario buscar el beneficio propio y el de los demás es deseable y en la lógica de **Mill** el beneficio o utiliad individual a menudo se relaciona con el placer. Una idea con influencia del hedonismo.
 
 
-Antes de continuar con las particularidades de los rasgos históricos de los principales antecedentes de la economía como campo formal de estudio, es importante precisar entonces que la **ECONOMÍA** se ubica dentro de las **ciencias sociales** por lo tanto, interviene en ella el comportamiento de los individuos y su forma de organizarse. 
+Antes de continuar con las particularidades de los rasgos históricos de los principales antecedentes de la economía como campo formal de estudio, es importante precisar entonces que la **ECONOMÍA** se ubica dentro de las **ciencias sociales** por lo tanto, intervienen en ella el comportamiento de los individuos y su forma de organizarse. 
 
 Por cierto, ¿cuál es la raíz etimológica? ¿de donde proviene la palabra economía?
 
@@ -113,20 +113,25 @@ Responda los siguientes cuestionamientos.
 
 1. Argumente sobre la importancia del interés personal para el proceso de intercambio de bienes. 
 
-Ans. La satisfacción de los intereses de cada persona permite que involuntariemente se generen intercambios.  En este sentido hay dos fuerzas que interevienen. El egoísmo y el altruimos.  Según Aam Smith, cunado hacemos operaciones de intercambio estamos apelando al egoístmo de las personas no a su altruismo. la contraparte percibe los potenciales beneficios y actua en consecuencia y provee su mercancia a cambio de un beneficio. 
+Ans. La satisfacción de los intereses de cada persona permite que involuntariemente se generen intercambios.  En este sentido hay dos fuerzas que interevienen. El **egoísmo** y el **altruimo**. 
 
-A este juego en el que al parecer una fuerza invisible hace que se concreten las transacciones, se le ha conocido como la mano invisible. 
-Al concretar trasnsaccione en su beneficio, Los individuos alcanzan fines que no forman parte de su intención original.
+Según **Adam Smith**, cuando hacemos operaciones de intercambio estamos apelando al egoístmo de las personas no a su altruismo. La contraparte percibe los potenciales beneficios y actúa en consecuencia y provee su mercancia a cambio de un beneficio. 
+
+A este proceso en el que, al parecer una fuerza invisible hace que se concreten las transacciones, se le ha comparado con una **mano invisible**. 
+
+Al concretar trasnsacciones en su beneficio, los individuos alcanzan fines que no forman parte de su intención original.
 
 Al perseguir su beneficio personal un individuo contribuye al bienestar común.  pero no es que el individuo piense en nuestras necesidades, más bien, procura su beneficio personal y al hacerlo contribuye a un flujo de transacciones que define el intercmabio en la sociedad.  
 
 
-2. ¿Qué papel tiene la division del trabajo o la acumulación de capital para el funcionamiento de la sociedad? 
+2. ¿Qué papel tiene la divisi+on del trabajo o la acumulación de capital para el funcionamiento de la sociedad? 
 
 Ans. Por medio de la **divisón del trabajo** se pueden suplir las variadas necesidades de los individuos. La acumulación de capital permite proveer con diferente grado de **eficiencia**, los diversos bienes que demandan los individuos en la sociedad. 
 
 
-3.¿Cómo es regulado el libre mercado?  Ans. Por las fuerzas de la oferta y la demanda. Es un mecanismo autoregulado mediante las acciones reciprocas de la oferta y la demanda. 
+3.¿Cómo es regulado el libre mercado?  
+
+Ans. Por las fuerzas de la oferta y la demanda. Importante enfatizar que el mercado es un mecanismo que permite la asiganación de los recursos y es autoregulado mediante las acciones reciprocas de la oferta y la demanda. 
 
 4.Explique la noción de precio de mercado,  precio natural y precio de monopolio. 
 
