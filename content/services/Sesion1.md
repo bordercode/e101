@@ -33,7 +33,7 @@ Sin embargo, es evidente que el estudio de los asuntos que hoy reconocemos como 
 
 Una ciencia relativamente "nueva"  con orígenes en la **filosofía**.  En sus inicios con preguntas como: 
 
-+ ¿qué es el valor? 
++ ¿Qué es el valor? 
 
 + ¿Qué relación tiene con la escasez? 
 
@@ -50,15 +50,19 @@ Dos corrientes de análisis económico precedentes a la escuela clásica cuyo í
 
 Este periodo precede a las ideas de la economia clásica, un conjunto de ideas más orientado hacia el liberalismo  clásico. 
 
-En el mercantilosmo el **comercio exterior** y particularmente el excedente en la balanza comercial expresado en acumulación de reservas de oro se percibe como un objetivo deseable. 
+En el mercantilismo, el **comercio exterior** y particularmente el excedente en la balanza comercial expresado en acumulación de reservas de oro se percibe como un objetivo deseable. 
 
-En este contexto se tiene una activa  **intervención del gobierno**. Hay que recordar que la forma de gobierno en Europa en ese momento era la **Monarquía absoluta**, (con excepción de **Inglaterra** donde se tenía una monarquía parlamentaria, digamos que esto permitía un contra peso y un escenario más "democrático").  En este periodo era natural una **intervención gubernamental** muy intensa y esta participación generalmente favorecía a los intereses de los grupos de comerciantes en posiciones de administración gubernamental. 
+En este contexto se tiene una activa  **intervención del gobierno**. Hay que recordar que la forma de gobierno en Europa en ese momento era la **Monarquía absoluta**, (con excepción de **Inglaterra** donde se tenía una monarquía parlamentaria, digamos que esto permitía un contra peso y un escenario más "democrático" en ese país).
 
-**Fisiocracia: 1700-1800** (del griego gobierno de la naturaleza). La agricultura como fuente de riqueza y actividad fundamental para el bienestar y desarrollo de la sociedad. 
+En este periodo era natural una **intervención gubernamental** muy intensa y esta participación generalmente favorecía a los intereses de los grupos de comerciantes en posiciones de administración gubernamental. 
 
-Un argumento central es que el balance entre los insumos y el producto generado permiten un excedente que posibilita la creación de riqueza,  
+## Fisiocracia: 1700-1800
 
-Dado que la naturaleza era el pilar conceptual, entonces podemos compreder que la gricultura siendo una actividad inherentemente relacionada con la naturaleza, sea la actividad que tiene para esta corrien de pensamiento, la mayor importnacia en el sistema económico. 
+(del griego gobierno de la naturaleza). En este periodo, la **agricultura** se percibió como fuente de riqueza y actividad fundamental para el bienestar y desarrollo de la sociedad. 
+
+Un argumento central es que el balance entre los insumos y el producto generado permiten un **excedente** que posibilita la creación de riqueza,  
+
+Dado que **la naturaleza** era el pilar conceptual, entonces podemos compreder que la agricultura, siendo una actividad inherentemente relacionada con la naturaleza, sea la actividad que tiene para esta corriente de pensamiento, la mayor importnacia para el **sistema económico**. 
 
 
 Un exponente emblemático**Jean Francois Quesnay**.   
