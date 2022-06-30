@@ -80,7 +80,9 @@ Defensor del Libre comercio.
 
 Contraste a la teoría de trabajo como fuente del valor. Uno de sus planteamiento más difundidos: **Ley de Say.** La oferta crea su propia demanda. O en otros términos se ejemplifica el flujo circular donde la producción genera ingresos que a su vez permiten la demanda de nuevos bienes.
 
-- **David Ricardo**:
+- **David Ricardo**: Escritor del periodo clásico, que aporto ideas que resultan el fundamento de lo que hoy conocemos como **MACROECONOMIA**
+
+
 
 La obra de Smith es un tratado de economía política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía. 
 
