@@ -31,7 +31,11 @@ Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- I
 
 Sin embargo, es evidente que el estudio de los asuntos que hoy reconocemos como parte de la ciencia económica, se daba ya, mediante diferentes enfoques y perspectivas desde momentos previos a la obra de Smith.
 
-Una ciencia relativamente "nueva"  con orígenes en la **filosofía**.  En sus inicios con preguntas como: ¿qué es el valor? ¿Qué relación tiene con la escasez? 
+Una ciencia relativamente "nueva"  con orígenes en la **filosofía**.  En sus inicios con preguntas como: 
+
++¿qué es el valor? 
+
++¿Qué relación tiene con la escasez? 
 
 -¿Cómo es que algunas naciones o sociedades son mas prósperas que otras?  
 
