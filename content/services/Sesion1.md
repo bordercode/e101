@@ -60,10 +60,11 @@ En este periodo era natural una **intervención gubernamental** muy intensa y es
 
 (del griego gobierno de la naturaleza). En este periodo, la **agricultura** se percibió como fuente de riqueza y actividad fundamental para el bienestar y desarrollo de la sociedad. 
 
-Un argumento central es que el balance entre los insumos y el producto generado permiten un **excedente** que posibilita la creación de riqueza,  
+Un argumento central es que el balance entre los insumos y el producto generado permiten un **excedente** que posibilita la creación de riqueza.  Para una discusión detallada de este argumento véase el trabajo de Anne Robert Jacques Turgot, **Turgot** : *Reflexions sur la formation et la distribution des richesses*  de 1766.
 
-Dado que **la naturaleza** era el pilar conceptual, entonces podemos compreder que la agricultura, siendo una actividad inherentemente relacionada con la naturaleza, sea la actividad que tiene para esta corriente de pensamiento, la mayor importnacia para el **sistema económico**. 
+Dado que **la naturaleza** era el pilar conceptual, entonces podemos compreder que la agricultura, siendo una actividad inherentemente relacionada con la naturaleza, sea la actividad que tiene para esta corriente de pensamiento, la mayor importancia para el **sistema económico**. 
 
+![Agricultura](/images/agri.jpg)
 
 Un exponente emblemático**Jean Francois Quesnay**.   
 
