@@ -26,25 +26,29 @@ La economía como campo científico  de estudio.
 
 ¿Desde cuando nos referimos a la ciencia económica como tal?
 
-Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía. Esta obra es un tratado de **economía política**
+Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía. Esta obra es un tratado de **economía política**.
 
 
 Sin embargo, es evidente que el estudio de los asuntos que hoy reconocemos como parte de la ciencia económica, se daba ya, mediante diferentes enfoques y perspectivas desde momentos previos a la obra de Smith.
 
-Una ciencia relativamente "nueva"  con orígenes en la **filosofía**.  En sus inicios con preguntas como: ¿qué es el valor? ¿Qué relación tiene con la escasez? ¿ Como es que algunas naciones o sociedades son mas prosperas que otras?  Cómo el egoísmo o el altruismo interviene para que el intercambio de bienes se lleve a cabo de manera espontánea?  
+Una ciencia relativamente "nueva"  con orígenes en la **filosofía**.  En sus inicios con preguntas como: ¿qué es el valor? ¿Qué relación tiene con la escasez? 
+
+-¿Cómo es que algunas naciones o sociedades son mas prósperas que otras?  
+
+-Cómo el egoísmo o el altruismo interviene para que el intercambio de bienes se lleve a cabo de manera espontánea?  
 
 Dos corrientes de análisis económico precedentes a la escuela clásica cuyo ícono es Adam Smith son: 
 
-### El denominado El mercantilismo 
+### Mercantilismo 
 
 
-(que es un periodo histórico  que tuvo lugar durante los Siglos XVI-XVII y que más lla de un cuero de ideas sistemático, se puede afirmar que es una etiqueta impuesta por los opositores a la intervención del gobierno sobre todo en temas de comercio). 
+(Un periodo histórico  que tuvo lugar durante los Siglos **XVI-XVII** y que más allá de formar un cuerpo de ideas sistemático, se puede considerar como una etiqueta impuesta por los opositores a la intervención del gobierno sobre todo en temas de comercio). 
 
-Este periido Precede a las ideas de la economía clásica. 
+Este periodo precede a las ideas de la economia clásica, un conjunto de ideas más orientado hacia el liberalismo  clásico. 
 
-El comercio exterior y particularmente el excedente en la balanza comercial expresado en acumulación de reservas de oro como un objetivo deseable. 
+En el mercantilosmo el **comercio exterior** y particularmente el excedente en la balanza comercial expresado en acumulación de reservas de oro se percibe como un objetivo deseable. 
 
-En este contexto se tiene una activa  **intervención del gobierno**. Hay que recordar que la forma de gobierno en Europa en ese momento era la **Monarquía absoluta**, (con excepción de Inglaterra donde se tenía una monarquía parlamentaria, digamos que esto permitía un contra peso y un escenario más "democrático").  En este periodo era natural una **intervención gubernamental** muy intensa y esta participación generalmente favorecía a los intereses de los grupos de comerciantes en posiciones de administración gubernamental. 
+En este contexto se tiene una activa  **intervención del gobierno**. Hay que recordar que la forma de gobierno en Europa en ese momento era la **Monarquía absoluta**, (con excepción de **Inglaterra** donde se tenía una monarquía parlamentaria, digamos que esto permitía un contra peso y un escenario más "democrático").  En este periodo era natural una **intervención gubernamental** muy intensa y esta participación generalmente favorecía a los intereses de los grupos de comerciantes en posiciones de administración gubernamental. 
 
 **Fisiocracia: 1700-1800** (del griego gobierno de la naturaleza). La agricultura como fuente de riqueza y actividad fundamental para el bienestar y desarrollo de la sociedad. 
 
