@@ -39,9 +39,17 @@ Dos corrientes de análisis económico precedentes a la escuela clásica cuyo í
 
 Este periido Precede a las ideas de la economía clásica. 
 
-El comercio exterior y particularmente el excedente en la balanza comercial expresado en acumulación de reservas de oro como un objetivo deseable. El contexto con **intervención del gobierno**. La forma de gobierno en Europa en ese momento era la Monarquía absoluta, (con excepción de INglaterra donde se tenpia una monarquía parlamentaria, digamos que esto permitia un contra peso y un escenario más "democrático") de modo que era natural una intervención gubernamental muy intensa y esta participación generalmente favorecía a los intereses de los grupos de comerciantes en el poder. 
+El comercio exterior y particularmente el excedente en la balanza comercial expresado en acumulación de reservas de oro como un objetivo deseable. 
 
-**Los fisiocratas:** La agricultura como fuente de riqueza y actividad fundamental para el bienestar y desarrollo de la sociedad. **Jean Francois Quesnay**.
+En este contexto se tiene una activa  **intervención del gobierno**. Hay que recordar que la forma de gobierno en Europa en ese momento era la **Monarquía absoluta**, (con excepción de Inglaterra donde se tenía una monarquía parlamentaria, digamos que esto permitía un contra peso y un escenario más "democrático").  En este periodo era natural una **intervención gubernamental** muy intensa y esta participación generalmente favorecía a los intereses de los grupos de comerciantes en posiciones de administración gubernamental. 
+
+**Fisiocracia: 1700-1800** (del griego gobierno de la naturaleza). La agricultura como fuente de riqueza y actividad fundamental para el bienestar y desarrollo de la sociedad.  dado que la naturaleza era el pilar conceptual, entonces podemos compreder que la gricultura siendo una actividad inherentemente relacionada con la naturaleza, sea la actividad que tiene para esta corrien de pensamiento, la mayor importnacia en el sistema económico. 
+
+
+Un exponente emblemático**Jean Francois Quesnay**.   
+
+Si tenemos que asociar un término o un slogan que describa esta corriene de pensamiento sería: 
+**"laissez faire, laissez passer"**
 
 Economistas clásicos:
 
