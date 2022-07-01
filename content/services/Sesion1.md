@@ -71,7 +71,7 @@ Un exponente emblemático**Jean Francois Quesnay**.
 Si tenemos que asociar un término o un slogan que describa esta corriene de pensamiento sería: 
 **"laissez faire, laissez passer"**
 
-Economistas clásicos:
+## Economistas clásicos:
 
 - **Jean Baptiste Say**. Francés (1767-1832). Oferta y demanda como determinantes del valor. 
 
@@ -82,7 +82,7 @@ Contraste a la teoría de trabajo como fuente del valor. Uno de sus planteamient
 
 - **David Ricardo**  Un judío (ibérico  e.i, Sefardita)  
 
-que para hacer honor a esta característica logró generar una fortuna considerable (1772-1823): Escritor del periodo clásico, que aportÓ ideas que resultan el fundamento de lo que hoy conocemos como **MACROECONOMIA**
+que para hacer honor a esta característica logró generar una fortuna considerable (1772-1823): Escritor del periodo clásico, que aportó ideas que resultan el fundamento de lo que hoy conocemos como **MACROECONOMIA**
 
 
 
@@ -91,7 +91,7 @@ La obra de Smith es un tratado de economía política y se reconoce como un íco
 
 **John Stuart Mill** La busqueda de la felicidad, la libertad como parte fundamental del funcionamiento de la sociedad. Entre sus obras sobre economía, el clásico de 1848: **Principios de economía política**  define fundamentos del liberalismo y de economía clásica.
 
-Obras de interés recomendadas para comprender fundamentos de economía *On liberty*  y **Utilitarianism.**.
+Obras de interés escritas por John Stuart Mill recomendadas para comprender fundamentos de economía *On liberty*  y **Utilitarianism.**.
 
 Importante notar la influencia de autores como **Jeremy Betham** en el desarrollo del **utilitarismo.** Una teoría influenciada por el hedononismo. 
 
