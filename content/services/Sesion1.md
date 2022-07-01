@@ -28,6 +28,7 @@ La economía como campo científico  de estudio.
 
 Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía. Esta obra es un tratado de **economía política**.
 
+La obra de Smith es un tratado de economía política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía.
 
 Sin embargo, es evidente que el estudio de los asuntos que hoy reconocemos como parte de la ciencia económica, se daba ya, mediante diferentes enfoques y perspectivas desde momentos previos a la obra de Smith.
 
@@ -180,7 +181,7 @@ Mientras el precio natural es el mínimo ppsible. El precio de mercado, oascila 
 
 
 
-En síntesis, la obra de Smith es un tratado de economía política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía. 
+ 
 
 ¿Cómo las ideas de Adam Smith se perciben en la actualidad? 
 
