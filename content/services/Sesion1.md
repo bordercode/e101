@@ -86,7 +86,6 @@ que para hacer honor a esta característica logró generar una fortuna considera
 
 
 
-La obra de Smith es un tratado de economía política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía. 
 
 
 **John Stuart Mill** La busqueda de la felicidad, la libertad como parte fundamental del funcionamiento de la sociedad. Entre sus obras sobre economía, el clásico de 1848: **Principios de economía política**  define fundamentos del liberalismo y de economía clásica.
@@ -179,6 +178,9 @@ El **precio de la monopolio** se presenta cuando solo un productor ofrece el bie
 
 Mientras el precio natural es el mínimo ppsible. El precio de mercado, oascila entre estos extremos y depende de la interacción de la oferta y la demanda. 
 
+
+
+En síntesis, la obra de Smith es un tratado de economía política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía. 
 
 ¿Cómo las ideas de Adam Smith se perciben en la actualidad? 
 
