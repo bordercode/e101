@@ -86,7 +86,7 @@ Contraste a la teoría de trabajo como fuente del valor. Uno de sus planteamient
 que para hacer honor a esta característica logró generar una fortuna considerable (1772-1823): Escritor del periodo clásico, que aportó ideas que resultan el fundamento de lo que hoy conocemos como **MACROECONOMIA**
 
 
-Entre otros postulados, Ricardo plantea que el VALOR se deriva del TRABAJO, un planteamiento que hoy se reconoce como equivocado sobre todo considerando el concepto de utilidad subjetiva que se asocia con la escasez, Ej. **la paradoja del agua y los diamantes**.
+Entre otros postulados, Ricardo plantea que el **VALOR** se deriva del **TRABAJO**, un planteamiento que hoy se reconoce como equivocado sobre todo considerando el concepto de utilidad subjetiva que se asocia con la escasez, Ej. **la paradoja del agua y los diamantes**.
 
 
 **John Stuart Mill** La busqueda de la felicidad, la libertad como parte fundamental del funcionamiento de la sociedad. Entre sus obras sobre economía, el clásico de 1848: **Principios de economía política**  define fundamentos del liberalismo y de economía clásica.
