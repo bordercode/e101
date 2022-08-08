@@ -13,7 +13,7 @@ title: Evaluación
 - Examenes  parciales    (3)          15%
 - Reporte  análisis de coyuntura económica (1) 20%  
 
-<img src="/images/temario1.jpg" width ="200">
+<img src="images/temario1.jpg" width ="200">
 
 
 **Temas:**
