@@ -32,7 +32,7 @@ La obra de Smith es un tratado de economía política y se reconoce como un íco
 
 Sin embargo, es evidente que el estudio de los asuntos que hoy reconocemos como parte de la ciencia económica, se daba ya, mediante diferentes enfoques y perspectivas desde momentos previos a la obra de Smith.
 
-Una ciencia relativamente "nueva"  con orígenes en la **filosofía**.  En sus inicios con preguntas como: 
+Una ciencia relativamente "nueva"  (si consideramos campos de estudio como las matemáticas o la física), con orígenes en la **filosofía**.  En sus inicios con preguntas como: 
 
 + ¿Qué es el valor? 
 
@@ -91,9 +91,12 @@ Entre otros postulados, Ricardo plantea que el **VALOR** se deriva del **TRABAJO
 
 **John Stuart Mill** La busqueda de la felicidad, la libertad como parte fundamental del funcionamiento de la sociedad. Entre sus obras sobre economía, el clásico de 1848: **Principios de economía política**  define fundamentos del liberalismo y de economía clásica.
 
-Obras de interés escritas por John Stuart Mill recomendadas para comprender fundamentos de economía *On liberty*  y **Utilitarianism.**.
+Obras de interés escritas por John Stuart Mill recomendadas para comprender fundamentos de economía *On liberty*  y **Utilitarianism.**
 
 Importante notar la influencia de autores como **Jeremy Betham** en el desarrollo del **utilitarismo.** Una teoría influenciada por el hedononismo. 
+
+
+![](/images/Arete_madre_Aristipo.jpg  "fsdsdsd")
 
 *"He famously held that humans were ruled by two sovereign masters — pleasure and pain."*
 
@@ -102,7 +105,7 @@ Importante notar la influencia de autores como **Jeremy Betham** en el desarroll
 
 *He also promulgated the principle of utility as the standard of right action on the part of governments and individuals. Actions are approved when they are such as to promote happiness, or pleasure, and disapproved of when they have a tendency to cause unhappiness, or pain (PML).* 
 
-Combine this criterion of **rightness** with a view that we should be actively trying to promote overall happiness, and one has a serious incompatibility with psychological egoism.
+Nota: *Combine this criterion of*  **rightness** *with a view that we should be actively trying to promote overall happiness, and one has a serious incompatibility with psychological egoism.*
 
 ¿Qué pasa si la búsqueda de mi utilidad es incompatible con aquella de los otros? En otras palabras: ¿Es consistente la búsqueda del bienestar o utilidad de  los otros con mi propio proceso de obtención de utilidad. por definición el egoísmo (sicológico) que me lleva a obtener mi beneficio puede ser incompatible  o potecialmente tiene la capacidad de  previr alcanzar el beneficio de otros.
 
