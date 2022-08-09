@@ -13,10 +13,12 @@ title: Evaluación
 - Examenes  parciales    (3)          15%
 - Reporte  análisis de coyuntura económica (1) 20%  
 
+## Carta descriptiva del curso
+
 ![Temario](/images/rsz_temario1.jpg)
+![Temario](/images/temario2.jpg)
 
-
-**Temas:**
+**Temas para exposición:**
 
 1. Elasticidad de la demanda.
 
