@@ -8,7 +8,7 @@ weight: 4
 
 
 
-## Sesión 2
+## El Valor
 
 + Resumen Clase anterior.
 + Revisión de tarea (Actividad 2 material sobre el liberalismo clásico). 
