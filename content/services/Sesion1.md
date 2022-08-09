@@ -146,105 +146,85 @@ Los **individuos** que integran las **sociedades** llevan a cabo procesos de tom
 [Adam Smith](https://youtu.be/xSPYTUcf6Bc)
 
 
+### Actividad 1
+
 Responda los siguientes cuestionamientos. 
 
 1. Argumente sobre la importancia del interés personal para el proceso de intercambio de bienes. 
 
-Ans. La satisfacción de los intereses de cada persona permite que involuntariemente se generen intercambios.  En este sentido hay dos fuerzas que interevienen. El **egoísmo** y el **altruimo**. 
-
-Según **Adam Smith**, cuando hacemos operaciones de intercambio estamos apelando al egoístmo de las personas no a su altruismo. La contraparte percibe los potenciales beneficios y actúa en consecuencia y provee su mercancia a cambio de un beneficio. 
-
-A este proceso en el que, al parecer una fuerza invisible hace que se concreten las transacciones, se le ha comparado con una **mano invisible**. 
-
-Al concretar trasnsacciones en su beneficio, los individuos alcanzan fines que no forman parte de su intención original.
-
-Al perseguir su beneficio personal un individuo contribuye al bienestar común.  pero no es que el individuo piense en nuestras necesidades, más bien, procura su beneficio personal y al hacerlo contribuye a un flujo de transacciones que define el intercmabio en la sociedad.  
 
 
-2. ¿Qué papel tiene la divisi+on del trabajo o la acumulación de capital para el funcionamiento de la sociedad? 
 
-Ans. Por medio de la **divisón del trabajo** se pueden suplir las variadas necesidades de los individuos. La acumulación de capital permite proveer con diferente grado de **eficiencia**, los diversos bienes que demandan los individuos en la sociedad. 
+2. ¿Qué papel tiene la división del trabajo o la acumulación de capital para el funcionamiento de la sociedad? 
+
 
 
 3.¿Cómo es regulado el libre mercado?  
 
-Ans. Por las fuerzas de la oferta y la demanda. Importante enfatizar que el mercado es un mecanismo que permite la asiganación de los recursos y es autoregulado mediante las acciones reciprocas de la oferta y la demanda. 
+
 
 4.Explique la noción de precio de mercado,  precio natural y precio de monopolio. 
 
-**Precio natural**  (o precio del libre mercado), el monto necesario para pagar factores de producción y llevar el producto al mercado. 
 
-El **precio de mercado:** al que se ofrece un bien y depende de la interacción entre la oferta y la demanda. De modo que cuando la demanda excede, la oferta, se genera compentencia y el precio se elevará por arriba del precio natual. 
-
-Lo contrario ocurre cuando la oferta excede la demanda. 
-
-El **precio de la monopolio** se presenta cuando solo un productor ofrece el bien y por lo tanto no existe competencia.  En este caso el precio de monopolio es el más elevado pposible. 
-
-Mientras el precio natural es el mínimo ppsible. El precio de mercado, oascila entre estos extremos y depende de la interacción de la oferta y la demanda. 
+5. En su opinión ¿Cómo las ideas de Adam Smith se expresan o perciben en la actualidad? 
 
 
 
- 
-
-¿Cómo las ideas de Adam Smith se perciben en la actualidad? 
-
-¿Cuál es el papel  del gobinerno para Adam Smith? 
-
-**Ans**. Limitarse a proveer tres funciones. 
-
--Protección en contra de invasiones extrajeras. 
-
--Protección y seguridad de los habitantes de la nación en contra de la violencia y acciones de esta índole por parte de los miembros de la propia sociedad, en contra de otros.
-
--Contrucción y mantenimiento de infraestructura que por su escala solo es rentable concretrla por el monopolio del estado. Ej. cosntrucción y operación de Carreteras, puentes,etc., 
-
-Sin lugar a dudas la corriente de pensamiento **libertal** que conocemos hoy encuentra sus antecedentes en las ideas de Smith.
-
-Por ejemplo el libre comercio o la libre competencia. 
+6. ¿Cuál es el papel  del gobinerno para Adam Smith? 
 
 
 
-**Nota:** Para algunos estudiosos de economía posteriores, la postura de los clásicos refleja su intención de justificar o explicar la posición privilegiada  de la clase dominante en la época en la que escribieron. 
 
-Una objetivo de justificación moral para la forma de operar de la sociedad en el momento de la redacción de obras clásicas como la obra maestra de Smith.
+
+**Nota:** Para algunos estudiosos de economía posteriores, la postura de los clásicos refleja su intención de **justificar o explicar la posición privilegiada  de la clase dominante en la época en la que escribieron.** 
+
+Un objetivo de justificación moral para la forma de operar de la sociedad en el momento de la redacción de obras clásicas como la obra maestra de Smith.
 
 Para **Joan Robinson** (1903-1983. una economista identificada con la tradición keynesiana. Una escuela de pensamiento denominada en honor a **John Maynard Keynes**, identificado como base de la vertiente de estudio que hoy conocemos como **Macroeconomía**, que estudia grandes agregados economicos como la producción, el movimiento de los precios o el empleo.):
 
 *"One of the main effects (I will not say purposes) of orthodox traditional economics was ... a plan for explaining to the privileged class that their position was morally right and was necessary for the welfare of society.*
 
 
+### Actividad 2
+
+**Tarea** para discusión en clase 2. 
+
 Estudie el siguiente material audiovisual sobre el liberalismo y conteste las preguntas que se hacen a continuación:  
 
 [El liberalismo](https://youtu.be/MiF5tI38lW0)
 
 
-Preguntas: 
+**Preguntas:**
 
-1. Considera que el liberalismo es una ideología? 
+1. ¿Considera ud. que el liberalismo es una ideología? 
 
 
 2. Por qué considera que es importante conocer los planteamientos del liberalismo  para el estudio de economía?
 
-Ans. Gran parte del debate sobre las formas de organización de la sociedad para alcanzar un estado de progreso, desarrollo y mejores condiciones de vida, se relaciona de una u otra manera con el **grado de libertad** que las sociedades pueden tener frente a las regulaciones necesarias para evitar la guerra y el caos que significaría un estado en el que se persiguen los deseos e intereses de cada individuo que inspirados por  su más puro egoismo trangreden los limites de lo que naturalmente les corresponde. Ej. impactos ambientales, 
-
-3. En su opinión que papel tiene el mercado para la asignación de los recursos en la sociedad y que papel debe tener el gobierno?
-
-Ans. Como  mecanismo de asignación de los recursos me parece que permite la expresión libre de los individuos. Es claro que tiene limites importantes que rebasan el ámbito  social. 
 
 
-Una realidad fundamental es la disponibilidad **limitada de recuros**. En tanto que existe escasez, la toma de decisiones se vuelve necesaria para garantizar una asignación **eficiente** de recursos.
+3. ¿Cuándo, dónde y porqué surge el concepto de liberalismo, deacurdo con el presentador? 
 
-¿Cómo entendemos la eficiencia?
 
-Depende del contexto. En general depende  de la maximización de una función objetivo.
+4. En su opinión que papel tiene el mercado para la asignación de los recursos en la sociedad y que papel debe tener el gobierno?
 
-Contexto objetivo de la toma de decisiones en economía.
 
-+ Necesidades ilimitadas, 
-+ Recursos escasos.
-+ Optimización.
-+ Racionalidad de los agentes.
+5. ¿Cómo entendemos la eficiencia?
 
+
+
+
+
+
+## Sesión 2
+
++ Resumen Cláse anterior.
++ Revisión de tarea (Actividad 2 material sobre el liberalismo clásico). 
+
+#### Tema de la sesión: 
+#### Objetivo  general
+#### Objetivos particulares
+#### Meta de la sesión: Al final de la sesión ud será capaza de...
 
 
 Una clasificación del pensamiento económico: 
