@@ -16,7 +16,7 @@ title: Evaluación
 ## Carta descriptiva del curso
 
 ![Temario](/images/rsz_temario1.jpg)
-![Temario](/images/temario2.jpg)
+![Temario2](/images/temario2.jpg)
 
 **Temas para exposición:**
 
