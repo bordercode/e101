@@ -54,6 +54,6 @@ menu:
     - name: Recursos
       url: /about/
       weight: 3
-    - name: Contacto
+    - name: Calendario y Contacto 
       url: /contact/
       weight: 4

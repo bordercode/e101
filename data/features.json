@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Fundamentos escuela clásica",
+    "description": "Se presentan las bases conceptuales y se ofrece una perspectiva integral sobre el surgimiento de la economía como campo del conocimiento.",
+    "image": "images/features/intro1.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Microeconomía",
+    "description": "El proceso de toma de decisiones a escala individual  a partir de supuestos claros basados en el comportamiento racional.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Macroeconomía",
+    "description": "Los grandes agregados: Producción,  empleo y el comportamiento del nivel general de precios",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
