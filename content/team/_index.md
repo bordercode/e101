@@ -13,7 +13,8 @@ title: Evaluación
 - Examenes  parciales    (3)          15%
 - Reporte  análisis de coyuntura económica (1) 20%  
 
-## Carta descriptiva del curso[PDF](https://drive.google.com/file/d/1vjQKptKxNeFDfN8-TYTYTiLL-CQegwLR/view?usp=sharing)
+
+[Carta descriptiva del curso](https://drive.google.com/file/d/1vjQKptKxNeFDfN8-TYTYTiLL-CQegwLR/view?usp=sharing)
 
 
 
