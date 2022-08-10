@@ -23,7 +23,7 @@ Conocer los campos de estudio de la economía.
 
 ##### Objetivos particulares: 
 
-a) Estudiar el paradigma que utiliza la ciencia económica para estudiar los fenomenos sociales vinculados a a toma de decisiones en condiciones de escasez de recursos.
+a) Estudiar el paradigma que utiliza la ciencia económica para analizar los fenomenos sociales vinculados a la toma de decisiones en condiciones de escasez de recursos.
 
 b) Describir los métodos que los economistas desarrollan para explicar los fenómenos asociados a la toma de desiciones.
 
@@ -41,14 +41,15 @@ Observa el siguiente material y escribe un argumento sobre la imporancia de la i
 
 [I pencil ](https://youtu.be/IYO3tOqDISE)
 
+### Principios básicos que guían el análisis económico
 
 **El costo de tomar decisiones:**  Cada decisión se acompaña de consecuencias y efectos implícitos o indirectos.  El ejemplo clásico es la asignación del tiempo. Dado que el tiempo es un recurso escaso, cuando lo asignamos a una determinada actividad, implicitamente estamos incurriendo en el rechazo de asignaciones alternativas. 
 
 El valor de estas alternativas, puede definirse como el costo oculto, un costo que no se ve en primera instancia y que ha a denominado en el argot de la ciencia economica como el **costo de oportunidad**. 
 
-Esta nación es importante por que nos hace reflexionar sobre el hecho de que nuestras decisiones tiene costos y estos pueden ser tangibles, visibles , directos o bien pueden ser intagibles o estar ocultos. Estos son referidos en lenguaje de economía como costos de oportunidad.
+Esta nación es importante por que nos hace reflexionar sobre el hecho de que nuestras decisiones tiene costos y estos pueden ser tangibles, visibles, directos o bien pueden ser intagibles o estar ocultos. Estos son referidos en lenguaje de economía como **costos de oportunidad.**
 
-Para ilustrar el concepto de costo de oportnunidad revise el siguiente material en el apartado I (El cristal roto).
+Para ilustrar el concepto de **costo de oportnunidad** revise el siguiente material en el apartado I (El cristal roto).
 
 [Claude Frédéric Bastiat Ver Cap.I El cristal roto](http://bastiat.org/es/lqsvylqnsv.html)
 
