@@ -2,7 +2,7 @@
 date: "2022-06-19T15:15:34+10:00"
 draft: false
 featured: true
-title: 2. ¿Cómo se determina el valor?
+title: 2. Areas de estudio principales en economía
 weight: 4
 ---
 
