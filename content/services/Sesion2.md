@@ -1,31 +1,43 @@
 ---
-date: "2018-11-28T15:15:34+10:00"
+date: "2022-06-19T15:15:34+10:00"
 draft: false
 featured: true
-title: El valor
+title: 2. ¿Cómo se determina el valor?
 weight: 4
 ---
 
 
 
-## El Valor
+## Campo de estudio de la ciencia económica.
 
 + Resumen Clase anterior.
 + Revisión de tarea (Actividad 2 material sobre el liberalismo clásico). 
 
-#### Tema de la sesión: 
-#### Objetivo  general
-#### Objetivos particulares
-#### Meta de la sesión: Al final de la sesión ud será capaza de...
+### Tema de la sesión: 
+
+Campo de estudio y áreas principales de la economía.
+
+#### Objetivo  general: 
+
+Conocer los campos de estudio de la economía.
+
+##### Objetivos particulares: 
+
+a) Estudiar el paradigma que utiliza la ciencia económica para estudiar los fenomenos sociales vinculados a a toma de decisiones en condiciones de escasez de recursos.
+
+b) Describir los métodos que los economistas desarrollan para explicar los fenómenos asociados a la toma de desiciones.
+
+c) Explicar el campo de estudio de la microeconomía y la macroeconomía.
 
 
-Una clasificación del pensamiento económico: 
+###### Meta de la sesión: 
 
-+ Justicia económica.  300-1500
-+ Política económica.  1500-1776
-+ Teoría económica.     1776- 20xxxx 
+Al final de la sesión usted será capaz de identificar qué areas estudia la economía y distinguir entre los problemas que atañen la rama de microeconomía y macroeconomía.
 
-**Actividad:** Observa el siguiente material y escribe un argumento sobre la imporancia de la interdependencia de los recursos que integran una economía.
+
+##Actividad 3  
+
+Observa el siguiente material y escribe un argumento sobre la imporancia de la interdependencia de los recursos que integran una economía.
 
 [I pencil ](https://youtu.be/IYO3tOqDISE)
 

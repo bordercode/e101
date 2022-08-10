@@ -2,7 +2,7 @@
 date: "2022-06-18T12:33:46+10:00"
 draft: false
 featured: true
-title: El surgimiento de la economía
+title: 1. El surgimiento de la economía
 weight: 1
 ---
 
@@ -212,6 +212,12 @@ Estudie el siguiente material audiovisual sobre el liberalismo y conteste las pr
 5. ¿Cómo entendemos la eficiencia?
 
 
+Para finalizar la sesión de hoy una clasificación del pensamiento económico.
+
+**Síntesis sobre etapas que atrevesó el pensamiento económico en su avane como campo cientfico.**
 
 
 
++ Justicia económica.  300-1500
++ Política económica.  1500-1776
++ Teoría económica.     1776- 20xxxx 
