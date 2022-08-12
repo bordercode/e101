@@ -184,8 +184,8 @@ Uno de los supuestos fundamentales en economía y particularmente en el subcampo
 
 **¿Qué papel tiene los experimientos en el análisis económico**
 
-A diferencia de otras ciencias, en la economía, la experimentación no es una fase del proceso ceintifico, tan común, por la simple razó de que los sujetos de estudio son individuos con cuya percepción de la realidad tiene un importante componente subjeyivo. 
+A diferencia de otras ciencias, en la economía, la experimentación no es una fase del proceso ceintifico, tan común, por la simple razón de que los sujetos de estudio son individuos con cuya percepción de la realidad tiene un importante componente subjeyivo. 
 
 
-No obstante
+No obstante, la experimentación se ha convertido en uno de los mecanismos de análisis mas importantes en campos como micro economía.  Un exponente notable de este campo es Daniel Kahneman y Vernon L. Smith. 
 
