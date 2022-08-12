@@ -80,7 +80,7 @@ Uno de los primeros objetivos en economía fue la explicación del valor.  Si bi
 
 
 
--Teoría del Valor  trabajo. Por ejemplo Marx, planteó en su famosa obra:  **El Capital**, que el valor se deriva del trabajo. Una consecuencia del entendimiento erróneo de esta idea es que el capitalismo como sistema económico implica condiciones de explotación por parte de los dueños de los medios de producción hacia una clase de individuos, que despovistos de medios productivos ofrecen en el marco del proceso productivo, lo único que poseen, su fuerza de trabajo. 
+- Teoría del Valor  trabajo. Por ejemplo Marx, planteó en su famosa obra:  **El Capital**, que el valor se deriva del trabajo. Una consecuencia del entendimiento erróneo de esta idea es que el capitalismo como sistema económico implica condiciones de explotación por parte de los dueños de los medios de producción hacia una clase de individuos, que despovistos de medios productivos ofrecen en el marco del proceso productivo, lo único que poseen, su fuerza de trabajo. 
 
 El punto central de esta concepción es que la remuneración que obtiene esta clase trabajadora por aportar su trabjo es inferior al valor que se tiene por los productos generados, la diferencia, denominada plus valia, es una fracción que directamente concentra el dueño de los medios 
 de producción o capitalista. 
@@ -95,13 +95,18 @@ Para mayor referencia leer. Capitulo   de la obra Original disponible aquí   [E
 
 Información complementaria sobre el contexto de Karl Marx. [aquí](https://youtu.be/NL0j5olb9LE)
 
-### Teoría de Valor y la utilidad subjetiva: El valor como resultado de la escasez. Paradoja del agua y los diamantes.
+
+## Sobre el concepto de escasez, utilidad y determinación del valor.
+
+### Teoría de Valor y la utilidad subjetiva: El valor como resultado de la escasez. 
+
+#### Paradoja del agua y los diamantes.
 
 
 
 
 
-**Sobre el concepto de escasez utilidad y determinación del valor** 
+ 
 
 **Actividad 4**
 
@@ -121,7 +126,9 @@ Con base en la información del clip anterior responda los siguientes cuestionam
 
 
 
-### Actividad 5 para Assignment in class Analyisis : 
+### Actividad 5 
+
+**Assignment in-class Analyisis :**
 
 Leer sección *The Nature and Origin of Value* del capitulo   III (The Theory of value), del libro **Principles of Economics by Karl Menger, Carl Menger**   [disponible aquí](https://drive.google.com/file/d/1MH_odBz6NGxSoY6gS98BV5R4m0Zs0i4z/view?usp=sharing) 
 
@@ -129,23 +136,6 @@ Responda las siguientes preguntas:
 
 
 **1.** Acorde con el autor. ¿Qué pre requisitos deben de estar presentes para que una cosa  tenga el  carácter de un bien  o  mercancia? 
-
-Ans. 
-
-*If a thing is to become a good, or in other words, if it is to
-acquire goods-character, all four of the following prerequisites
-must be simultaneously present:*
-
-+ A human need.
-
-+ Such properties as render the thing capable of being brought
-into a causal connection with the satisfaction of this need.
- 
-+ Human knowledge of this causal connection.
-
-+ Command of the thing sufficient to direct it to the satisfaction
-of the need.
-
 
 
 **2**  Explique los rasgos que distinguen  un bien  económico y uno no-económico.
@@ -156,69 +146,46 @@ of the need.
 
 **5** Acorde con el autor ¿es posible que un bien no-económico tenga utilidad?
 
+**6** ¿Cómo explica el autor, el concepto de VALOR?
 
-### Conceptos en el tema sobre determinación de valor. 
 
-
-"**Utility** is the capacity of a thing to serve for the satisfaction of
-human needs, and hence (provided the utility is recognized) it is a
-general prerequisite of goods-character.
-
-**Non-economic goods** have utility as well as **economic goods**, since they are just as capable of satisfying our needs. 
-
-With these goods also, their capacity to satisfy needs must be recognized by men, since they could not otherwise acquire goods-character. 
-
-But what distinguishes a **non-economic good** from a **good** subject to the quantitative relationship responsible for economic character **is the circumstance that the satisfaction of human needs does not depend upon the availability of concrete quantities of the former but does depend upon the availability of concrete quantities of the latter.
-
-For this reason the former possesses utility, but only the latter, in addition to utility, possesses also that significance for us that we call **value**"  (Karl Menger, p. 119.)
+### Discusión en clase con base en la repuestas del grupo.  
 
 
 
-"Non-economic goods, therefore, not only do not have exchange
-value, as has previously been supposed in the literature of our subject, but no value at all, and hence no use value. 
-
-I shall attempt to
-explain the relationship between exchange value and use value in
-greater detail later, when I have dealt with some of the principles
-relevant to their consideration. 
-
-For the time being, let it be
-observed that exchange value and use value are two concepts subordinate to the general concept of value, and hence coordinate in
-their relations to each other. 
-
-All that I have already said about
-value in general is accordingly as valid for use value as it is for
-exchange value."  (Karl Menger, Principles of economics, p. 119.).
-
-
-
-"...In the final analysis, is the importance that we attribute to
-things of the external world only an outflow of the importance to
-us of our continued existence and development (life and wellbeing). 
-
-**Value** is therefore nothing inherent in goods, no property of
-them, but merely **the importance that we first attribute to the satisfaction of our needs**, that is, to our lives and well-being, and in
-consequence carry over to economic goods as the exclusive causes
-of the satisfaction of our needs." (Karl Menger, Principles of economics p. 116.)
-
-
-**The value of goods**, accordingly, is a phenomenon that
-springs from the same source as the economic character of
-goods—that is, from the relationship, explained earlier, between
-**requirements** for and **available quantities** of goods.
-
-But there is
-a difference between the two phenomena. On the one hand, perception of this quantitative relationship stimulates our provident activity, thus causing goods subject to this relationship to
-become objects of our economizing (i.e., economic goods). 
-
-On the
-other hand, perception of the same relationship makes us aware
-of the significance that command of each concrete unit of the
-available quantities of these goods has for our lives and wellbeing, thus causing it to attain **value** for us.
-
-(Karl Menger, Principles of economics p. 116.)
 
 
 #### Tarea, 
 
 Para repaso de conceptos. Leer capitulos I, II y II del libro **Principles of Economics by Karl Menger.**
+
+
+## Métodos en economía. 
+
+Tratándose de una **ciencia social** donde los sujetos de estudio son los indviduos y sus acciones colectivas ( *Little disclaimer:* vivimos en un mundo interdependiente, somos entes políticos, en este sentido y por lo tanto, entender las reglas que hacen que nuestra convivencia pacífica funcione, en especial en el espectro económico, es una tarea relevante y menos clara que las leyes deterministas que encontramos en disciplinas del conocimiento como la física, por ejemplo.), es necesario indicar que **modelar** la realidad para comprender los efectos que nuestra acciones pueden causar sobre el bienestar individual o colectivo, es una tarea cotidiana en **ECONOMÍA**
+
+
+**¿QUÉ ES UN MODELO?**
+
+Una representación **abstracta** de la realidad. 
+
+
+Uno de los mecanísmos de análisis en economía es la construcción de modelos. 
+
+Los modelos se basan en **supuestos** y  estos parten de concepciones teóricas de la realidad que pueden o no ser verdaderos. 
+
+El problema del uso de supuestos para entender la realidad, es que, estos no siempre se cumplen, lo que implica que, es importante limitarlos a su estricto dominio factible, de lo contrario terminariamos generando **modelos** que en lugar de explicar la realidad generarían escenarios propios de la **ciencia ficción**. 
+
+
+Uno de los supuestos fundamentales en economía y particularmente en el subcampo de **MICROECONOMÍA**  es la **racionalidad** de los agentes. Es decir las decisiones que los individuos toman, se basaan en un proceso de contraste de costo beneficio. 
+
+
+
+
+**¿Qué papel tiene los experimientos en el análisis económico**
+
+A diferencia de otras ciencias, en la economía, la experimentación no es una fase del proceso ceintifico, tan común, por la simple razó de que los sujetos de estudio son individuos con cuya percepción de la realidad tiene un importante componente subjeyivo. 
+
+
+No obstante
+
