@@ -189,3 +189,6 @@ A diferencia de otras ciencias, en la economía, la experimentación no es una f
 
 No obstante, la experimentación se ha convertido en uno de los mecanismos de análisis mas importantes en campos como micro economía.  Un exponente notable de este campo es Daniel Kahneman y Vernon L. Smith. 
 
+
+Actividad 6. Observar el siguiente clipo y discutir su contenido en forma grupal. 
+[](https://www.youtube.com/watch?v=XgRlrBl-7Yg)
