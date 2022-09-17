@@ -87,7 +87,7 @@ de producción o capitalista.
 
 La cantidad de trabajo incorporado en las  mercancias determina la tasa de cambio entre ellas.  Para Marx el argumento es que existe un **valor de cambio** que se explica en función de la cantidad de trabajo "Socialmente necesario" incorporado en las mercancias. 
 
-Y hace la distinción conceptual sobre el **valor de uso** que no esta relacionado con trabajo incorporado pero con la utilidad que posee un objeto.  PO ejemplo el aire, es util, tiene valor de uso pero un valor de cambio distinto en tanto no se produce mediante trabajo. 
+Y hace la distinción conceptual sobre el **valor de uso** que no esta relacionado con trabajo incorporado pero con la utilidad que posee un objeto.  Por ejemplo el aire, es util, tiene valor de uso pero un valor de cambio distinto en tanto no se produce mediante trabajo. 
 
 
 Para mayor referencia leer. Capitulo   de la obra Original disponible aquí   [El Capital](https://drive.google.com/file/d/1-E9_iEq3d4aN0uCurPrjKCEFvSyZZCGP/view?usp=sharing)
@@ -130,7 +130,7 @@ Con base en la información del clip anterior responda los siguientes cuestionam
 
 **Assignment in-class Analyisis :**
 
-Leer sección *The Nature and Origin of Value* del capitulo   III (The Theory of value), del libro **Principles of Economics by Karl Menger, Carl Menger**   [disponible aquí](https://drive.google.com/file/d/1MH_odBz6NGxSoY6gS98BV5R4m0Zs0i4z/view?usp=sharing) 
+Leer sección *The Nature and Origin of Value* del capitulo   III (The Theory of value), pagina 114-121 del libro **Principles of Economics by Karl Menger, Carl Menger**   [disponible aquí](https://drive.google.com/file/d/1MH_odBz6NGxSoY6gS98BV5R4m0Zs0i4z/view?usp=sharing) 
 
 Responda las siguientes preguntas: 
 

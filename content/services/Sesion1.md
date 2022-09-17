@@ -203,7 +203,7 @@ Estudie el siguiente material audiovisual sobre el liberalismo y conteste las pr
 
 
 
-3. ¿Cuándo, dónde y porqué surge el concepto de liberalismo, deacurdo con el presentador? 
+3. ¿Cuándo, dónde y porqué surge el concepto de liberalismo, deacuerdo con el presentador? 
 
 
 4. En su opinión que papel tiene el mercado para la asignación de los recursos en la sociedad y que papel debe tener el gobierno?
