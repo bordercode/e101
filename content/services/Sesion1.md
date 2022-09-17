@@ -95,7 +95,7 @@ Obras de interés escritas por John Stuart Mill recomendadas para comprender fun
 
 Importante notar la influencia de autores como **Jeremy Betham** en el desarrollo del **utilitarismo.** Una teoría influenciada por el hedonismo. 
 
-![](/images/Arete_madre_Aristipo.jpg)
+![](/images/arete.jpg)
 *Arete Madre de Aristipo, reconocido por desarrollar la escuela de Hedonismo. (435 a. C. - 350 a. C.)*
 
 *"He famously held that humans were ruled by two sovereign masters — pleasure and pain."*
