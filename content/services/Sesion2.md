@@ -262,6 +262,12 @@ Lea el articulo y responda lo sigueinte:
 
 2.- ¿Considerando el trabajo pionero de **Bernoulli** sobre el papel de la perspectiva sicológica en la toma de decisiones:  ¿Cómo ejemplifican los autores una decisión caracterizada por aversión al riesgo?
 
+3.- ¿Cómo ejemplifica el autor un comportamiento de **busqueda de riesgo** en el *dominio de las perdidas* en la toma de decisiones sobre una apuesta? 
+
+4.- ¿Describa en que consiste el axioma de transitividad propuesto  Von Newman y Morgenstern?
+
+5. ¿En que consite el principio de invariabilidad? 
+
 **¿Qué papel tiene los experimientos en el análisis económico**
 
 A diferencia de otras ciencias, en la economía, la experimentación no es una fase del proceso ceintifico, tan común, por la simple razón de que los sujetos de estudio son individuos con cuya percepción de la realidad tiene un importante componente subjetivo. 
