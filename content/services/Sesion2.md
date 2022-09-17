@@ -35,7 +35,16 @@ c) Explicar el campo de estudio de la microeconomía y la macroeconomía.
 Al final de la sesión usted será capaz de identificar qué areas estudia la economía y distinguir entre los problemas que atañen la rama de microeconomía y macroeconomía.
 
 
+### Subdisciplinas en economía. 
 
++ Microeconomía: 
+
+The study of how households and firms make decisions and how they interact in specific markets.
+
++ Macroeconomía: 
+
+The study of aggregate activity: Such as Production levels, inflation, employment.
+Es una cuestión de escala, en esta vertiente se estudian los grandes agregados.
 
 
 
@@ -48,15 +57,6 @@ Exprezarse sobre lo que deberia ser o lo que es bueno o malo no es una cuestión
 + **Positivo** Un enfoque descriptivo, es objetivo por definición. E indica los hechos. Es la base del análisis científico de economía.
 
 **Ejemplo:** La tasa de desempleo es del 9%*.
-
-
-
-
-
-
-
-
-
 
 
 ## Actividad 3  
