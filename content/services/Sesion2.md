@@ -181,7 +181,7 @@ Una representación **abstracta** de la realidad.
 
 Uno de los mecanísmos de análisis en economía es la construcción de modelos. 
 
-POr ejemplo 
+Por ejemplo un modelo básico del funcionamiento de la economía es:
 
 ![](/images/circular.jpg)
 *Source: Gregory Mankiw*
