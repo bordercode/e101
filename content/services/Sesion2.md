@@ -264,7 +264,7 @@ Lea el articulo y responda lo sigueinte:
 
 3.- ¿Cómo ejemplifica el autor un comportamiento de **busqueda de riesgo** en el *dominio de las perdidas* en la toma de decisiones sobre una apuesta? 
 
-4.- ¿Describa en que consiste el axioma de transitividad propuesto  Von Newman y Morgenstern?
+4.- ¿Describa en que consiste el axioma de transitividad propuesto por  **Von Newman y Morgenstern**?
 
 5. ¿En que consite el principio de invariabilidad? 
 
