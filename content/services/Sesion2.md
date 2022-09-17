@@ -35,6 +35,10 @@ c) Explicar el campo de estudio de la microeconomía y la macroeconomía.
 Al final de la sesión usted será capaz de identificar qué areas estudia la economía y distinguir entre los problemas que atañen la rama de microeconomía y macroeconomía.
 
 
+
+
+
+
 ## Los enfoques
 
 + **Normativo:** Involucra juicios de valor y depende de consideraciones éticas y perspectivas subjetivas de la realidad. Lo cual es útil en el terreno de diseño de política pública. Ejemplo: “Es injusto que los habitantes de Monterrey no tengan acceso a agua potable”
@@ -44,6 +48,16 @@ Exprezarse sobre lo que deberia ser o lo que es bueno o malo no es una cuestión
 + **Positivo** Un enfoque descriptivo, es objetivo por definición. E indica los hechos. Es la base del análisis científico de economía.
 
 **Ejemplo:** La tasa de desempleo es del 9%*.
+
+
+
+
+
+
+
+
+
+
 
 ## Actividad 3  
 
@@ -187,6 +201,43 @@ Por ejemplo un modelo básico del funcionamiento de la economía es:
 *Source: Gregory Mankiw*
 
 Los modelos se basan en **supuestos** y  estos parten de concepciones teóricas de la realidad que pueden o no ser verdaderos. 
+
+
+Un segundo modelo denominado frontera de posibilidades de producción permite resumir aspectos básicos del paradigma de análisis econímico. 
+
+La escasez expresada por la frontera de posibilidades de producción. 
+
+![](/img/PPF.jpg)
+*Source: Gregory Mankiw Principles of economics*
+
++ Note que las combinaciones de producción posibles se ubican dentro o sobre la curva (denominada frontera de posibilidades de producción).
+
++ Los puntos que componen la curva implican niveles de producción **eficientes** ya que representan el uso total de los recursos disponibles. Un escenario ineficiente se muestra por niveles de producción al interior de esta curva.
+
++ Importante notar que la pendiente de la **FPP** mide el **costo de oportunidad** y este varia dependiendo de la cantidad de producción de los bienes en la economía. No hay forma de producir más de un bien sin producir menos de otro. 
+
++ El costo de oportunidad en la FPP se expreza  por la **pendiente**. A medida que los recursos se dirigen a la producción de un bien derterminado, la producción de unidades adicionales tiene un un costo de oportnidad mayor.    
+
+Un escenario de producción fuera de la frontera no es asequible.
+
+La siguiente figura muestra que el modelo de la **FPP** no es estático, de hecho permite introducir un concepto muy importante: la **innovación tecnologica** que lleva al **crecimiento económico**  
+Ante la presencia de una **innovación tecnológica**, lo que permite alcanzar niveles superiores de producción ej. las posibilidades productivas se expaden y la relación de costos de oportunidad se ajusta. 
+
+![](/img/PPF2.jpg)
+*Source: Gregory Mankiw. Principles of economics* 
+
+En síntesis, en este modelo básico, vemos los siguientes conceptos fundamentales del instrumental económico: 
+
++ Escasez
++ Costos de oportunidad
++ Eficiencia
++ Crecimieto económico
+
+----------
+
+
+
+
 
 El problema del uso de supuestos para entender la realidad, es que, estos no siempre se cumplen, lo que implica que, es importante limitarlos a su estricto dominio factible, de lo contrario terminariamos generando **modelos** que en lugar de explicar la realidad generarían escenarios propios de la **ciencia ficción**. 
 
