@@ -268,6 +268,10 @@ Lea el articulo y responda lo sigueinte:
 
 5. ¿En que consite el principio de invariabilidad? 
 
+6. ¿En el ejemplo sobre el surgimiento de un "padecimiento Asiatico" que se menciona en página 343, parrafo 4columna 1 y parrafo 1  columna 2; El resultado se descibe como un escenario de aversión al riesgo o una situación de busqueda de riesgo?  Explique por que en cualquier caso. 
+
+
+
 **¿Qué papel tiene los experimientos en el análisis económico**
 
 A diferencia de otras ciencias, en la economía, la experimentación no es una fase del proceso ceintifico, tan común, por la simple razón de que los sujetos de estudio son individuos con cuya percepción de la realidad tiene un importante componente subjetivo. 
