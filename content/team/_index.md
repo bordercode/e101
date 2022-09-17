@@ -57,6 +57,8 @@ Fecha exposición de tema seleccionado: **Lunes 31 de Octubre. **
 [AI 2041 Ten visions for our future](https://drive.google.com/file/d/1Ow1DjyrV21YRIOmzSVl60aPGbrNJj3ef/view?usp=sharing)
 
 
-#### Actividades para Evaluación.
+## Tema para el debate. 
+
+## Temas pare el reporte de coyuntura económica. 
 
   
