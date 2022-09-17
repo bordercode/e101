@@ -50,7 +50,7 @@ Es una cuestión de escala, en esta vertiente se estudian los grandes agregados.
 
 ## Los enfoques
 
-+ **Normativo:** Involucra juicios de valor y depende de consideraciones éticas y perspectivas subjetivas de la realidad. Lo cual es útil en el terreno de diseño de política pública. Ejemplo: “Es injusto que los habitantes de Monterrey no tengan acceso a agua potable”
++ **Normativo:** Involucra juicios de valor y depende de consideraciones éticas y perspectivas subjetivas de la realidad. Lo cual es útil en el terreno de diseño de política pública. Ejemplo: “En América Latina es injusto que el ingreso se concentre en un porcentaje ínfimo de la población, mientras la mayoria vive en condiciones de extrema pobreza”
 
 Exprezarse sobre lo que deberia ser o lo que es bueno o malo no es una cuestión que se ubica en el terreno de la ciencia propiamente, ya que involucra un componente subjetivo que se deriva de las consideraciones éticas y valores del individuo que los hace e involucra juicios de valor.
 
