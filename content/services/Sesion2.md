@@ -253,7 +253,7 @@ Autor: **Daniel Kahneman y Amos Tversky** Economics Nobel prize winners.
 
 Impulsor del campo conocido como **Behavioral Economics**, una area particular del análisis en microeconomía. 
 
-Lea el articulo y responda lo sigueinte: 
+Lea el articulo (secciones intro y  *Framing of outcomes* ) y responda lo sigueinte: 
 
 [PDF](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwurJOcbZ/view?usp=sharing)
 
