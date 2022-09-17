@@ -15,7 +15,7 @@ title: Evaluación
 
 --------------------------------------------------------------------
 
-Fecha de exámenes: 
+### Fecha de exámenes: 
 
 > Examen 1: **Lunes 17 Octubre**
 
@@ -33,7 +33,6 @@ Fecha exposición de tema seleccionado:
 
 
 ## Carta descriptiva del curso [PDF](https://drive.google.com/file/d/1vjQKptKxNeFDfN8-TYTYTiLL-CQegwLR/view?usp=sharing)
-
 
 
 **Temas para exposición:**
