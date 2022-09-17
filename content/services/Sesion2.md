@@ -244,31 +244,30 @@ El problema del uso de supuestos para entender la realidad, es que, estos no sie
 
 Uno de los supuestos fundamentales en economía y particularmente en el subcampo de **MICROECONOMÍA**  es la **racionalidad** de los agentes. Es decir las decisiones que los individuos toman, se basan en un proceso de contraste de costo beneficio. 
 
+#### Actividad 7 
 
 Analicemos el siguiente artículo en donde se muestra por que los supuestos y en consecuencia los modelos, si bien útiles, para describir un fenómeno en economía en terminos teóricos, pueden y a menudo lo estan, alejados de la realidad.
 
 
-**Daniel Kahneman y Amos Tversky** Economics Nobel prize winners. 
+Autor: **Daniel Kahneman y Amos Tversky** Economics Nobel prize winners. 
 
-(Behavioral Economics).
+Impulsor del campo conocido como **Behavioral Economics**, una area particular del análisis en microeconomía. 
+
+Lea el articulo y responda lo sigueinte: 
+
+[PDF](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwurJOcbZ/view?usp=sharing)
 
 
+1.- ¿Que ejemplo paradigmático señalan los autores para referir una decisión que involucra riesgo? Y que ejemplo mencionan para indicar una decisión que no implica riesgo. 
 
-#### Actividad 7 
-
-
+2.- ¿Considerando el trabajo pionero de **Bernoulli** sobre el papel de la perspectiva sicológica en la toma de decisiones:  ¿Cómo ejemplifican los autores una decisión caracterizada por aversión al riesgo?
 
 **¿Qué papel tiene los experimientos en el análisis económico**
 
 A diferencia de otras ciencias, en la economía, la experimentación no es una fase del proceso ceintifico, tan común, por la simple razón de que los sujetos de estudio son individuos con cuya percepción de la realidad tiene un importante componente subjetivo. 
 
 
-No obstante, la experimentación se ha convertido en uno de los mecanismos de análisis mas importantes en campos como micro economía.  Un exponente notable de este campo es **Daniel Kahneman** y Vernon L. Smith. 
+No obstante, la experimentación se ha convertido en uno de los mecanismos de análisis mas importantes en campos como micro economía.  Un exponente notable de este campo es **Daniel Kahneman** 
 
 
-Lea el siguente articulo y responda las preguntas:
 
-
-¿Cómo ejemplifican los autores una decisión caracterizada por aversión al riesgo?
-
-[PDF](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwurJOcbZ/view?usp=sharing)
