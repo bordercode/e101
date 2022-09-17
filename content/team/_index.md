@@ -35,15 +35,15 @@ Fecha exposición de tema seleccionado:
 ## Carta descriptiva del curso [PDF](https://drive.google.com/file/d/1vjQKptKxNeFDfN8-TYTYTiLL-CQegwLR/view?usp=sharing)
 
 
-**Temas para exposición:**
+## Temas para exposición:
 
-1. Elasticidad de la demanda.
+### 1. Elasticidad de la demanda.
 
-**Determinantes dEl precio de la gasolina.**
+**Determinantes del precio de la gasolina.**
 
 **Funcionamiento de los mercados: Economía de la salud y el costo de los medicamentos.**
 
-2. Estructura de mercado: 
+### 2. Estructura de mercado: 
 
 **Oligopolio: La producción de cerveza en México.**
 
