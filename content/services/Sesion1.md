@@ -1,5 +1,5 @@
 ---
-date: "2022-06-18T12:33:46+10:00"
+date: "2022-09-16T12:33:46+10:00"
 draft: false
 featured: true
 title: 1. El surgimiento de la economía
