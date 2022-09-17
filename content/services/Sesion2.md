@@ -35,6 +35,16 @@ c) Explicar el campo de estudio de la microeconomía y la macroeconomía.
 Al final de la sesión usted será capaz de identificar qué areas estudia la economía y distinguir entre los problemas que atañen la rama de microeconomía y macroeconomía.
 
 
+## Los enfoques
+
++ **Normativo:** Involucra juicios de valor y depende de consideraciones éticas y perspectivas subjetivas de la realidad. Lo cual es útil en el terreno de diseño de política pública. Ejemplo: “Es injusto que los habitantes de Monterrey no tengan acceso a agua potable”
+
+Exprezarse sobre lo que deberia ser o lo que es bueno o malo no es una cuestión que se ubica en el terreno de la ciencia propiamente, ya que involucra un componente subjetivo que se deriva de las consideraciones éticas y valores del individuo que los hace e involucra juicios de valor.
+
++ **Positivo** Un enfoque descriptivo, es objetivo por definición. E indica los hechos. Es la base del análisis científico de economía.
+
+**Ejemplo:** La tasa de desempleo es del 9%*.
+
 ## Actividad 3  
 
 Observa el siguiente material y escribe un argumento (media cuartilla) sobre la imporancia de la interdependencia de los recursos que integran una economía.
@@ -171,6 +181,11 @@ Una representación **abstracta** de la realidad.
 
 Uno de los mecanísmos de análisis en economía es la construcción de modelos. 
 
+POr ejemplo 
+
+![](/images/circular.jpg)
+*Source: Gregory Mankiw*
+
 Los modelos se basan en **supuestos** y  estos parten de concepciones teóricas de la realidad que pueden o no ser verdaderos. 
 
 El problema del uso de supuestos para entender la realidad, es que, estos no siempre se cumplen, lo que implica que, es importante limitarlos a su estricto dominio factible, de lo contrario terminariamos generando **modelos** que en lugar de explicar la realidad generarían escenarios propios de la **ciencia ficción**. 
@@ -186,14 +201,9 @@ Analicemos el siguiente artículo en donde se muestra por que los supuestos y en
 
 (Behavioral Economics).
 
+
+
 #### Actividad 7 
-
-Lea el siguente articulo y responda las preguntas:
-
-
-¿Cómo ejemplifican los autores una decisión caracterizada por aversión al riesgo?
-
-
 
 
 
@@ -203,3 +213,11 @@ A diferencia de otras ciencias, en la economía, la experimentación no es una f
 
 
 No obstante, la experimentación se ha convertido en uno de los mecanismos de análisis mas importantes en campos como micro economía.  Un exponente notable de este campo es **Daniel Kahneman** y Vernon L. Smith. 
+
+
+Lea el siguente articulo y responda las preguntas:
+
+
+¿Cómo ejemplifican los autores una decisión caracterizada por aversión al riesgo?
+
+[PDF](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwurJOcbZ/view?usp=sharing)
