@@ -7,11 +7,25 @@ title: Evaluación
 
 # Criterios de evalaución.
 
-- Debate grupal Lunes 3 de octubre                     10%
-- Exposición de tema seleccionado (1) Lunes 24 10%
-- Reportes  de lectura   (5)          15%
-- Examenes  parciales    (3)          15%
-- Reporte  análisis de coyuntura económica (1) 20%  
+- Debate grupal                                        20%
+- Exposición de tema seleccionado                      15%
+- Reportes  de lectura   (5)                           20%
+- Examenes      (2)                                    25%
+- Reporte  análisis de coyuntura económica             20%  
+
+--------------------------------------------------------------------
+
+Fecha de exámenes: 
+
+> Examen 1: **Lunes 17 Octubre**
+
+> Examen 2: **Lunes 7 Noviembre**
+
+Fecha entrega de reporte de coyuntura económica:  **Lunes 31 de Octubre. **
+
+Fecha debate grupal:  **Lunes 10 de octubre**
+
+Fecha exposición de tema seleccionado: **Lunes 31 de Octubre. **
 
 
 ## Carta descriptiva del curso [PDF](https://drive.google.com/file/d/1vjQKptKxNeFDfN8-TYTYTiLL-CQegwLR/view?usp=sharing)
