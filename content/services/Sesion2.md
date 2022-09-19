@@ -110,7 +110,7 @@ Observa el siguiente material y escribe un argumento (media cuartilla) sobre la 
 
 ### Principios básicos que guían el análisis económico
 
-##### La noción de costo económico se integra por dos importantes conceptos: el costo de oportuniad y los  costos hundidos (*sunk cost*) .
+##### La noción de costo económico incluye el costo de oportuniad.
 
 **El costo de tomar decisiones:**  Cada decisión se acompaña de consecuencias y efectos implícitos o indirectos.  
 
@@ -130,16 +130,11 @@ En la toma de la decisión ¿el costo del lote o terreno deberá incluirse como 
 
 La respuesta desde el punto de vista del análisis económico es que el costo del lote debe de incluirse, ya que **la decisión de abrir la sucursal implica dejar de percibir un beneficio** o ingreso, por ejemplo, si en lugar de abrir la sucursal decide rentar el terreno.
 
-Ese ingreso que se deja de percibir cuando se toma la decisión de construir la nueva sucursal, es un costo, denominado **costo de oportunidad** y forma parte de los costos  totales en el balance de costo-beneficio asociado a la decisión.
-
-Un segundo concepto de importancia en el proceso de **toma de decisiones** en el contexto de economía, es el de **costo hundido**, este se define como una inversión en un activo que no tiene un uso alternativo. es un costo no recuperable que corresponde a un una inversión ya devengada.
-
-Por ejemplo el costo de entrenamiento de personal en una dependencia, por ejemplo si se invierte en capacitación 15000 usd para entrenar a un nuevo trabajador en el manejo de un software especializado y después del entrenamiento el personal no decide continuar en la dependencia. este es un costo ya devengado que no es recuperable y tampoco tiene un uso alternativo.
-
-**Desde el punto e vista de la toma de decisiones Los costos hundidos no deben ser conisderados para tomar decisiones económicas.** 
+Ese ingreso que se deja de percibir cuando se toma la decisión de construir la nueva sucursal, representa un costo, denominado **costo de oportunidad** y forma parte de los costos  totales en el balance de costo-beneficio asociado a la decisión.
 
 
-Considere el siguiente ejemplo e identifique cual es el costo de oportunidad y el costo hundido  (*sunk cost*) (ejemplos, costos en publicidad, en capacitación, en instalaciones en un proyecto productivo).
+
+Considere el siguiente ejemplo e identifique cual es el costo de oportunidad.
 
 Argumente en favor de uno de los dos implicados en la controversia.
 
@@ -172,9 +167,9 @@ Se convoca a la participación de un estudiante para explicar este fragmento de 
 
 
 
-En **síntesis.** La toma de desiciones en economía debe de considerar el costo de oportunidad y excluir los **costos hundidos**. 
+En **síntesis.** La toma de desiciones en economía debe de considerar el costo de oportunidad. 
 
-El costo económico difiere de los gastos realizados por que el primero **incluye costos** que no son explicitos y excluye asignación de recursos en costos hundidos.
+El costo económico difiere de los gastos realizados por que el primero **incluye costos** que no son explicitos.
 
 ###  Determinación del valor
 
