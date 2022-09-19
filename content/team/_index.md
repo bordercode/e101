@@ -65,7 +65,8 @@ El dinero como medio de intercambio. Bitcoin como sustituto actual del dinero.  
 [Estructura de mercado: Facebook META on Monopoly](https://www.youtube.com/watch?v=e8gN6G_DeYg)
 
 [Caso Monopolio: Amazon](https://www.youtube.com/watch?v=-IKSEVsHens)
-)
+
+[Monopilio Amazon Jeff Bezos](https://www.youtube.com/watch?v=RVVfJVj5z8s)
 
 [Bitcoin and crypto](file:///C:/Users/josel/Desktop/on/docencia/Semestre-2022-2/MAPDS/biblio/Applicaations/2020_micro_of%20crypto.pdf)
 
