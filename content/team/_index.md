@@ -62,9 +62,16 @@ Fecha exposición de tema seleccionado:
 
 El dinero como medio de intercambio. Bitcoin como sustituto actual del dinero.  Materiales de Referencia [Thank god for Bitconin](https://drive.google.com/file/d/16xCDFf9J5A2Vsur0rmqoGpH1DV-9oxss/view?usp=sharing)
 
+
+[Estructura de Mercado: Monopolio ](https://drive.google.com/file/d/1GYbt60-frwofKmlX1l3tspzausw14R-D/view?usp=sharing) See capitulo 5 pags. 69-85.
+
 [Estructura de mercado: Facebook META on Monopoly](https://www.youtube.com/watch?v=e8gN6G_DeYg)
 
 [Caso Monopolio: Amazon](https://www.youtube.com/watch?v=-IKSEVsHens)
+
+
+
+
 
 [Monopilio Amazon Jeff Bezos](https://www.youtube.com/watch?v=RVVfJVj5z8s)
 
