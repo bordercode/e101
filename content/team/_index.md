@@ -77,6 +77,14 @@ El dinero como medio de intercambio. Bitcoin como sustituto actual del dinero.  
 
 [Bitcoin and crypto](file:///C:/Users/josel/Desktop/on/docencia/Semestre-2022-2/MAPDS/biblio/Applicaations/2020_micro_of%20crypto.pdf)
 
+
+
++ Elasticidad de la demanda.
+
+El caso del consumo de mariguana ante su legalización en algunas regiones del mundo. 
+
+[Material de referencia sugerido](https://www.upo.es/revistas/index.php/RevMetCuant/article/view/2689)
+
 ## Tema para el debate. 
 
 La economia Chilena,  30 años de un paradigma de Mercado con libertad individual. 
