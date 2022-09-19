@@ -23,11 +23,11 @@ Conocer los campos de estudio de la economía.
 
 ##### Objetivos particulares: 
 
-a) Estudiar el paradigma que utiliza la ciencia económica para analizar los fenomenos sociales vinculados a la toma de decisiones en condiciones de escasez de recursos.
+a) Estudiar el paradigma que utiliza la ciencia económica para analizar los fenomenos sociales vinculados a la **toma de decisiones** en condiciones de **escasez de recursos.**
 
-b) Describir los métodos que los economistas desarrollan para explicar los fenómenos asociados a la toma de desiciones.
+b) Describir los **métodos** que los economistas desarrollan para explicar los fenómenos asociados a la toma de desiciones.
 
-c) Explicar el campo de estudio de la microeconomía y la macroeconomía.
+c) Explicar el campo de estudio de la **microeconomía** y la **macroeconomía**.
 
 
 ### Meta de la sesión: 
@@ -37,14 +37,57 @@ Al final de la sesión usted será capaz de identificar qué areas estudia la ec
 
 ### Subdisciplinas en economía. 
 
-+ Microeconomía: 
+#### Microeconomía 1776: 
 
-The study of how households and firms make decisions and how they interact in specific markets.
+El estudio de la toma de decisiones de empresas y hogares y su interacción en mercados específicos. 
 
-+ Macroeconomía: 
 
-The study of aggregate activity: Such as Production levels, inflation, employment.
+* Estrucutra de Competencia entre empresas en un  
+un segmento de mercado especifico.
+
++ Estructura de competencia en la provisión de 
+servicios públicos.
+
++ Variaciones del Precio del petróleo
+
++ Fijación de precios en la provisión de servicios publicos comoel abastecimiento de agua poteable en una ciudad.
+
++ Fallas del mercado o externalidades.
+
++ Costos de producción
+
++ Comercion internacional, libre comercio
+
++ Monopolio y regulación de la competencia.
+
+#### Macroeconomía 1936: 
+
+El estudio de la actividad agregada. Tal como los niveles de producción, inflación, desempleo.
+
 Es una cuestión de escala, en esta vertiente se estudian los grandes agregados.
+
+
++ Crecimiento en el Producto Interno Bruto. 
+Indicador principal para el desempeño productivo de un país.
+
++ Clicos economicos, Recesión o crecimiento.
+
++ Pobreza
+
++ Niveles de desempleo.
+
++ Politica Monetaria y Fiscal
++ Inflación
+
++ Balanza comercal.
+
++ Deficit público.
+
++ Inversión extranjera directa.
+
++ Distribución del ingreso percapita.
+
++ Fluctuaciones de la tasas de interés. Ej CETEs o T-BONDS
 
 
 
@@ -253,7 +296,7 @@ Autor: **Daniel Kahneman y Amos Tversky** Economics Nobel prize winners.
 
 Impulsor del campo conocido como **Behavioral Economics**, una area particular del análisis en microeconomía. 
 
-Lea el articulo (secciones intro y  *Framing of outcomes* ) y responda lo sigueinte: 
+Lea el articulo (secciones intro y  *Framing of outcomes* ) y responda lo siguiente: 
 
 [PDF](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwurJOcbZ/view?usp=sharing)
 
