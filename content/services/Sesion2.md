@@ -110,7 +110,7 @@ Observa el siguiente material y escribe un argumento (media cuartilla) sobre la 
 
 ### Principios básicos que guían el análisis económico
 
-##### LA noción de costo economico se integra por dos importantes conceptos el costo de oportuniad y el costo el sunk cost.
+##### La noción de costo económico se integra por dos importantes conceptos el costo de oportuniad y el costo el sunk cost.
 
 **El costo de tomar decisiones:**  Cada decisión se acompaña de consecuencias y efectos implícitos o indirectos.  El ejemplo clásico es la asignación del tiempo. Dado que el tiempo es un recurso escaso, cuando lo asignamos a una determinada actividad, implicitamente estamos incurriendo en el rechazo de asignaciones alternativas. 
 
