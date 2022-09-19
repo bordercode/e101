@@ -5,7 +5,7 @@ intro_image_hide_on_mobile: false
 title: Evaluación
 ---
 
-# Criterios de evalaución.
+# Criterios de evaluación.
 
 > Debate grupal                                        20%    
 > Exposición de tema seleccionado                      15%     
