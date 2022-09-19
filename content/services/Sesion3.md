@@ -28,6 +28,10 @@ Pues bien, su cuerva de demadna se integra considerando estos escenarios de su d
 
 La forma de la curva refleja el hecho de que el **consumo de unidades sucesivas** de un bien, reporta una utilidad cada vez menor.  
 
+
+![](/images/demandacurve.jpg)
+
+
 Este comportamiento explica el concepto de **utilidad marginal decreciente**
 
 
