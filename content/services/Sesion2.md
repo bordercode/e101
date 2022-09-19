@@ -110,30 +110,38 @@ Observa el siguiente material y escribe un argumento (media cuartilla) sobre la 
 
 ### Principios básicos que guían el análisis económico
 
-##### La noción de costo económico se integra por dos importantes conceptos el costo de oportuniad y el costo el sunk cost.
+##### La noción de costo económico se integra por dos importantes conceptos: el costo de oportuniad y los  costos hundidos (*sunk cost*) .
 
-**El costo de tomar decisiones:**  Cada decisión se acompaña de consecuencias y efectos implícitos o indirectos.  El ejemplo clásico es la asignación del tiempo. Dado que el tiempo es un recurso escaso, cuando lo asignamos a una determinada actividad, implicitamente estamos incurriendo en el rechazo de asignaciones alternativas. 
+**El costo de tomar decisiones:**  Cada decisión se acompaña de consecuencias y efectos implícitos o indirectos.  
 
-El valor de estas alternativas, puede definirse como el costo oculto, un costo que no se ve en primera instancia y que se ha denominado en el argot de la ciencia económica como el **costo de oportunidad**. 
+El **ejemplo clásico** es la asignación del tiempo. Dado que el tiempo es un recurso escaso, cuando lo asignamos a una determinada actividad, implicitamente estamos incurriendo en el rechazo de asignaciones alternativas. 
 
-Esta nación es importante por que nos hace reflexionar sobre el hecho de que nuestras decisiones tiene costos y estos pueden ser tangibles, visibles, directos o bien pueden ser intagibles o estar ocultos. Estos son referidos en lenguaje de economía como **costos de oportunidad.**
+El valor de estas alternativas, puede definirse como el costo oculto, un costo que no se ve en primera instancia y que se ha denominado en la ciencia económica, como el **costo de oportunidad**. 
 
+Esta nación es importante por que nos hace reflexionar sobre el hecho de que nuestras decisiones tiene costos y estos pueden ser tangibles, visibles, directos o bien pueden ser intagibles o estar ocultos. 
 
+Estos son referidos en lenguaje de economía como **costos de oportunidad.**
 
 Una manera equivalente para definir el costo de oportunidad es en términos del **beneficio que se deja de percibir por no aplicar los recursos al mejor uso alternativo.**
 
-Por **ejemplo** suponga que la compañia X es dueña de un terreno en el centro de la ciudad de Guadalajara y planea usar este lote para la construcción de una nueva sucursal. En la toma de la decisión el costo de lote o terreno deberá incluirse como parte de los costos?  **Note que la empresa ya es dueña del lote, no lo tiene que comprar.** 
+Por **ejemplo** suponga que la compañia X es dueña de un terreno en el centro de la ciudad de Guadalajara y planea usar este lote para la construcción de una nueva sucursal.
 
-La respuesta desde el punto de vista del análisis economico es que el costo del lote debe de incluirse, ya que **la decisión de abrir la sucursal imlica dejar de percibir un beneficio** o ingreso por ejemplo si en lugar de abrir la sucursal decide rentar el terreno.
+En la toma de la decisión ¿el costo del lote o terreno deberá incluirse como parte de los costos?  **Note que la empresa ya es dueña del lote, no lo tiene que comprar.** 
 
-Ese ingreso que se deja de percibir cuando se toma la decisión de construir la nueva sucursal, es un costo, denominado **costo de oportunidad** y forma parte de los costos  totales en el balance de costo beneficio asociado a la decisión.
+La respuesta desde el punto de vista del análisis económico es que el costo del lote debe de incluirse, ya que **la decisión de abrir la sucursal implica dejar de percibir un beneficio** o ingreso, por ejemplo, si en lugar de abrir la sucursal decide rentar el terreno.
 
-Un segundo concepto de importancia en el proceso de **toma de decisiones** en el contexto de economía es el de **costo retrospectivo** corresponde a una inversión en un activo que no tiene un uso alternativo.  Por ejemplo el costo de entrenamiento de personal en una dependencia, por ejemplo si se invierte en capacitación 15000 usd para entrenar a un nuevo trabajador en el manejo de un software especializado y despues del entrenamiento el personal no decide continuar en la dependencia. este es un costo ya devengado que no es recuperable y tampoco tiene un uso alternativo.
+Ese ingreso que se deja de percibir cuando se toma la decisión de construir la nueva sucursal, es un costo, denominado **costo de oportunidad** y forma parte de los costos  totales en el balance de costo-beneficio asociado a la decisión.
+
+Un segundo concepto de importancia en el proceso de **toma de decisiones** en el contexto de economía, es el de **costo hundido**, este se define como una inversión en un activo que no tiene un uso alternativo. es un costo no recuperable que corresponde a un una inversión ya devengada.
+
+Por ejemplo el costo de entrenamiento de personal en una dependencia, por ejemplo si se invierte en capacitación 15000 usd para entrenar a un nuevo trabajador en el manejo de un software especializado y después del entrenamiento el personal no decide continuar en la dependencia. este es un costo ya devengado que no es recuperable y tampoco tiene un uso alternativo.
 
 **Desde el punto e vista de la toma de decisiones Los costos hundidos no deben ser conisderados para tomar decisiones económicas.** 
 
 
 Considere el siguiente ejemplo e identifique cual es el costo de oportunidad y el costo hundido  (*sunk cost*) (ejemplos, costos en publicidad, en capacitación, en instalaciones en un proyecto productivo).
+
+Argumente en favor de uno de los dos implicados en la controversia.
 
 ![](/images/sunk_cost.jpg)
 
@@ -160,6 +168,13 @@ Se convoca a la participación de un estudiante para explicar este fragmento de 
 - ¿Cuales son los efectos que no se ven en este caso?
 
 ¿En su opinión en qué caso la sociedad se encuentra en una mejor posición?
+
+
+
+
+En **síntesis.** La toma de desiciones en economía debe de considerar el costo de oportunidad y excluir los **costos hundidos**. 
+
+El costo económico difiere de los gastos realizados por que el primero **incluye costos** que no son explicitos y excluye asignación de recursos en costos hundidos.
 
 ###  Determinación del valor
 
