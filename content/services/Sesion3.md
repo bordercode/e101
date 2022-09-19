@@ -31,7 +31,10 @@ La forma de la curva refleja el hecho de que el **consumo de unidades sucesivas*
 Este comportamiento explica el concepto de **utilidad marginal decreciente**
 
 
-Cuando nos referimos al margen, estamos hablando de la unidad adicional. 
+Cuando nos referimos a una unidad adicional hacemos referencia al **consumo marginal**, y el beneficio que esta unidad adicional nos reporta lo definimos como **la utilidad marginal**.
+
+
+-------------------------------------
 
 La empresa es la unidada básica de una industria. 
 
