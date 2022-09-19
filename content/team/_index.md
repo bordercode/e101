@@ -62,7 +62,10 @@ Fecha exposición de tema seleccionado:
 
 El dinero como medio de intercambio. Bitcoin como sustituto actual del dinero.  Materiales de Referencia [Thank god for Bitconin](https://drive.google.com/file/d/16xCDFf9J5A2Vsur0rmqoGpH1DV-9oxss/view?usp=sharing)
 
+[Estructura de mercado: Facebook META on Monopoly](https://www.youtube.com/watch?v=e8gN6G_DeYg)
 
+[Caso Monopolio: Amazon](https://www.youtube.com/watch?v=-IKSEVsHens)
+)
 
 [Bitcoin and crypto](file:///C:/Users/josel/Desktop/on/docencia/Semestre-2022-2/MAPDS/biblio/Applicaations/2020_micro_of%20crypto.pdf)
 
