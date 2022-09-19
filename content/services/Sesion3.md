@@ -60,7 +60,7 @@ La curva de demanda para un mercado particular es entonces una relación inversa
 **Figura 2.** Curva de demanda del mercado.
 
 
-
+**Note:** la relación inversa entre  p y q: Observamos el area correspondiente al concpeto de excedente del consumidor como el area bajo la curva de demanda, (*en términos de un rango específico podemos usnado calcuo integral encontrar el valor de esa area de manera precisa*)
 
 
 -------------------------------------
