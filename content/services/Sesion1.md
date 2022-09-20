@@ -258,3 +258,5 @@ Un objetivo de justificación moral para la forma de operar de la sociedad en el
 Para **Joan Robinson** (1903-1983. una economista identificada con la tradición keynesiana. Una escuela de pensamiento denominada en honor a **John Maynard Keynes**, identificado como base de la vertiente de estudio que hoy conocemos como **Macroeconomía**, que estudia grandes agregados economicos como la producción, el movimiento de los precios o el empleo.):
 
 *"One of the main effects (I will not say purposes) of orthodox traditional economics was ... a plan for explaining to the privileged class that their position was morally right and was necessary for the welfare of society.*
+
+

@@ -50,13 +50,13 @@ servicios públicos.
 
 + Variaciones del Precio del petróleo
 
-+ Fijación de precios en la provisión de servicios publicos comoel abastecimiento de agua poteable en una ciudad.
++ Fijación de precios en la provisión de servicios publicos como el abastecimiento de agua poteable en una ciudad.
 
 + Fallas del mercado o externalidades.
 
 + Costos de producción
 
-+ Comercion internacional, libre comercio
++ Comercio internacional, libre comercio
 
 + Monopolio y regulación de la competencia.
 
@@ -70,32 +70,32 @@ Es una cuestión de escala, en esta vertiente se estudian los grandes agregados.
 + Crecimiento en el Producto Interno Bruto. 
 Indicador principal para el desempeño productivo de un país.
 
-+ Clicos economicos, Recesión o crecimiento.
++ Ciclos económicos, recesión o crecimiento.
 
 + Pobreza
 
 + Niveles de desempleo.
 
-+ Politica Monetaria y Fiscal
++ Política Monetaria y Fiscal
+
 + Inflación
 
 + Balanza comercal.
 
-+ Deficit público.
++ Déficit público.
 
 + Inversión extranjera directa.
 
-+ Distribución del ingreso percapita.
++ Distribución del ingreso per cápita.
 
 + Fluctuaciones de la tasas de interés. Ej CETEs o T-BONDS
-
 
 
 ## Los enfoques
 
 + **Normativo:** Involucra juicios de valor y depende de consideraciones éticas y perspectivas subjetivas de la realidad. Lo cual es útil en el terreno de diseño de política pública. Ejemplo: “En América Latina es injusto que el ingreso se concentre en un porcentaje ínfimo de la población, mientras la mayoria vive en condiciones de extrema pobreza”
 
-Exprezarse sobre lo que deberia ser o lo que es bueno o malo no es una cuestión que se ubica en el terreno de la ciencia propiamente, ya que involucra un componente subjetivo que se deriva de las consideraciones éticas y valores del individuo que los hace e involucra juicios de valor.
+Expresarse sobre lo que deberia ser o lo que es bueno o malo, no es una cuestión que se ubica en el terreno de la ciencia propiamente, ya que involucra un componente subjetivo que se deriva de las consideraciones éticas y valores del individuo que los hace e involucra juicios de valor.
 
 + **Positivo** Un enfoque descriptivo, es objetivo por definición. E indica los hechos. Es la base del análisis científico de economía.
 
