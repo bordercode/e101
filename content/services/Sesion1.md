@@ -87,21 +87,30 @@ Un exponente emblemático
 
 + **Jean Francois Quesnay**.   
 
-Si tenemos que asociar un término o un slogan que describa esta corriene de pensamiento sería: 
-**"laissez faire, laissez passer"**
+Si tenemos que asociar un término o un **slogan** que describa esta corriene de pensamiento sería: 
+#### "laissez faire, laissez passer" 
+(Dejar hacer, dejar pasar)
 
 ## Economistas clásicos:
 
 - **Jean Baptiste Say**. Francés (1767-1832). Oferta y demanda como determinantes del valor. 
 
-Defensor del Libre comercio.
+**Defensor del Libre comercio.**
 
 
-Contraste a la teoría de trabajo como fuente del valor. Uno de sus planteamiento más difundidos: **Ley de Say.** La oferta crea su propia demanda. O en otros términos se ejemplifica el flujo circular donde la producción genera ingresos que a su vez permiten la demanda de nuevos bienes.
+Contraste a la teoría de trabajo como fuente del valor. Uno de sus planteamiento más difundidos: **Ley de Say.** 
+
+#### "La oferta crea su propia demanda". 
+
+O en otros términos se ejemplifica el **flujo circular** donde la producción genera ingresos que a su vez permiten la demanda de nuevos bienes.
 
 - **David Ricardo**  Un judío (ibérico  e.i, Sefardita)  
 
-que para hacer honor a esta característica logró generar una fortuna considerable (1772-1823): Escritor del periodo clásico, que aportó ideas que resultan el fundamento de lo que hoy conocemos como **MACROECONOMIA**
+#### Teoria del valor en base al trabajo.
+
+que para hacer honor a esta característica logró generar una fortuna considerable (1772-1823): 
+
+Escritor del periodo clásico, que aportó ideas que resultan el fundamento de lo que hoy conocemos como **MACROECONOMIA**
 
 
 Entre otros postulados, Ricardo plantea que el **VALOR** se deriva del **TRABAJO**, un planteamiento que hoy se reconoce como equivocado sobre todo considerando el concepto de utilidad subjetiva que se asocia con la escasez, Ej. **la paradoja del agua y los diamantes**.
