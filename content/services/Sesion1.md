@@ -201,8 +201,17 @@ Por ejemplo, hoy corporaciones con presencia global como **Amazon**, que tienen 
 En su opinión hasta que punto esta tendencia es consistente con el siguiente argumento expuesto en la lectura  *In the past 40 years, across the rich world trade unions have gone into retreat, with fewer and fewer workers represented by one... "Marx, from a materialist perspective, might look at how the structure of the economy had changed. He might point to the disappearance of big factories and mines, which were once the heartlands of unionism."*
 
 
-3.-
+3.-Acorde con la lectura, Una de las frases famosas de Marx en el contexto de la organización laboral es "Workers of all lands, unite" Y en efecto es un llamado muy atractivo!
 
+En las ciudades de la  frontera norte y en particualr en Cd, Juarez la industria maquiladora define  las relaciones laborales de una parte importante de la sociedad.
+
+¿Considera que la capacidad de organización idependiente es un elemento valioso o factibel en el contexto de la industria mmaquiladora?
+
+**Bonus:** 
+
+Recomendación para el fin de semana. [Dr. Zhivago. Una época de cambios en la estructura económica en Europa:](https://www.youtube.com/watch?v=xulg9QcwRXM&t=12120s)
+
+Identifica alguna similitud de los personajes con el estilo *rabble-rouser*  que caracteriza la lectura sobre la capacidad discursiva de Marx? 
 
 ### Actividad 2
 
