@@ -160,7 +160,7 @@ Por cierto, ¿cuál es la raíz etimológica? ¿de donde proviene la palabra eco
 
 *oîkos* ‘casa’ y *nomós* ‘reglas. Del griego  **oikonomós** Dirección o administración de una casa.
 
-## Vínculo con otras disciplinas del concimiento.
+## Vínculo con otras disciplinas del conocimiento.
 
 Un elemento central de este campo de estudio es la **toma de decisiones** En esta perspectiva, la economía tiene una relación importante con la **sicología**. 
 
