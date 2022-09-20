@@ -228,25 +228,20 @@ Para **Joan Robinson** (1903-1983. una economista identificada con la tradición
 
 **Tarea** para discusión en clase 2. 
 
-Estudie el siguiente material audiovisual sobre el liberalismo y conteste las preguntas que se hacen a continuación:  
+Estudie el siguiente material respecto a uno de los pesnadores en economia de mayor influencia. Y responda las siguientes preguntas: 
 
-[El liberalismo](https://youtu.be/MiF5tI38lW0)
-
-
-**Preguntas:**
-
-1. ¿Considera ud. que el liberalismo es una ideología? 
+[Karl Marx](https://drive.google.com/file/d/1mPBFi4-r3qlY0PiAZH1VGqjodxy66tvR/view?usp=sharing)
 
 
-2. Por qué considera que es importante conocer los planteamientos del liberalismo  para el estudio de economía?
+1- De acuerdo con la Lectura **Marx** planteó: *"that material circumstances determined things like ideas and social structure. (The extent to which Marx actually believed that the “base” determines the “superstructure” is one of the longest-running arguments in Marxist scholarship.)"*
+
+1.- En su opinión, hasta qué punto considera que este planteamiento esta vigente y cómo influeyen las **ideas** en la configuración de la estrucutra económica de una sociedad.
+
+2.-Considere el papel de los sindicatos en cuanto a la **organización del trabajo** en contraste con los planteamientos sobre la estrucutra de la economía que se discute en el texto  desde la perspectiva de las ideas de Marx.
+
+Por ejemplo, hoy corporaciones con presencia global como **Amazon**, que tienen más de 600 000  empleados  y un gran número de ellos laboran en los denominados *Fulfillment centers* (bodegas de distribución), no fomentan abiertamente la participación de sus trabajadores en Sindicatos.
 
 
+En su opinión hasta que punto esta tendencia es consistente con el siguiente argumento expuesto en la lectura  *In the past 40 years, across the rich world trade unions have gone into retreat, with fewer and fewer workers represented by one... "Marx, from a materialist perspective, might look at how the structure of the economy had changed. He might point to the disappearance of big factories and mines, which were once the heartlands of unionism."*
 
-3. ¿Cuándo, dónde y porqué surge el concepto de liberalismo, deacuerdo con el presentador? 
-
-
-4. En su opinión que papel tiene el mercado para la asignación de los recursos en la sociedad y que papel debe tener el gobierno?
-
-
-5. ¿Cómo entendemos la eficiencia?
 
