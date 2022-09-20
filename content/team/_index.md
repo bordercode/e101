@@ -91,4 +91,8 @@ La economia Chilena,  30 años de un paradigma de Mercado con libertad individua
 
 ## Temas pare el reporte de coyuntura económica. 
 
+1. La maquiladora en la frontera norte de Mexico, localización estrategica, costos de mano de obra. Empleos precarios? 
+
+
+
   

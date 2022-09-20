@@ -14,21 +14,21 @@ Recuerda que nuestra sesiones se llevan  a cabo los dias:
 | Lunes 19  | 3 pm   -    5pm |
 | Mié 21    | 3 pm   -    5pm |
 | Viernes 23| 12 am   -   2pm |
-| Lunes 26  | 3 pm   -    5pm |
+| Lunes 26  | 4 pm   -    6pm |
 
 **Octubre**
 
 | Día       | Horario         |
 | --------- | --------------- |
-| Lunes 3   | 3 pm   -    5pm |
-| Lunes 10  | 3 pm   -    5pm |
-| Lunes 17  | 3 pm   -    5pm |
-| Lunes 24  | 3 pm   -    5pm |
-| Lunes 31  | 3 pm   -    5pm |
+| Lunes 3   | 4 pm   -    6pm |
+| Lunes 10  | 4 pm   -    6pm |
+| Lunes 17  | 4 pm   -    6pm |
+| Lunes 24  | 4 pm   -    6pm |
+| Lunes 31  | 4 pm   -    6pm |
 
 **Noviembre** 
 | Día       | Horario         |
 | --------- | --------------- |
-| Lunes  7  | 3 pm   -    5pm |
+| Lunes  7  | 4 pm   -    6pm |
 
 
