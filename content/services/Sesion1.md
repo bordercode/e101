@@ -62,9 +62,11 @@ En el mercantilismo, el **comercio exterior** y particularmente el excedente en 
 
 ![](/images/mercantil2.jpg)
 
-En este contexto se tiene una activa  **intervención del gobierno**. Hay que recordar que la forma de gobierno en Europa en ese momento era la **Monarquía absoluta**, (con excepción de **Inglaterra** donde se tenía una monarquía parlamentaria, digamos que esto permitía un contra peso y un escenario más "democrático" en ese país).
+En este contexto se tiene una activa  **intervención del gobierno**. Hay que recordar que la forma de gobierno en **Europa** en ese momento era la **Monarquía absoluta**, (con excepción de **Inglaterra** donde se tenía una **monarquía parlamentaria**, digamos que esto permitía un contra peso y un escenario más **"democrático"** en ese país).
 
-En este periodo era natural una **intervención gubernamental** muy intensa y esta participación generalmente favorecía a los intereses de los grupos de comerciantes en posiciones de administración gubernamental. 
+En este periodo era natural una **intervención gubernamental** muy intensa y esta participación generalmente **favorecía a los intereses de los grupos de comerciantes** en posiciones de administración gubernamental. 
+
+**Adam Smith** aborda en su obra maestra unA crítica a ese sistema comercial.
 
 ## Fisiocracia: 1700-1800
 
