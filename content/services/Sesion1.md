@@ -184,7 +184,7 @@ Los **individuos** que integran las **sociedades** llevan a cabo procesos de tom
 
 
 
-Lea el siguiente material sobre la obra de uno de  los autores  de mayor controversén en el estudio de economía. Y responda las siguientes preguntas: 
+Lea el siguiente material sobre la obra de uno de  los autores  de mayor controversia en el estudio de economía. Y responda las siguientes preguntas: 
 
 [Karl Marx](https://drive.google.com/file/d/1mPBFi4-r3qlY0PiAZH1VGqjodxy66tvR/view?usp=sharing)
 
