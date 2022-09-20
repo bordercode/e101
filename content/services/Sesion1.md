@@ -128,8 +128,10 @@ Importante notar la influencia de autores como **Jeremy Betham** en el desarroll
 
 *Arete Madre de Aristipo, reconocido por desarrollar la escuela de Hedonismo. (435 a. C. - 350 a. C.)*
 
-#### "He famously held that humans were ruled by two sovereign masters — pleasure and pain."
++ Jeremy Bentham 
 
+
+#### " famously held that humans were ruled by two sovereign masters — pleasure and pain."
 
 *We seek pleasure and the avoidance of pain, they “…govern us in all we do, in all we say, in all we think…” (Bentham PML, 1)*
 
