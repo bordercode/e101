@@ -130,55 +130,62 @@ Importante notar la influencia de autores como **Jeremy Betham** en el desarroll
 
 + Jeremy Bentham 
 
-
 #### " famously held that humans were ruled by two sovereign masters — pleasure and pain."
 
 *We seek pleasure and the avoidance of pain, they “…govern us in all we do, in all we say, in all we think…” (Bentham PML, 1)*
 
 *He also promulgated the principle of utility as the standard of right action on the part of governments and individuals. Actions are approved when they are such as to promote happiness, or pleasure, and disapproved of when they have a tendency to cause unhappiness, or pain (PML).* 
 
-Nota: *Combine this criterion of*  **rightness** *with a view that we should be actively trying to promote overall happiness, and one has a serious incompatibility with psychological egoism.*
+Pregunta para refleconar entorno al tema:
 
-¿Qué pasa si la búsqueda de mi utilidad es incompatible con aquella de los otros? En otras palabras: ¿Es consistente la búsqueda del bienestar o utilidad de  los otros con mi propio proceso de obtención de utilidad. por definición el egoísmo (sicológico) que me lleva a obtener mi beneficio puede ser incompatible  o potecialmente tiene la capacidad de  previr alcanzar el beneficio de otros.
+¿Qué pasa si la búsqueda de mi utilidad es incompatible con aquella de los otros? 
 
+En otras palabras: **¿Es consistente la búsqueda del bienestar o utilidad de  los otros con mi propio proceso de obtención de utilidad?**. 
 
-*El objetivo de la vida es la maximización de la felicidad!* Y claro obtener el mayor bienestar posible no excluye el bienestar general. *"we ought to maximize the good, that is, bring about ‘the greatest amount of good for the greatest number"*
-
-Una aproximación en el terreno de la ética y la moral. Donde se debatían cuestiones como  determinar las acciones apropiadas de los individuos y se razona que es moralmente apropiado no dañar a los "otros".
-
-Por el contrario buscar el beneficio propio y el de los demás es deseable y en la lógica de **Mill** el beneficio o utiliad individual a menudo se relaciona con el placer. Una idea con influencia  clara de Hedonismo.
+Por definición el **egoísmo (sicológico)** que me lleva a obtener mi beneficio puede ser incompatible o potecialmente tiene la capacidad de  previr alcanzar el beneficio de otros.
 
 
-Antes de continuar con las particularidades de los rasgos históricos de los principales antecedentes de la economía como campo formal de estudio, es importante precisar entonces que la **ECONOMÍA** se ubica dentro de las **ciencias sociales** por lo tanto, intervienen en ella el comportamiento de los individuos y su forma de organizarse. 
+*El objetivo de la vida es la maximización de la felicidad!* Y claro obtener el mayor bienestar posible no excluye el bienestar general. 
+
+**"we ought to maximize the good, that is, bring about ‘the greatest amount of good for the greatest number"**
+
+Una aproximación en el terreno de la **ética y la moral**. Donde se debatían cuestiones como  determinar las acciones apropiadas de los individuos y **se razona que es moralmente apropiado no dañar a los "otros".**
+
+Por el contrario buscar **el beneficio propio y el de los demás es deseable y en la lógica de **Mill** el beneficio o utiliad individual a menudo se relaciona con el placer. Una idea con influencia  clara de Hedonismo.
+
+
+Antes de continuar con las particularidades de los rasgos **históricos de los principales antecedentes de la economía como campo formal de estudio**, es importante precisar entonces que la **ECONOMÍA** se ubica dentro de las **ciencias sociales** por lo tanto, intervienen en ella el comportamiento de los individuos y **su forma de organizarse**. 
 
 Por cierto, ¿cuál es la raíz etimológica? ¿de donde proviene la palabra economía?
 
 *oîkos* ‘casa’ y *nomós* ‘reglas. Del griego  **oikonomós** Dirección o administración de una casa.
 
+## Vínculo con otras disciplinas del concimiento.
+
 Un elemento central de este campo de estudio es la **toma de decisiones** En esta perspectiva, la economía tiene una relación importante con la **sicología**. 
 
-Uno de los **supuestos** principales de este campo de estudio es la **racionalidad** es decir, que los individuos son capaces de diferenciar entre sus preferencias aquellas que les reportan mayor grado de satisfacción. 
+Uno de los **supuestos** principales de este campo de estudio es la **racionalidad** es decir, que los individuos son capaces de diferenciar entre sus preferencias aquellas que les reportan mayor grado de utilidad o beneficio. 
 
-Formalmente las **decisiones** implican distintos niveles de satisfacción. 
+Formalmente las **decisiones** implican distintos niveles de **utilidad**. 
 
 Una manera alternativa de referirnos a esta idea es mediante el concepto de **utilidad**.  acorde con los autores clásicos, la Utilidad se puede definir como la satisfaccion o el beneficio que se obtiene derivado de una decisión. Por ejemplo una decisión de consumo.  
 
 
-Esta idea de la **utilidad** forma una base de la teoría microeconomíca y plantea un problema fundamental. ¿Cómo medirla? 
+Esta idea de la **utilidad** forma una base de la teoría microeconomíca y plantea un problema fundamental. **¿Cómo medirla?** 
 
-Para autores clásicos la **utilidad** es de hecho tan abstracta que se puede definir como un concepto metafísico de circularidad impenetrable. 
-En otras palabras la utilidad es un concepto tan impreciso, ambiguo y subjetivo como la imaginación lo permita. 
+Para autores clásicos la **utilidad**  es un concepto bastracto que implica u ncierto grado de subjetividad.
 
 
 Los **individuos** que integran las **sociedades** llevan a cabo procesos de toma de decisiones considerando las restricciones presupuestales que impone el fenómeno de la **escasez** 
 
+### Actividad 1
 
 **Actividad:** Observe el siguiente material y redacte  un argumento sobre la importancia de la obra de Adam Smith.
 
 [Adam Smith](https://youtu.be/xSPYTUcf6Bc)
 
 
-### Actividad 1
+
 
 Responda los siguientes cuestionamientos. 
 
