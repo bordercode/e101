@@ -68,17 +68,24 @@ En este periodo era natural una **intervención gubernamental** muy intensa y es
 
 **Adam Smith** aborda, en su obra maestra, una crítica a ese sistema comercial.
 -------------------------------------
+
 ## Fisiocracia: 1700-1800
 
-(del griego gobierno de la naturaleza). En este periodo, la **agricultura** se percibió como fuente de riqueza y actividad fundamental para el bienestar y desarrollo de la sociedad. 
+(del griego gobierno de la **naturaleza**). En este periodo, la **agricultura** se percibió como **fuente de riqueza** y actividad fundamental para el bienestar y desarrollo de la sociedad. 
 
-Un argumento central es que el balance entre los insumos y el producto generado permiten un **excedente** que posibilita la creación de riqueza.  Para una discusión detallada de este argumento véase el trabajo de Anne Robert Jacques Turgot, **Turgot** : *Reflexions sur la formation et la distribution des richesses*  de 1766.
+Un argumento central es que el balance entre los insumos y el producto generado por la **agricultura**, permiten un **excedente** que posibilita la creación de riqueza.
 
-Dado que **la naturaleza** era el pilar conceptual, entonces podemos compreder que la agricultura, siendo una actividad inherentemente relacionada con la naturaleza, sea la actividad que tiene para esta corriente de pensamiento, la mayor importancia para el **sistema económico**. 
+Para una discusión detallada de este argumento véase el trabajo de **Anne Robert Jacques Turgot**, **Turgot**: 
+
+*Reflexions sur la formation et la distribution des richesses*  de 1766.
+
+Dado que **la naturaleza** era el pilar conceptual, entonces podemos compreder que **la agricultura**, siendo una actividad inherentemente relacionada con la naturaleza, sea la actividad que tiene para esta corriente de pensamiento, **la mayor importancia** para el **sistema económico**. 
 
 ![Agricultura](/images/agri.jpg)
 
-Un exponente emblemático**Jean Francois Quesnay**.   
+Un exponente emblemático
+
++ **Jean Francois Quesnay**.   
 
 Si tenemos que asociar un término o un slogan que describa esta corriene de pensamiento sería: 
 **"laissez faire, laissez passer"**
