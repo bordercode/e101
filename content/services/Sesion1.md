@@ -245,3 +245,4 @@ Por ejemplo, hoy corporaciones con presencia global como **Amazon**, que tienen 
 En su opinión hasta que punto esta tendencia es consistente con el siguiente argumento expuesto en la lectura  *In the past 40 years, across the rich world trade unions have gone into retreat, with fewer and fewer workers represented by one... "Marx, from a materialist perspective, might look at how the structure of the economy had changed. He might point to the disappearance of big factories and mines, which were once the heartlands of unionism."*
 
 
+3.-
