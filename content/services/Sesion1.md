@@ -182,36 +182,43 @@ Los **individuos** que integran las **sociedades** llevan a cabo procesos de tom
 
 ### Actividad 1
 
-
-
-Lea el siguiente material sobre la obra de uno de  los autores  de mayor controversia en el estudio de economía. Y responda las siguientes preguntas: 
+Analice el siguiente material sobre la obra de uno de  los autores  de mayor controversia en el estudio de economía. Y responda las siguientes preguntas: 
 
 [Karl Marx](https://drive.google.com/file/d/1mPBFi4-r3qlY0PiAZH1VGqjodxy66tvR/view?usp=sharing)
 
 
 1- De acuerdo con la Lectura **Marx** planteó: *"that material circumstances determined things like ideas and social structure. (The extent to which Marx actually believed that the “base” determines the “superstructure” is one of the longest-running arguments in Marxist scholarship.)"*
 
-1.- En su opinión, hasta qué punto considera que este planteamiento esta vigente y cómo influyen las **ideas** en la configuración de la estructUra económica de una sociedad.
+1.- En su opinión, hasta qué punto considera que este planteamiento está vigente y cómo influyen las **ideas** en la configuración de la estructUra económica de una sociedad.
 
 2.-Considere el papel de los sindicatos en cuanto a la **organización del trabajo** en contraste con los planteamientos sobre la estrucutra de la economía que se discute en el texto  desde la perspectiva de las ideas de Marx.
 
-Por ejemplo, hoy corporaciones con presencia global como **Amazon**, que tienen más de 600 000  empleados  y un gran número de ellos laboran en los denominados *Fulfillment centers* (bodegas de distribución), no fomentan abiertamente la participación de sus trabajadores en Sindicatos.
+Por ejemplo, hoy corporaciones con presencia global como **Amazon**, que tienen más de 600 000  empleados  y un gran número de ellos laboran en los denominados *Fulfillment centers* (bodegas de distribución), donde no fomentan abiertamente la participación de sus trabajadores en Sindicatos.
 
 
 En su opinión hasta que punto esta tendencia es consistente con el siguiente argumento expuesto en la lectura  *In the past 40 years, across the rich world trade unions have gone into retreat, with fewer and fewer workers represented by one... "Marx, from a materialist perspective, might look at how the structure of the economy had changed. He might point to the disappearance of big factories and mines, which were once the heartlands of unionism."*
 
 
-3.-Acorde con la lectura, Una de las frases famosas de Marx en el contexto de la organización laboral es "Workers of all lands, unite" Y en efecto es un llamado muy atractivo!
+3.-Acorde con la lectura, una de las frases famosas de Marx en el contexto de la organización laboral es *"Workers of all lands, unite"* 
 
 En las ciudades de la  frontera norte y en particualr en Cd, Juárez la industria maquiladora define  las relaciones laborales de una parte importante de la sociedad.
 
 ¿Considera que la capacidad de organización independiente es un elemento valioso o factible en el contexto del desarrollo de la industria en una ciudad fronteriza?
 
 
-4.- Acorde con la lectura ¿qué calificativo hace Marx de los autores pioneros de economía política como Malthus o John Stuart Mill?
+4.- Acorde con la lectura ¿qué calificativo hace Marx de los autores pioneros de economía política como **Malthus** o **John Stuart Mill**?
+
+
+5. ¿Qué relación tienen los planteamientos de **David Rcardo** en relación a **Marx** en el debate sobre la determinación del valor?
+
+6.- Considerando  factores de la producción como el capital (maquinaria, herramientas, equipo, etc., ), ¿Como refiere Marx la existencia de este insumo para la producción en relación al trabajo? 
+
+
+7. Acorde con el autor ¿cual es la ley más importante de economia política?
+
+
 
 **Bonus:** 
-
 Recomendación para el fin de semana. [Dr. Zhivago. Una época de cambios en la estructura económica en Europa:](https://www.youtube.com/watch?v=xulg9QcwRXM&t=12120s)
 
 Identifica alguna similitud de los personajes con el estilo *rabble-rouser*  que caracteriza la lectura sobre la capacidad discursiva de Marx? 
