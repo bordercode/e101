@@ -173,7 +173,7 @@ Una manera alternativa de referirnos a esta idea es mediante el concepto de **ut
 
 Esta idea de la **utilidad** forma una base de la teoría microeconomíca y plantea un problema fundamental. **¿Cómo medirla?** 
 
-Para autores clásicos la **utilidad**  es un concepto bastracto que implica u ncierto grado de subjetividad.
+Para autores clásicos la **utilidad**  es un concepto abstracto que implica u ncierto grado de subjetividad.
 
 
 Los **individuos** que integran las **sociedades** llevan a cabo procesos de toma de decisiones considerando las restricciones presupuestales que impone el fenómeno de la **escasez** 
