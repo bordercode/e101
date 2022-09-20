@@ -203,9 +203,12 @@ En su opinión hasta que punto esta tendencia es consistente con el siguiente ar
 
 3.-Acorde con la lectura, Una de las frases famosas de Marx en el contexto de la organización laboral es "Workers of all lands, unite" Y en efecto es un llamado muy atractivo!
 
-En las ciudades de la  frontera norte y en particualr en Cd, Juarez la industria maquiladora define  las relaciones laborales de una parte importante de la sociedad.
+En las ciudades de la  frontera norte y en particualr en Cd, Juárez la industria maquiladora define  las relaciones laborales de una parte importante de la sociedad.
 
-¿Considera que la capacidad de organización idependiente es un elemento valioso o factibel en el contexto de la industria mmaquiladora?
+¿Considera que la capacidad de organización independiente es un elemento valioso o factible en el contexto del desarrollo de la industria en una ciudad fronteriza?
+
+
+4.- Acorde con la lectura ¿qué calificativo hace Marx de los autores pioneros de economía política como Malthus o John Stuart Mill?
 
 **Bonus:** 
 
