@@ -228,7 +228,7 @@ Para **Joan Robinson** (1903-1983. una economista identificada con la tradición
 
 **Tarea** para discusión en clase 2. 
 
-Estudie el siguiente material respecto a uno de los pesnadores en economia de mayor influencia. Y responda las siguientes preguntas: 
+Lea el siguiente material sobre la obra de uno de  los autores  de mayor controversén en el estudio de economía. Y responda las siguientes preguntas: 
 
 [Karl Marx](https://drive.google.com/file/d/1mPBFi4-r3qlY0PiAZH1VGqjodxy66tvR/view?usp=sharing)
 
