@@ -108,15 +108,17 @@ O en otros términos se ejemplifica el **flujo circular** donde la producción g
 
 #### Teoria del valor en base al trabajo.
 
-que para hacer honor a esta característica logró generar una fortuna considerable (1772-1823): 
+David Ricardo logró generar una fortuna considerable (1772-1823), algo propio de un judio. 
 
 Escritor del periodo clásico, que aportó ideas que resultan el fundamento de lo que hoy conocemos como **MACROECONOMIA**
 
 
-Entre otros postulados, Ricardo plantea que el **VALOR** se deriva del **TRABAJO**, un planteamiento que hoy se reconoce como equivocado sobre todo considerando el concepto de utilidad subjetiva que se asocia con la escasez, Ej. **la paradoja del agua y los diamantes**.
+Entre otros postulados, Ricardo plantea que el **VALOR** se deriva del **TRABAJO**, un planteamiento que hoy se reconoce como **equivocado** sobre todo considerando el concepto de utilidad subjetiva que se asocia con la escasez, Ej. **la paradoja del agua y los diamantes**.
 
 
-**John Stuart Mill** La busqueda de la felicidad, la libertad como parte fundamental del funcionamiento de la sociedad. Entre sus obras sobre economía, el clásico de 1848: **Principios de economía política**  define fundamentos del liberalismo y de economía clásica.
+**John Stuart Mill** La búsqueda de la **felicidad**, la **libertad** como parte fundamental del funcionamiento de la sociedad. 
+
+Entre sus obras sobre economía, el clásico de 1848: **Principios de economía política**  define fundamentos del **liberalismo y de economía clásica**.
 
 Obras de interés escritas por John Stuart Mill recomendadas para comprender fundamentos de economía *On liberty*  y **Utilitarianism.**
 
@@ -126,7 +128,7 @@ Importante notar la influencia de autores como **Jeremy Betham** en el desarroll
 
 *Arete Madre de Aristipo, reconocido por desarrollar la escuela de Hedonismo. (435 a. C. - 350 a. C.)*
 
-*"He famously held that humans were ruled by two sovereign masters — pleasure and pain."*
+#### "He famously held that humans were ruled by two sovereign masters — pleasure and pain."
 
 
 *We seek pleasure and the avoidance of pain, they “…govern us in all we do, in all we say, in all we think…” (Bentham PML, 1)*
