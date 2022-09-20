@@ -178,7 +178,35 @@ Para autores clásicos la **utilidad**  es un concepto abstracto que implica u n
 
 Los **individuos** que integran las **sociedades** llevan a cabo procesos de toma de decisiones considerando las restricciones presupuestales que impone el fenómeno de la **escasez** 
 
+
+
 ### Actividad 1
+
+
+
+Lea el siguiente material sobre la obra de uno de  los autores  de mayor controversén en el estudio de economía. Y responda las siguientes preguntas: 
+
+[Karl Marx](https://drive.google.com/file/d/1mPBFi4-r3qlY0PiAZH1VGqjodxy66tvR/view?usp=sharing)
+
+
+1- De acuerdo con la Lectura **Marx** planteó: *"that material circumstances determined things like ideas and social structure. (The extent to which Marx actually believed that the “base” determines the “superstructure” is one of the longest-running arguments in Marxist scholarship.)"*
+
+1.- En su opinión, hasta qué punto considera que este planteamiento esta vigente y cómo influyen las **ideas** en la configuración de la estructUra económica de una sociedad.
+
+2.-Considere el papel de los sindicatos en cuanto a la **organización del trabajo** en contraste con los planteamientos sobre la estrucutra de la economía que se discute en el texto  desde la perspectiva de las ideas de Marx.
+
+Por ejemplo, hoy corporaciones con presencia global como **Amazon**, que tienen más de 600 000  empleados  y un gran número de ellos laboran en los denominados *Fulfillment centers* (bodegas de distribución), no fomentan abiertamente la participación de sus trabajadores en Sindicatos.
+
+
+En su opinión hasta que punto esta tendencia es consistente con el siguiente argumento expuesto en la lectura  *In the past 40 years, across the rich world trade unions have gone into retreat, with fewer and fewer workers represented by one... "Marx, from a materialist perspective, might look at how the structure of the economy had changed. He might point to the disappearance of big factories and mines, which were once the heartlands of unionism."*
+
+
+3.-
+
+
+### Actividad 2
+
+**Tarea** para discusión en clase 2. 
 
 **Actividad:** Observe el siguiente material y redacte  un argumento sobre la importancia de la obra de Adam Smith.
 
@@ -222,27 +250,3 @@ Un objetivo de justificación moral para la forma de operar de la sociedad en el
 Para **Joan Robinson** (1903-1983. una economista identificada con la tradición keynesiana. Una escuela de pensamiento denominada en honor a **John Maynard Keynes**, identificado como base de la vertiente de estudio que hoy conocemos como **Macroeconomía**, que estudia grandes agregados economicos como la producción, el movimiento de los precios o el empleo.):
 
 *"One of the main effects (I will not say purposes) of orthodox traditional economics was ... a plan for explaining to the privileged class that their position was morally right and was necessary for the welfare of society.*
-
-
-### Actividad 2
-
-**Tarea** para discusión en clase 2. 
-
-Lea el siguiente material sobre la obra de uno de  los autores  de mayor controversén en el estudio de economía. Y responda las siguientes preguntas: 
-
-[Karl Marx](https://drive.google.com/file/d/1mPBFi4-r3qlY0PiAZH1VGqjodxy66tvR/view?usp=sharing)
-
-
-1- De acuerdo con la Lectura **Marx** planteó: *"that material circumstances determined things like ideas and social structure. (The extent to which Marx actually believed that the “base” determines the “superstructure” is one of the longest-running arguments in Marxist scholarship.)"*
-
-1.- En su opinión, hasta qué punto considera que este planteamiento esta vigente y cómo influeyen las **ideas** en la configuración de la estrucutra económica de una sociedad.
-
-2.-Considere el papel de los sindicatos en cuanto a la **organización del trabajo** en contraste con los planteamientos sobre la estrucutra de la economía que se discute en el texto  desde la perspectiva de las ideas de Marx.
-
-Por ejemplo, hoy corporaciones con presencia global como **Amazon**, que tienen más de 600 000  empleados  y un gran número de ellos laboran en los denominados *Fulfillment centers* (bodegas de distribución), no fomentan abiertamente la participación de sus trabajadores en Sindicatos.
-
-
-En su opinión hasta que punto esta tendencia es consistente con el siguiente argumento expuesto en la lectura  *In the past 40 years, across the rich world trade unions have gone into retreat, with fewer and fewer workers represented by one... "Marx, from a materialist perspective, might look at how the structure of the economy had changed. He might point to the disappearance of big factories and mines, which were once the heartlands of unionism."*
-
-
-3.-
