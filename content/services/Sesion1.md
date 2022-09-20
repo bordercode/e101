@@ -214,7 +214,7 @@ En las ciudades de la  frontera norte y en particualr en Cd, Juárez la industri
 6.- Considerando  factores de la producción como el capital (maquinaria, herramientas, equipo, etc., ), ¿Como refiere Marx la existencia de este insumo para la producción en relación al trabajo? 
 
 
-7. Acorde con el autor ¿cual es la ley más importante de economia política?
+7. Acorde con el autor para Marx ¿cual es la ley más importante de economia política?
 
 
 
@@ -232,21 +232,15 @@ Identifica alguna similitud de los personajes con el estilo *rabble-rouser*  que
 [Adam Smith](https://youtu.be/xSPYTUcf6Bc)
 
 
-
-
 Responda los siguientes cuestionamientos. 
 
 1. Argumente sobre la importancia del interés personal para el proceso de intercambio de bienes. 
 
 
-
-
 2. ¿Qué papel tiene la división del trabajo o la acumulación de capital para el funcionamiento de la sociedad? 
 
 
-
 3.¿Cómo es regulado el libre mercado?  
-
 
 
 4.Explique la noción de precio de mercado,  precio natural y precio de monopolio. 
@@ -254,12 +248,7 @@ Responda los siguientes cuestionamientos.
 
 5. En su opinión ¿Cómo las ideas de Adam Smith se expresan o perciben en la actualidad? 
 
-
-
-6. ¿Cuál es el papel  del gobinerno para Adam Smith? 
-
-
-
+6. ¿Cuál es el papel  del gobierno para Adam Smith? 
 
 
 **Nota:** Para algunos estudiosos de economía posteriores, la postura de los clásicos refleja su intención de **justificar o explicar la posición privilegiada  de la clase dominante en la época en la que escribieron.** 
