@@ -26,9 +26,9 @@ La economía como campo científico  de estudio.
 
 ¿Desde cuando nos referimos a la ciencia económica como tal?
 
-Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776**) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía. Esta obra es un tratado de **economía política**.
+Generalmente se tiene un concenso en que autores como **Adam Smith**, (Europa- Inglaterra **1776** Filosofo **Moral**y político) han contribuido a la formalización de las ideas que hoy se agrupan y reconocen como economía. Esta obra es un tratado de **economía política**.
 
-La obra de Smith es un tratado de economía política y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía.
+La obra de **Smith** es un tratado de **economía política** y se reconoce como un ícono intelectual de partida para lo que hoy denominamos economía.
 
 Sin embargo, es evidente que el estudio de los asuntos que hoy reconocemos como parte de la ciencia económica, se daba ya, mediante diferentes enfoques y perspectivas desde momentos previos a la obra de Smith.
 
@@ -47,11 +47,20 @@ Dos corrientes de análisis económico precedentes a la escuela clásica cuyo í
 ### Mercantilismo 
 
 
-(Un periodo histórico  que tuvo lugar durante los Siglos **XVI-XVII** y que más allá de formar un cuerpo de ideas sistemático, se puede considerar como una etiqueta impuesta por los opositores a la intervención del gobierno sobre todo en temas de comercio). 
+(Un periodo histórico y corriente precursora del liberalismo comercial que tuvo lugar durante los Siglos **XVI-XVII** y que más allá de formar un cuerpo de ideas sistemático, se puede considerar como una etiqueta impuesta por **los opositores a la intervención del gobierno** sobre todo en temas de comercio). 
 
-Este periodo precede a las ideas de la economia clásica, un conjunto de ideas más orientado hacia el liberalismo  clásico. 
 
-En el mercantilismo, el **comercio exterior** y particularmente el excedente en la balanza comercial expresado en acumulación de reservas de oro se percibe como un objetivo deseable. 
+Un perido lidereado por una **clase política** compuesta por los **Banqueros** y los **comerciantes**. 
+
+Un ejemplo de las acciones de este periodo fue la injerencia de la **British East-India Company** que causó una serie de atrocidades en los territorios en los que llevaba a cabo acciones para dominar el comercio. (destitución de gobiernos, tráfico de drogas, etc,.)
+
+![](/images/east_i_co.jpg)
+
+Este periodo **precede** a las ideas de la **economía clásica**, un conjunto de ideas más orientado hacia el **liberalismo  clásico**. 
+
+En el mercantilismo, el **comercio exterior** y particularmente el excedente en **la balanza comercial** expresado en acumulación de reservas de oro se percibe como un objetivo deseable. 
+
+![](/images/mercantil2.jpg)
 
 En este contexto se tiene una activa  **intervención del gobierno**. Hay que recordar que la forma de gobierno en Europa en ese momento era la **Monarquía absoluta**, (con excepción de **Inglaterra** donde se tenía una monarquía parlamentaria, digamos que esto permitía un contra peso y un escenario más "democrático" en ese país).
 
