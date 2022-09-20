@@ -66,8 +66,8 @@ En este contexto se tiene una activa  **intervención del gobierno**. Hay que re
 
 En este periodo era natural una **intervención gubernamental** muy intensa y esta participación generalmente **favorecía a los intereses de los grupos de comerciantes** en posiciones de administración gubernamental. 
 
-**Adam Smith** aborda en su obra maestra unA crítica a ese sistema comercial.
-
+**Adam Smith** aborda, en su obra maestra, una crítica a ese sistema comercial.
+-------------------------------------
 ## Fisiocracia: 1700-1800
 
 (del griego gobierno de la naturaleza). En este periodo, la **agricultura** se percibió como fuente de riqueza y actividad fundamental para el bienestar y desarrollo de la sociedad. 
