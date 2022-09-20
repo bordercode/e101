@@ -95,7 +95,7 @@ Indicador principal para el desempeño productivo de un país.
 
 + **Normativo:** Involucra juicios de valor y depende de consideraciones éticas y perspectivas subjetivas de la realidad. Lo cual es útil en el terreno de diseño de política pública. Ejemplo: “En América Latina es injusto que el ingreso se concentre en un porcentaje ínfimo de la población, mientras la mayoria vive en condiciones de extrema pobreza”
 
-Expresarse sobre lo que deberia ser o lo que es bueno o malo, no es una cuestión que se ubica en el terreno de la ciencia propiamente, ya que involucra un componente subjetivo que se deriva de las consideraciones éticas y valores del individuo que los hace e involucra juicios de valor.
+Expresarse sobre lo que deberia ser o lo que es bueno o malo, no es una cuestión que se ubica en el terreno de la ciencia propiamente, ya que involucra un componente subjetivo que se deriva de las consideraciones éticas y valores del individuo que los hace e implica juicios de valor.
 
 + **Positivo** Un enfoque descriptivo, es objetivo por definición. E indica los hechos. Es la base del análisis científico de economía.
 
@@ -144,19 +144,9 @@ Para ilustrar el concepto de **costo de oportnunidad** revise el siguiente mater
 
 [Claude Frédéric Bastiat (Francia 1801-1850) Ver Cap.I El cristal roto](http://bastiat.org/es/lqsvylqnsv.html)
 
-**Nota:** Su pensamiento y postura respecto a libre comercio es similar a la del inglés  **Richard Cobden** (Inglaterra 1804-1865).
 
-*"Ce qu'on voit et ce,* 
-*qu'on voit ne pas"*  (Lo que vemos y lo que no vemos).
 
-[El  Despido](http://bastiat.org/es/lqsvylqnsv.html)
-
-**Participación**
-
-Se convoca a la participación de un estudiante para explicar este fragmento de la obra de Bastiat. 
-
-[La falacia de la ventana rota de Claude Frédéric Bastiat](https://youtu.be/erJEaFpS9ls).
-
+Comente el fragmento anteriotr de la obra de **Bastiat**. 
 
 - Argumente sobre los beneficios para la sociedad de la acción del niño.
 
@@ -165,7 +155,16 @@ Se convoca a la participación de un estudiante para explicar este fragmento de 
 ¿En su opinión en qué caso la sociedad se encuentra en una mejor posición?
 
 
+*"Ce qu'on voit et ce,* 
+*qu'on voit ne pas"*  (Lo que vemos y lo que no vemos).
 
+
+
+**Nota:** El pensamiento de Bastiat y postura respecto a libre comercio es similar a la del inglés  **Richard Cobden** (Inglaterra 1804-1865).
+
+[El  Despido](http://bastiat.org/es/lqsvylqnsv.html)
+
+**Participación**
 
 En **síntesis.** La toma de desiciones en economía debe de considerar el costo de oportunidad. 
 
@@ -173,9 +172,7 @@ El costo económico difiere de los gastos realizados por que el primero **incluy
 
 ###  Determinación del valor
 
-Uno de los primeros objetivos en economía fue la explicación del valor.  Si bien este puede parecer un planteamiento filosófico con la subjetividad propia, los diversos autores que integran el pensamiento económico sistematizaron explicaciones sobre este importante concepto.
-
-
+Uno de los primeros objetivos en economía fue la **explicación de la fuente del valor**.  Si bien este puede parecer un planteamiento filosófico con la subjetividad propia, los diversos autores que integran el pensamiento económico sistematizaron explicaciones sobre este importante concepto.
 
 
 - Teoría del Valor  trabajo. Por ejemplo Marx, planteó en su famosa obra:  **El Capital**, que el valor se deriva del trabajo. Una consecuencia del entendimiento erróneo de esta idea es que el capitalismo como sistema económico implica condiciones de explotación por parte de los dueños de los medios de producción hacia una clase de individuos, que despovistos de medios productivos ofrecen en el marco del proceso productivo, lo único que poseen, su fuerza de trabajo. 
