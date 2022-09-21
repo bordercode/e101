@@ -144,16 +144,15 @@ Para ilustrar el concepto de **costo de oportnunidad** revise el siguiente mater
 
 [Claude Frédéric Bastiat (Francia 1801-1850) Ver Cap.I El cristal roto](http://bastiat.org/es/lqsvylqnsv.html)
 
+[Broken window falacy](https://www.youtube.com/watch?v=erJEaFpS9ls)
 
-
-Comente el fragmento anteriotr de la obra de **Bastiat**. 
+Comente el fragmento anterior de la obra de **Bastiat**. 
 
 - Argumente sobre los beneficios para la sociedad de la acción del niño.
 
 - ¿Cuales son los efectos que no se ven en este caso?
 
 ¿En su opinión en qué caso la sociedad se encuentra en una mejor posición?
-
 
 *"Ce qu'on voit et ce,* 
 *qu'on voit ne pas"*  (Lo que vemos y lo que no vemos).
