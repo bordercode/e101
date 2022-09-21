@@ -71,8 +71,6 @@ El dinero como medio de intercambio. Bitcoin como sustituto actual del dinero.  
 
 
 
-
-
 [Monopilio Amazon Jeff Bezos](https://www.youtube.com/watch?v=RVVfJVj5z8s)
 
 [Bitcoin and crypto](file:///C:/Users/josel/Desktop/on/docencia/Semestre-2022-2/MAPDS/biblio/Applicaations/2020_micro_of%20crypto.pdf)
