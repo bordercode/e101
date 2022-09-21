@@ -256,9 +256,9 @@ Para repaso de conceptos. Leer capitulos I, II y II del libro **Principles of Ec
 
 ## Métodos en economía. 
 
-Tratándose de una **ciencia social** donde los sujetos de estudio son los indviduos y sus acciones colectivas ( *Little disclaimer:* vivimos en un mundo interdependiente, somos entes políticos, en este sentido y por lo tanto, entender las reglas que hacen que nuestra convivencia pacífica funcione, en especial en el espectro económico, es una tarea relevante y menos clara que las leyes deterministas que encontramos en disciplinas del conocimiento como la física, (por ejemplo). 
+Tratándose de una **ciencia social** donde los sujetos de estudio son los indviduos y sus acciones colectivas ( *Little disclaimer:* vivimos en un mundo interdependiente, **somos entes políticos**, en este sentido y por lo tanto, entender las reglas que hacen que nuestra convivencia pacífica funcione, en especial en el espectro económico, es una tarea relevante y menos clara que las leyes deterministas que encontramos en disciplinas del conocimiento como la física, por ejemplo). 
 
-Es necesario indicar que **modelar** la realidad para comprender **los efectos que nuestra acciones** pueden causar sobre el bienestar individual o colectivo, es una tarea cotidiana en **ECONOMÍA**
+Es necesario indicar que **modelar** la realidad para comprender **los efectos que nuestra acciones** pueden causar sobre el **bienestar individual o colectivo**, es una tarea cotidiana en **ECONOMÍA**
 
 #### ¿QUÉ ES UN MODELO?
 
