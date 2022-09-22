@@ -15,6 +15,9 @@ title: Evaluación
 
 --------------------------------------------------------------------
 
+
+![Rubrica](rubrica.jpg)
+
 ### Fecha de exámenes: 
 
 > Examen 1: **Lunes 17 Octubre**
