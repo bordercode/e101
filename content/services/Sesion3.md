@@ -77,18 +77,18 @@ Lea el siguiente articulo  de **The Economist** sobre las particularidades de la
 3.- La sensibilidad de la demanda respecto a modificaciones en el precio de un bien es un concepto que se define como la elasticidad de la demanda [ver definición](https://stats.oecd.org/glossary/detail.asp?ID=3206#:~:text=In%20principle%2C%20the%20price%20elasticity,of%20minus%2010%20to%20zero.) y refleja la flexibilidad que tiene la demanda de un producto ante variaciones en su precio.
 ----------------------------------------------
 
-*Nota sobre la definición de elasticidad e la demanda*
+*Nota sobre la definición de elasticidad de la demanda*
 
-Tipicamente, productos que no tienen **substitutos** cercanos, como por ejemplo, la **insulina** en el caso de enfermos por diabetes o la gasolina para los usuarios de automóviles, algunas drogas como la mariguana (|e|=0.41), (ver [Estudio aquí](https://www.upo.es/revistas/index.php/RevMetCuant/article/view/2689))etc. 
+Típicamente, productos que no tienen **substitutos** cercanos, como por ejemplo, la **insulina** en el caso de enfermos por diabetes o la gasolina para los usuarios de automóviles, algunas drogas como la mariguana (|e|=0.41), (ver [Estudio aquí](https://www.upo.es/revistas/index.php/RevMetCuant/article/view/2689))etc. 
 
 Tendrán una elasticidad menor. (el rango de este estimado  se ubica en el intervalo [$-\infty$ , 0], con **|e|>1**, indicando productos que experimentan **una reducción más que proporcional en la demanda** ante un incremento en su precio, **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio). 
 
-Contrario por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyeria y en general articulos no escenciales o relativametne abundantes o con una diversidad de productos considerados como substitutos cercanos.
+Contrario por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyería y en general artículos no escenciales o relativamente abundantes o con una diversidad de productos considerados como substitutos cercanos.
 
 Fin de la nota explicativa
 -------------------------------------
 
-3.- Considerando la información del artiulo como caracterizan los autores la eslasticidad de la demanda de servicios como Facebook o Google. 
+3.- Considerando la información del artículo como caracterizan los autores la eslasticidad de la demanda de servicios como **Facebook** o **Google**. 
 
 a) **Demanda Elástica.**
 
@@ -100,7 +100,7 @@ b) **Demanda inelástica**
 
 5. ¿Qué influencia describen los autores en relación al incremento del número de consumidores y el efecto de servicios complementarios con respecto al cálculo del excedente del consumidor para el consumo de servicios como internet?
 
-6.-¿Cuál es el estimado de **excedente del consumidor** que presentan los autores para servicios como Wikipedia y el consumo de banda ancha para proveer internet, en 2006?  
+6.-¿Cuál es el estimado de **excedente del consumidor** que presentan los autores para servicios como **Wikipedia** y el consumo de banda ancha para proveer internet, en 2006?  
 
 ------------------------------------------
 
