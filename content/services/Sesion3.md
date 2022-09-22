@@ -44,7 +44,7 @@ Cuando nos referimos a una unidad adicional hacemos referencia al **consumo marg
 
 
 Dos usos importantes podemos darle a esta la curva de **DEMANDA** el primero es predecir la cantidad demandada dado un precio particular, por ejemplo sabemos por la curva que la demanda **(q)**
-al precio $$p_{1}=30$$ será $$q_{1}=1$$
+al precio $$p_{1}=50$$ será $$q_{1}=1$$
 
 **El segundo uso** es que podemos saber el **excedente del consumidor**, esto es la diferencia entre el precio pagado y la disponibilidad a pagar del individuo,  por ejemplo ¿Cuál es el excente del consumidor a un precio de  **\$43K**, la diferencia entre la maxima disponibilidad a pagar y este precio pagado es el excedente del consumidor, en est caso **\$22K** De igualmanera al comprar la segunda computadora, te "ahorras": **\$7k** respecto de tu disponibilidad a pagar  por la segunda que es **\$50K**. 
 
