@@ -70,11 +70,11 @@ Lea el siguiente articulo  de **The Economist** sobre las particularidades de la
 [The economist](https://drive.google.com/file/d/1dkpogBhrw1wW9zUXprLEHhjC5tnOdP_q/view?usp=sharing)
 
 
-1. ¿Qué empresas se analizan en el articulo com oejemplo para la medición del escedente del consumior?
+1. ¿Qué empresas se analizan en el artículo como ejemplo para la medición del excedente del consumior?
 
-2.- ¿Cuál es el problema que se menciona para la medición del escedente del consumidor en relación la precio? 
+2.- ¿Cuál es el problema que se menciona para la medición del excedente del consumidor en relación la precio? 
 
-3.- La sencibilidad de la demanda respecto a modificaciones en el precio de un bien es un concepto que se define como la elasticidad de la demanda [ver definición](https://stats.oecd.org/glossary/detail.asp?ID=3206#:~:text=In%20principle%2C%20the%20price%20elasticity,of%20minus%2010%20to%20zero.) y refleja la flexibilidad que tiene la demanda de un producto ante variaciones en su precio.
+3.- La sensibilidad de la demanda respecto a modificaciones en el precio de un bien es un concepto que se define como la elasticidad de la demanda [ver definición](https://stats.oecd.org/glossary/detail.asp?ID=3206#:~:text=In%20principle%2C%20the%20price%20elasticity,of%20minus%2010%20to%20zero.) y refleja la flexibilidad que tiene la demanda de un producto ante variaciones en su precio.
 ----------------------------------------------
 
 *Nota sobre la definición de elasticidad e la demanda*
