@@ -44,13 +44,13 @@ Cuando nos referimos a una unidad adicional hacemos referencia al **consumo marg
 
 
 Dos usos importantes podemos darle a esta la curva de **DEMANDA** el primero es predecir la cantidad demandada dado un precio particular, por ejemplo sabemos por la curva que la demanda **(q)**
-al precio $p_{1}=30$ será $q_{1}=1$
+al precio $$p_{1}=30$$ será $$q_{1}=1$$
 
 **El segundo uso** es que podemos saber el **excedente del consumidor**, esto es la diferencia entre el precio pagado y la disponibilidad a pagar del individuo,  por ejemplo ¿Cuál es el excente del consumidor a un precio de  **\$43K**, la diferencia entre la maxima disponibilidad a pagar y este precio pagado es el excedente del consumidor, en est caso **\$22K** De igualmanera al comprar la segunda computadora, te "ahorras": **\$7k** respecto de tu disponibilidad a pagar  por la segunda que es **\$50K**. 
 
 La suma de estos valores, representa lo que denominamos**el excedente del consumidor**
 
-En terminos de la figura 1, el excedente del consumdor esta dado por el área bajo la curva de denada entre el precio pagado, en este caso **p=\$43** y la máxima disponibilidad a pagar. **\$65**.
+En términos de la figura 1, el excedente del consumdor esta dado por el área bajo la curva de demanda entre el precio pagado, en este caso **p=\$43** y la máxima disponibilidad a pagar. **\$65**.
 
 La curva de demanda en el **mercado** de un bien particular, resume la suma del comportamiento de los consumidores de ese bien, en particular, resume su relación entre precio y  disposición a pagar.
 
