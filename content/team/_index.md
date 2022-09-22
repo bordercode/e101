@@ -15,7 +15,6 @@ title: Evaluación
 
 --------------------------------------------------------------------
 
-
 ![Rubrica](/images/rubrica.jpg)
 
 ### Fecha de exámenes: 
