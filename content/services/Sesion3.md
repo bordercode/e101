@@ -64,7 +64,7 @@ La curva de demanda para un mercado particular es entonces una r**elación inver
 
 ##### Actividad 1 
 
-Lea el siguiente articull The Economist sobre las particularidades de la medición del concepto de excedente del consumidor desde el punto de vista empírico y responda lo siguiente: 
+Lea el siguiente articulo  de **The Economist** sobre las particularidades de la medición del concepto de excedente del consumidor desde el punto de vista empírico y responda lo siguiente: 
 
 
 [The economist](https://drive.google.com/file/d/1dkpogBhrw1wW9zUXprLEHhjC5tnOdP_q/view?usp=sharing)
