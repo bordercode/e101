@@ -325,9 +325,10 @@ Autor: **Daniel Kahneman y Amos Tversky** Economics Nobel prize winners.
 
 Impulsor del campo conocido como **Behavioral Economics**, una area particular del análisis en microeconomía. 
 
-Lea el articulo (secciones intro y  *Framing of outcomes* ) y responda lo siguiente: 
+Lea el artículo [PDF](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwurJOcbZ/view?usp=sharing)
+(secciones intro y  *Framing of outcomes* ) y responda lo siguiente: 
 
-[PDF](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwurJOcbZ/view?usp=sharing)
+
 
 
 1.- ¿Que ejemplo paradigmático señalan los autores para referir una decisión que involucra riesgo? Y que ejemplo mencionan para indicar una decisión que no implica riesgo. 
