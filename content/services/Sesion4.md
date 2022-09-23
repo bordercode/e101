@@ -2,7 +2,7 @@
 date: "2022-09-05T15:15:26+10:00"
 draft: false
 featured: true
-title: 4. Tipologia del mercado. 
+title: 4. Tipología del mercado. 
 weight: 4
 ---
 
