@@ -20,10 +20,11 @@ Sea:
 
 $P*q=$ Ingreso **(I)**
 
-Costos: Valor de los insumos necesarios para la producción. Dos categorias generales: **Costos Fijos (CF)**, **Costos Variables (CV)**, la suma de estos determina el **costo total (CT)**
+**Costos:** Valor de los insumos necesarios para la producción. Dos categorias generales: **Costos Fijos (CF)**, **Costos Variables (CV)**, la suma de estos determina el **costo total (CT)**
 
-Costo promedio $CM=CT/q$.
-Costo total  $CT=CM*q$
++ Costo promedio $CM=CT/q$.
+
++ Costo total  $CT=CM*q$
 
 Si $P*q<CM$, implica que  $P*q<CM*q$ o de otra forma I<CT. 
 
