@@ -43,7 +43,7 @@ El estudio de la toma de decisiones de empresas y hogares y su interacción en m
 
 
 * Estrucutra de Competencia entre empresas en un  
-un segmento de mercado especifico.
+un segmento de mercado específico.
 
 + Estructura de competencia en la provisión de 
 servicios públicos.
