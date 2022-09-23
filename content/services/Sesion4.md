@@ -6,7 +6,7 @@ title: 4. Tipología del mercado.
 weight: 4
 ---
 
-### Estructuras de mercado.
+## Estructuras de mercado.
 
 El criterio fundamental para determinar la **estrucutra de mercado** es el **número de empresas** que intervienen en el segmento específico, este númer asu vez deermina el grado de competencia de la industria particular. 
 
