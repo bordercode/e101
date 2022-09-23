@@ -80,9 +80,9 @@ Típicamente, productos que no tienen **substitutos** cercanos, como por ejemplo
 
 Tendrán una **elasticidad menor**.  serán menos inélasticos (el rango de este estimado  se ubica en el intervalo [$-\infty$ , 0], con **|e|>1**, indicando productos que experimentan **una reducción más que proporcional en la demanda** ante un incremento en su precio, **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio). 
 
-Contrario por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyería y en general artículos no escenciales o relativamente abundantes o con una diversidad de productos considerados como substitutos cercanos.
+Contrario por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyería y en general artículos **no escenciales o relativamente abundantes** o con una diversidad de productos considerados como substitutos cercanos.
 
-Fin de la nota explicativa
+
 
 ##### Actividad 1 
 
