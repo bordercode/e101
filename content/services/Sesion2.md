@@ -318,7 +318,7 @@ Uno de los supuestos fundamentales en economía y particularmente en el subcampo
 
 #### Actividad 7 
 
-Analicemos el siguiente artículo en donde se muestra por que los supuestos y en consecuencia los modelos, si bien útiles, para describir un fenómeno en economía en terminos teóricos, pueden y a menudo lo estan, alejados de la realidad.
+Analicemos el siguiente artículo en donde se muestra por que los supuestos y en consecuencia los modelos, si bien útiles, para describir un fenómeno en economía en términos teóricos, pueden y con frecuencia lo estan, alejados de la realidad.
 
 
 Autor: **Daniel Kahneman y Amos Tversky** Economics Nobel prize winners. 
