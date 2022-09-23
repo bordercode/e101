@@ -10,9 +10,9 @@ title: Evaluación
 > Debate grupal                                        20%    
 > Exposición de tema seleccionado                      15%     
 > Reportes  de lectura   (5)                           20%     
-> Examenes      (2)                                    25%     
+> Examenes      (2)                                    15%     
 > Reporte  análisis de coyuntura económica             20%     
-
+> Actividades en clase y participación. 10%  :joy:
 --------------------------------------------------------------------
 
 ![Rubrica](/images/rrebrica.jpg)
