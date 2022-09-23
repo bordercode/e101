@@ -23,13 +23,13 @@ weight: 6
 
 Sea: 
 
-$P*q=$ Ingreso **(I)**
+P.q= Ingreso **(I)**
 
-+ Costo promedio $CM=CT/q$.
++ Costo promedio CM=CT/q.
 
-+ Costo total  $CT=CM*q$
++ Costo total  CT=CM.q
 
-Si $P*q<CM$, implica que  $P*q<CM*q$ o de otra forma I<CT. 
+Si P.q<CM, implica que  P.q<CM.q o de otra forma I<CT. 
 
 Dada esta estructura de costos, **la decisión óptima será no productir.** 
 
