@@ -20,7 +20,7 @@ title: Evaluación
 
 ### Fecha de exámenes: 
 
-> Examen~1: **Lunes 17 Octubre**
+> Examen 1: **Lunes 17 Octubre**
 
 > Examen 2: **Lunes 7 Noviembre**
 
