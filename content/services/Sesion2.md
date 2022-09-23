@@ -345,7 +345,7 @@ Lea el  [artículo](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwur
 
 **¿Qué papel tiene los experimientos en el análisis económico**
 
-A diferencia de otras ciencias, en la economía, la experimentación no es una fase del proceso ceintifico, tan común, por la simple razón de que los sujetos de estudio son individuos con cuya percepción de la realidad tiene un importante componente subjetivo. 
+A diferencia de otras ciencias, en la economía, la experimentación no es una fase del proceso ceintifico, tan común, por la simple razón de que los sujetos de estudio son individuos  cuya percepción de la realidad tiene un importante componente subjetivo. 
 
 
 No obstante, la experimentación se ha convertido en uno de los mecanismos de análisis mas importantes en campos como micro economía.  Un exponente notable de este campo es **Daniel Kahneman** 
