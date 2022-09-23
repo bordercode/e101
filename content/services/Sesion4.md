@@ -8,7 +8,7 @@ weight: 4
 
 ## Estructuras de mercado.
 
-El criterio fundamental para determinar la **estrucutra de mercado** es el **número de empresas** que intervienen en el segmento específico, este númer asu vez deermina el grado de competencia de la industria particular. 
+El criterio fundamental para determinar la **estrucutra de mercado** es el **número de empresas** que intervienen en el segmento específico, este número a su vez determina el grado de competencia de la industria particular. 
 
 Adicionalmente tres rasgos caracterizan la estructura de mercado particular.
 
@@ -49,7 +49,7 @@ Entonces, **las berreras a la entrada**  pueden asociase a dos grandes vertiente
 
 Considerndo el número de empresas la estructura puede ser: 
 
-##### Monopolio: 
+## Monopolio: 
 
 En esta estructura de mercado tenemos una sola empresa que domina el mercado. La empresa posee el **100%** del mercado. 
 
@@ -71,11 +71,24 @@ En el caso del **monopolio** el margen de beneficio será mayor entre menor sea 
 
 El precio fijado tiene una **relación inversa** con la elasticidad de la demanda. El monopolista podrá fija precios mayores a medida que el bien en cuestión tiene una **demanda inelástica.**
 
+La figura siguiente muestra esta interacción.
+
+![](/images/precio_monopolio.jpg)
 
 
-+ Oligopolio.
++ Note que el **precio** fijado por el monopolista excede el **costto marginal (MC)** recuerde que este costo representa la erogación generada por la producción la unidad adicional del bien y equivale generalmente al precio en una situación de competencia.
 
-+ Competencia perfecta.
+
++ Note que el **precio** que el **monopolista** puede fijar es superior cuando la elasticidad de la demanda del bien, **es superior**  (La elasticidad en este caso es representada por la pendiente de la curva de demanda).
+
+
+
+
+
+## Oligopolio.
+
+
+## Competencia perfecta.
 
 
 
