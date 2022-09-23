@@ -5,11 +5,17 @@ featured: true
 title: 6. Costos
 weight: 6
 ---
+## Objetivo: Estudiar los conceptos básicos relacionados a la teoría del produtor.
 
+### Particulares;
 
-### Costo fijo, variable y decisión de cierre.
++ Comprender las definiciones principales  de la estrucutra de costos de la empresa.
 
-### Statements
++ Analizar la relación de los costos con respecto a las decisiones de fijación de los niveles de producción de la empresa.
+
++ Determinar el criterio de cierre o no producción en relación al nivel de costo y hacer la distinción entre costo total, costo promedio y  costo marginal.  
+
+## Definiciones: 
 
 
 ### Costo promedio:
