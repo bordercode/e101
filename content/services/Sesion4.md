@@ -90,7 +90,12 @@ El precio fijado tiene una **relación inversa** con la elasticidad de la demand
 
 2.- ¿Qué estratégias se mencionan en el artículo respecto al comportamiento de la empresa para expandir su poder de mercado?  
 
-3. ¿En su opinión existe algun riesgo para la sociedad y los consumidores en particular, por la  existencia de monopolios en empresas en la industria de redes sociales?  ¿Hasta qué punto, esto puede moldear las preferencias de los consumidores y la estructura social.
+3. ¿En su opinión existe algun riesgo para la sociedad y los consumidores en particular, por la  generación de **monopolios** en empresas en la industria de redes sociales?  
+
+4.- ¿Hasta qué punto, un monopolio  en este segmento puede moldear las preferencias de los consumidores y la estructura social.
+
+
+
 
 Analice el siguiente [artículo](https://www.jornada.com.mx/2006/12/03/index.php?section=politica&article=024a2pol) y responda y responda las preguntas.
 
@@ -105,8 +110,28 @@ Analice el siguiente [artículo](https://www.jornada.com.mx/2006/12/03/index.php
 
 
 
+
+##### Actividad 3 
+
+**La competencia como factor en la fijasción de precios.**
+
+
+Analice la siguiente nota y comente:
+
+[TNYT](https://archive.nytimes.com/bits.blogs.nytimes.com/2014/08/14/uber-to-fight-ban-in-berlin/?searchResultPosition=5) 
+
+[from driver](https://drive.google.com/file/d/1n91af2bqL9vtmaW3Gx4_ANod1sc2zbIe/view?usp=sharing)
+
+1. Comente sobre l aimportancia de la tecnología en la trasnformación de industrias tradicionales y los retos que esto implica para actividades economicas tradicionales como el transporte privado de pasajeros.
+
+
+2.¿Qué impacto sobre los precios se prevee como resultado del aumento de la competencia ? 
+
+
+3. ¿Son las preferecias del consumidor quienes determinan la estructura de este percado en particular? ¿Qué papel tiene el estado para la regulación de la actividad economica en cuanto a competencia? 
 **Recomendación del dia.**
 
 
-Comentar en clase
+Monopolios globales.
+
 [Caso Monopolio: Amazon](https://www.youtube.com/watch?v=-IKSEVsHens)
