@@ -17,11 +17,6 @@ weight: 6
 
 ## Definiciones: 
 
-
-### Costo promedio:
-### Costo marginal: 
-
-##### Nivel costo que determina la decisión de producción. 
 Sea: 
 
 $P*q=$ Ingreso **(I)**
