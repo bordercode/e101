@@ -91,8 +91,12 @@ La figura siguiente muestra esta interacción.
 ## Competencia perfecta.
 
 
+Tenemos un conjunto de empresas amplio, (estructura atomizada) con gran variedad de empresas ofreciendo el producto o servicio determinado.
 
 
+Las empresas individuales son **tomadoras de precio** , esto quiere decir que de manera individual no tienen la capacidad de fijar el precio. El precio que se tiene en este mercado esta determinado por el costo marginal. **P=MC.**
+
+En este caso el **costo marginal** es igual al ingreso marginal. CM=IM.
 
 ### Actividad 1. 
 
