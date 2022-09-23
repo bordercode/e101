@@ -218,11 +218,6 @@ En las ciudades de la  frontera norte y en particualr en Cd, Juárez la industri
 
 
 
-**Bonus:** 
-Recomendación para el fin de semana. [Dr. Zhivago. Una época de cambios en la estructura económica en Europa:](https://www.youtube.com/watch?v=xulg9QcwRXM&t=12120s)
-
-Identifica alguna similitud de los personajes con el estilo *rabble-rouser*  que caracteriza la lectura sobre la capacidad discursiva de Marx? 
-
 ### Actividad 2
 
 **Tarea** para discusión en clase 2. 
