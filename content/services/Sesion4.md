@@ -72,5 +72,41 @@ En el caso del **monopolio** el margen de beneficio será mayor entre menor sea 
 El precio fijado tiene una **relación inversa** con la elasticidad de la demanda. El monopolista podrá fija precios mayores a medida que el bien en cuestión tiene una **demanda inelástica.**
 
 
+
++ Oligopolio.
+
++ Competencia perfecta.
+
+
+
+
+
+### Actividad 1. 
+
+[Es face book un monopolio?](https://www.economist.com/business/2021/07/03/is-facebook-a-monopolist)
+
+
+1.- ¿Cuál es e la situación principal que enfrenta esta empresa en la actualidad? 
+
+2.- ¿Qué estratégias se mencionan en el artículo respecto al comportamiento de la empresa para expandir su poder de mercado?  
+
+3. ¿En su opinión existe algun riesgo para la sociedad y los consumidores en particular, por la  existencia de monopolios en empresas en la industria de redes sociales?  ¿Hasta qué punto, esto puede moldear las preferencias de los consumidores y la estructura social.
+
+Analice el siguiente [artículo](https://www.jornada.com.mx/2006/12/03/index.php?section=politica&article=024a2pol) y responda y responda las preguntas.
+
+
+1.- ¿En qué medida la actividad económica de algunas industrias en México infringe lo estipulado por del art. 28 constitucional?
+
+2.- Considera que la fijación de precios en el contexto de industrias estratégicas  en México representa un impacto adeverso para el consumidor? Argumente los escenarios posibles.
+
+3.- ¿La información que se presenta prodia se ubica en una perspectiva   normativo o positiva de las ideas?  
+
+
+
+
+
+**Recomendación del dia.**
+
+
 Comentar en clase
 [Caso Monopolio: Amazon](https://www.youtube.com/watch?v=-IKSEVsHens)
