@@ -12,7 +12,7 @@ title: Evaluación
 > Reportes  de lectura   (5)                           20%     
 > Examenes      (2)                                    15%     
 > Reporte  análisis de coyuntura económica             20%     
-> Actividades en clase y participación. 10%  :joy:
+> Actividades en clase y participación. 10%  
 --------------------------------------------------------------------
 
 ![Rubrica](/images/rrebrica.jpg)
@@ -20,7 +20,7 @@ title: Evaluación
 
 ### Fecha de exámenes: 
 
-> Examen 1: **Lunes 17 Octubre**
+> Examen~1: **Lunes 17 Octubre**
 
 > Examen 2: **Lunes 7 Noviembre**
 
