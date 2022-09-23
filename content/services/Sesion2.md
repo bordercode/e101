@@ -288,7 +288,7 @@ La escasez expresada por la frontera de posibilidades de producción.
 
 + Importante notar que la pendiente de la **FPP** mide el **costo de oportunidad** y este varia dependiendo de la cantidad de producción de los bienes en la economía. No hay forma de producir más de un bien sin producir menos de otro. 
 
-+ El costo de oportunidad en la FPP se expreza  por la **pendiente**. A medida que los recursos se dirigen a la producción de un bien derterminado, la producción de unidades adicionales tiene un un costo de oportnidad mayor.    
++ El costo de oportunidad en la FPP se expreza  por la **pendiente**. A medida que los recursos se dirigen a la producción de un bien derterminado, la producción de unidades adicionales tiene un costo de oportnidad mayor.    
 
 Un escenario de producción fuera de la frontera no es asequible.
 
