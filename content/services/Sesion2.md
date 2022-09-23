@@ -329,8 +329,6 @@ Lea el  [artículo](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwur
 (secciones intro y  *Framing of outcomes* ) y responda lo siguiente: 
 
 
-
-
 1.- ¿Que ejemplo paradigmático señalan los autores para referir una decisión que involucra riesgo? Y que ejemplo mencionan para indicar una decisión que no implica riesgo. 
 
 2.- ¿Considerando el trabajo pionero de **Bernoulli** sobre el papel de la perspectiva sicológica en la toma de decisiones:  ¿Cómo ejemplifican los autores una decisión caracterizada por aversión al riesgo?
