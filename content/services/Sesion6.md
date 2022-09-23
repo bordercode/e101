@@ -17,7 +17,6 @@ weight: 6
 
 ## Definiciones: 
 
-
 **Costos:** Valor de los insumos necesarios para la producción. Dos categorias generales: **Costos Fijos (CF)**, **Costos Variables (CV)**, la suma de estos determina el **costo total (CT)**
 
 
