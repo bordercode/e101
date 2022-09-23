@@ -112,8 +112,7 @@ b) **Demanda inelástica**
 
 ------------------------------------------
 
-
-La empresa es la unidada básica de una industria. 
+La empresa es la unidad básica de una industria. 
 
 + Su objetivo es la maximización de los beneficios (*profits*).
 

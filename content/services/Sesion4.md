@@ -8,16 +8,46 @@ weight: 4
 
 ### Estructuras de mercado.
 
-El criterio fundamental es el grado de competencia que en gran medida esta determinado por la existencia de barreras de entrada. 
+El criterio fundamental para determinar la **estrucutra de mercado** es el **número de empresas** que intervienen en el segmento específico, este númer asu vez deermina el grado de competencia de la industria particular. 
 
-Estas pueden asociase a dos grandes vertientes: 
+Adicionalmente tres rasgos caracterizan la estructura de mercado particular.
+
++ **Grado de homogeneidad** en el producto ó bien entre las diversas empresas del segmento. 
+
+Este atributo determina el grado de substitución que puede tener el bien o servicio producido  y por lo tanto el poder de mercado relativo de una empresa particular. 
+
+Por ejemplo las empresas en el segmento de los productos agrícolas.
+
+![](/images/agricultura.jpg)
+
+
+De tal modo que, se tiene una **relación inversa**, entre la cantidad de substitutos  y el poder de mercado que puede ejercer la empresa en un segmento de mercao específico.
+
+
++ **El poder de mercado:** Entendido como la capacidad que tienen las empresas para poder influir en la determinación del precio (sin tener un impacto significativo en el volumen de demanda).
+
+Esto es, si una empresa se ubica en una industria que tiene una gran cantidad de competidores, un incremento de precio por parte de una empresa particular tendrá un **impacto adverso** de magnitud considerable, exprezado por una reducción abrupta de la **demanda** debido a las múltiples opciones que tienen los conusmidores para **substituir** su producto.
+
+![](/images/bayer.jpg)
+
+Un factor clave que determina el número de empresas es la existencia de **barreras a la entrada**
+
+Estas pueden ser **explícitas:** por ejemplo con base a una **regulación** que de manera directa prohíbe la realización de actividades a un sector empresarial.
+
+Por ejemplo, en **México** la extracción de hidrocarburos se ubicó durante un largo período bajo este esquema. 
+
+![](/images/pemex.jpg)
+
+O bien desprenderse de la estructura de costos de la propia actividad.
+
+Entonces, **las berreras a la entrada**  pueden asociase a dos grandes vertientes: 
 
 + **La estructura de costos de la industria en cuestión** o bien a 
 
 + **regulaciones específicas** (ej. El servicio postal Méxicanp, PEMEX). 
 
 
-Considerndo el numero de empresasas la estructura puede ser: 
+Considerndo el número de empresas la estructura puede ser: 
 
 ##### Monopolio: 
 
