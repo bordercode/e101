@@ -1,9 +1,9 @@
 ---
-date: "2022-09-05T15:15:26+10:00"
+date: "2022-09-03T15:15:26+10:00"
 draft: false
 featured: true
-title: 4. Tipología del mercado. 
-weight: 4
+title: 6. Tipología del mercado. 
+weight: 6
 ---
 
 ## Estructuras de mercado.
