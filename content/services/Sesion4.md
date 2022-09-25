@@ -1,154 +1,37 @@
 ---
-date: "2022-09-03T15:15:26+10:00"
+date: "2022-09-05T12:33:46+10:00"
 draft: false
 featured: true
-title: 6. Tipología del mercado. 
-weight: 6
+title: 4. Costos
+weight: 4
 ---
+## Objetivo: Estudiar los conceptos básicos relacionados a la teoría del produtor.
 
-## Estructuras de mercado.
+### Particulares;
 
-El criterio fundamental para determinar la **estrucutra de mercado** es el **número de empresas** que intervienen en el segmento específico, este número a su vez determina el grado de competencia de la industria particular. 
++ Comprender las definiciones principales  de la estrucutra de costos de la empresa.
 
-Adicionalmente tres rasgos caracterizan la estructura de mercado particular.
++ Analizar la relación de los costos con respecto a las decisiones de fijación de los niveles de producción de la empresa.
 
-+ **Grado de homogeneidad** en el producto ó bien entre las diversas empresas del segmento. 
++ Determinar el criterio de cierre o no producción en relación al nivel de costo y hacer la distinción entre costo total, costo promedio y  costo marginal.  
 
-Este atributo determina el grado de substitución que puede tener el bien o servicio producido  y por lo tanto el poder de mercado relativo de una empresa particular. 
+## Definiciones: 
 
-Por ejemplo las empresas en el segmento de los productos agrícolas.
+**Costos:** Valor de los insumos necesarios para la producción. Dos categorias generales: **Costos Fijos (CF)**, **Costos Variables (CV)**, la suma de estos determina el **costo total (CT)**
 
-![](/images/agricultura.jpg)
 
+Sea: 
 
-De tal modo que, se tiene una **relación inversa**, entre la cantidad de substitutos  y el poder de mercado que puede ejercer la empresa en un segmento de mercao específico.
+P.q= Ingreso **(I)**
 
++ Costo promedio CM=CT/q.
 
-+ **El poder de mercado:** Entendido como la capacidad que tienen las empresas para poder influir en la determinación del precio (sin tener un impacto significativo en el volumen de demanda).
++ Costo total  CT=CM.q
 
-Esto es, si una empresa se ubica en una industria que tiene una gran cantidad de competidores, un incremento de precio por parte de una empresa particular tendrá un **impacto adverso** de magnitud considerable, exprezado por una reducción abrupta de la **demanda** debido a las múltiples opciones que tienen los conusmidores para **substituir** su producto.
+Si P.q<CM, implica que  P.q<CM.q o de otra forma I<CT. 
 
-![](/images/bayer.jpg)
+Dada esta estructura de costos, **la decisión óptima será no productir.** 
 
-Un factor clave que determina el número de empresas es la existencia de **barreras a la entrada**
 
-Estas pueden ser **explícitas:** por ejemplo con base a una **regulación** que de manera directa prohíbe la realización de actividades a un sector empresarial.
+El **costo marginal** es el costo apropiado para **DECIDIR**, la cantidad producida. Mientras el **costo promedio** es el parámetro que indica si se producirá o no. 
 
-Por ejemplo, en **México** la extracción de hidrocarburos se ubicó durante un largo período bajo este esquema. 
-
-![](/images/pemex.jpg)
-
-O bien desprenderse de la estructura de costos de la propia actividad.
-
-Entonces, **las berreras a la entrada**  pueden asociase a dos grandes vertientes: 
-
-+ **La estructura de costos de la industria en cuestión** o bien a 
-
-+ **regulaciones específicas** (ej. El servicio postal Méxicanp, PEMEX). 
-
-
-Considerndo el número de empresas la estructura puede ser: 
-
-## Monopolio: 
-
-En esta estructura de mercado tenemos una sola empresa que domina el mercado. La empresa posee el **100%** del mercado. 
-
-**Ejemplos** clásicos incluyen, compañias de **telefonía** (ej. Telmex), proveedoras de servicios de **agua** potable y saneamiento, compañías proveedoras de **electricidad**  (CFE).
-
-**Compañia dominate** Esta categoría incluye a las compañias que concentran el 50% o más del mercado y sin rivales cercanos: (ejemplos probables: Bimbo, Gruma, Cemex, Grupo México, Televisa).
-
-
-La fijación del precio se basa  en el objetivo de maximizar el  **beneficio** difinido por la relación precio a costo marginal.
-
-La **fijación del precio** y por lo tanto la definición del margen de beneficios, depende de la sensibiliad de la demanda del bien en cuestión.  
-
-Esta sensibilidad entendida como la magnitud de la reacción de la demanda ante variaciones en el precio. 
-Por **ejemplo** un producto como la **insulina**, tiene una sensibilidad muy limitada, la demana en este caso no es muy flexibe, los consumidores que deptenden de este producto para el manejo de su condición médica, no tiene gran variedad de **subtitutos** por lo que una variación en el precio (digamos un incremento) no se acompaña con una disminución más que proporcional al incremento del precio. 
-
-El grado de sensibilidad se denomina **elasticidad** de la demanda. 
-
-En el caso del **monopolio** el margen de beneficio será mayor entre menor sea **la elasticidad** de la demanda del bien en cuestón. 
-
-El precio fijado tiene una **relación inversa** con la elasticidad de la demanda. El monopolista podrá fija precios mayores a medida que el bien en cuestión tiene una **demanda inelástica.**
-
-La figura siguiente muestra esta interacción.
-
-![](/images/precio_monopolio.jpg)
-
-
-+ Note que el **precio** fijado por el monopolista excede el **costto marginal (MC)** recuerde que este costo representa la erogación generada por la producción la unidad adicional del bien y equivale generalmente al precio en una situación de competencia.
-
-
-+ Note que el **precio** que el **monopolista** puede fijar es superior cuando la elasticidad de la demanda del bien, **es superior**  (La elasticidad en este caso es representada por la pendiente de la curva de demanda).
-
-
-
-
-
-## Oligopolio.
-
-
-## Competencia perfecta.
-
-
-Tenemos un conjunto de empresas amplio, (estructura atomizada) con gran variedad de empresas ofreciendo el producto o servicio determinado.
-
-
-Las empresas individuales son **tomadoras de precio** , esto quiere decir que de manera individual no tienen la capacidad de fijar el precio. El precio que se tiene en este mercado esta determinado por el costo marginal. **P=MC.**
-
-En este caso el **costo marginal** es igual al ingreso marginal. CM=IM.
-
-### Actividad 1. 
-
-[Es face book un monopolio?](https://www.economist.com/business/2021/07/03/is-facebook-a-monopolist)
-
-
-1.- ¿Cuál es e la situación principal que enfrenta esta empresa en la actualidad? 
-
-2.- ¿Qué estratégias se mencionan en el artículo respecto al comportamiento de la empresa para expandir su poder de mercado?  
-
-3. ¿En su opinión existe algun riesgo para la sociedad y los consumidores en particular, por la  generación de **monopolios** en empresas en la industria de redes sociales?  
-
-4.- ¿Hasta qué punto, un monopolio  en este segmento puede moldear las preferencias de los consumidores y la estructura social.
-
-
-
-
-Analice el siguiente [artículo](https://www.jornada.com.mx/2006/12/03/index.php?section=politica&article=024a2pol) y responda y responda las preguntas.
-
-
-1.- ¿En qué medida la actividad económica de algunas industrias en México infringe lo estipulado por del art. 28 constitucional?
-
-2.- Considera que la fijación de precios en el contexto de industrias estratégicas  en México representa un impacto adeverso para el consumidor? Argumente los escenarios posibles.
-
-3.- ¿La información que se presenta prodia se ubica en una perspectiva   normativo o positiva de las ideas?  
-
-
-
-
-
-
-##### Actividad 3 
-
-**La competencia como factor en la fijasción de precios.**
-
-
-Analice la siguiente nota y comente:
-
-[TNYT](https://archive.nytimes.com/bits.blogs.nytimes.com/2014/08/14/uber-to-fight-ban-in-berlin/?searchResultPosition=5) 
-
-[from driver](https://drive.google.com/file/d/1n91af2bqL9vtmaW3Gx4_ANod1sc2zbIe/view?usp=sharing)
-
-1. Comente sobre l aimportancia de la tecnología en la trasnformación de industrias tradicionales y los retos que esto implica para actividades economicas tradicionales como el transporte privado de pasajeros.
-
-
-2.¿Qué impacto sobre los precios se prevee como resultado del aumento de la competencia ? 
-
-
-3. ¿Son las preferecias del consumidor quienes determinan la estructura de este percado en particular? ¿Qué papel tiene el estado para la regulación de la actividad economica en cuanto a competencia? 
-**Recomendación del dia.**
-
-
-Monopolios globales.
-
-[Caso Monopolio: Amazon](https://www.youtube.com/watch?v=-IKSEVsHens)
