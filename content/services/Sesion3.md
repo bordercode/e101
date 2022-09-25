@@ -3,7 +3,7 @@ date: "2022-09-06T15:14:39+10:00"
 draft: false
 featured: true
 title: 3. Teoría de la demanda.
-weight: 2
+weight: 3
 ---
 
 La **DEMANDA** representa el nivel mínimo de **recursos (p)** que los consumidores estan dispuestos a pagar por adquirir una determinada **cantidad (q)** de un bien.
