@@ -169,7 +169,7 @@ El costo económico difiere de los gastos realizados por que el primero **incluy
 
 ###  Determinación del valor
 
-Uno de los primeros objetivos en economía fue la **explicación de la fuente del valor**.  Si bien este puede parecer un planteamiento filosófico con la subjetividad propia, los diversos autores que integran el pensamiento económico sistematizaron explicaciones sobre este importante concepto.
+Uno de los primeros objetivos en economía fue la **explicación de la fuente del valor**.  Si bien este puede parecer un planteamiento filosófico con la subjetividad propia, los diversos autores que integran el pensamiento económico sistematizaron **explicaciones** sobre este importante concepto.
 
 
 - Teoría del Valor  trabajo. Por ejemplo Marx, planteó en su famosa obra:  **El Capital**, que el valor se deriva del trabajo. Una consecuencia del entendimiento erróneo de esta idea es que el capitalismo como sistema económico implica condiciones de explotación por parte de los dueños de los medios de producción hacia una clase de individuos, que despovistos de medios productivos ofrecen en el marco del proceso productivo, lo único que poseen, su fuerza de trabajo. 
@@ -254,7 +254,7 @@ Para repaso de conceptos. Leer capitulos I, II y II del libro **Principles of Ec
 
 ## Métodos en economía. 
 
-Tratándose de una **ciencia social** donde los sujetos de estudio son los indviduos y sus acciones colectivas ( *Little disclaimer:* vivimos en un mundo interdependiente, **somos entes políticos**, en este sentido y por lo tanto, entender las reglas que hacen que nuestra convivencia pacífica funcione, en especial en el espectro económico, es una tarea relevante y menos clara que las leyes deterministas que encontramos en disciplinas del conocimiento como la física, por ejemplo). 
+Tratándose de una **ciencia social** donde los sujetos de estudio son los indviduos y sus acciones colectivas ( *Little disclaimer:* vivimos en un mundo interdependiente, **somos entes políticos**, en este sentido y por lo tanto, entender las reglas que hacen que nuestra convivencia pacífica funcione, en especial en el espectro económico, es una tarea relevante y **menos clara** que las **leyes deterministas** que encontramos en disciplinas del conocimiento como la **física**, por ejemplo). 
 
 Es necesario indicar que **modelar** la realidad para comprender **los efectos que nuestra acciones** pueden causar sobre el **bienestar individual o colectivo**, es una tarea cotidiana en **ECONOMÍA**
 
@@ -312,11 +312,11 @@ En síntesis, en este modelo básico, vemos los siguientes conceptos fundamental
 El problema del uso de supuestos para entender la realidad, es que, estos no siempre se cumplen, lo que implica que, es importante limitarlos a su estricto dominio factible, de lo contrario terminariamos generando **modelos** que en lugar de explicar la realidad generarían escenarios propios de la **ciencia ficción**. 
 
 
-Uno de los supuestos fundamentales en economía y particularmente en el subcampo de **MICROECONOMÍA**  es la **racionalidad** de los agentes. Es decir las decisiones que los individuos toman, se basan en un proceso de contraste de costo beneficio. 
+Uno de los supuestos fundamentales en economía y particularmente en el subcampo de **MICROECONOMÍA**  es la **racionalidad** de los agentes. Es decir las decisiones que los individuos toman, se basan en un proceso de **contraste de costo-beneficio**. 
 
 #### Actividad 7 
 
-Analicemos el siguiente artículo en donde se muestra por que los supuestos y en consecuencia los modelos, si bien útiles, para describir un fenómeno en economía en términos teóricos, pueden y con frecuencia lo estan, alejados de la realidad.
+Analicemos el siguiente artículo en donde se muestra por qué los supuestos y en consecuencia los modelos, si bien útiles, para describir un fenómeno en economía en términos teóricos, pueden y con frecuencia lo estan, alejados de la realidad.
 
 
 Autor: **Daniel Kahneman y Amos Tversky** Economics Nobel prize winners. 
@@ -346,7 +346,7 @@ Lea el  [artículo](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwur
 A diferencia de otras ciencias, en la economía, la experimentación no es una fase del proceso ceintifico, tan común, por la simple razón de que los sujetos de estudio son individuos  cuya percepción de la realidad tiene un importante componente subjetivo. 
 
 
-No obstante, la experimentación se ha convertido en uno de los mecanismos de análisis mas importantes en campos como micro economía.  Un exponente notable de este campo es **Daniel Kahneman** 
+No obstante, la experimentación se ha convertido en uno de los mecanísmos de análisis mas importantes en campos como microeconomía.  Un exponente notable de este campo es **Daniel Kahneman** 
 
 
 
