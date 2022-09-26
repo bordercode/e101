@@ -219,13 +219,19 @@ Los viajes en transporte público son un **bien inferior** en este caso.
 
 Lea el siguiente artículo y analice el caso con base en las preguntas que se presentan. 
 
-[TUBER](https://www.economist.com/business/2019/04/27/can-uber-ever-make-money?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=17210591673&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclsrc=ds&gclsrc=ds)
+[Nota UBER](https://www.economist.com/business/2019/04/27/can-uber-ever-make-money?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=17210591673&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclsrc=ds&gclsrc=ds)
 
-1. ¿De que manera la existencia de bienes subtitutos influye en la determinación del precio en este caso?
+[UBER y competencia](https://www.youtube.com/watch?v=g1dTjROL8Uc)
 
-2.-En que medida la demanda por servicios como UBER permite determinar la estructura de mercado en un segmento como el transporte? 
+[Material recomendado. Opcional para casa](https://www.youtube.com/watch?v=NiWZjN0B0h0)
 
-3. Que papel tiene en estela marca como elemento para moldear las preferencias del consumidor? 
+
+
+1. ¿De qué manera la existencia de bienes subtitutos influye en la determinación del precio en este caso?
+
+2.-En qué medida la demanda por servicios como **UBER** permite determinar la estructura de mercado en un segmento como el transporte? 
+
+3. ¿Qué papel tiene en la marca como elemento para moldear las **preferencias del consumidor** y a su vez la demanda por este servicio? 
 
 4. En su opinión la destitución de los monpolios mediante la incursión de nuevos competidores a un mercado regulado como el de trasporte privado tiene impactos beneficos en el largo plazo?  Considera que la demanda por este servicios se mantega con un dinamismo como el visto hasta el momento en algunas ciuades? 
 
