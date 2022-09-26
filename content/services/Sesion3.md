@@ -15,7 +15,7 @@ Estudiar los determinantes de la demanda y derivar la construcción de la relaci
 
 1.- Analizar los 6 determinates básicos de la demanda.
 
-2.- Considerar escenarios de estatica comparativa.
+2.- Considerar escenarios de estática comparativa.
 
 3.- Estudiar la noción de elasticidad de la demanda desde una perspectiva empirica y sus implicaciones.
 
@@ -38,9 +38,9 @@ El **precio del propio bien**, el precio de bienes relacionados (**substitutos**
 
 **Dx=f(-px, py, I, Pr)**
 
-Adicionalmente 2 determinates de la demanda son las expectativas y el tamao de la población. Abordaremos ambos a detalle más adelante en esta clase.
+Adicionalmente 2 determinates de la demanda son las expectativas y el tamaño de la población. Abordaremos ambos a detalle más adelante en esta clase.
 
-[Economics of Marihuana](https://drive.google.com/file/d/1hyya9tpTPaNVeCV6nyihrH0Voh-tuCM_/view?usp=sharing).
+
 
 
 
@@ -102,10 +102,55 @@ En síntesis estos son los 6 determinantes de la **demanda:**
 
 
 
-[](inlcuir clip de demanda por café y los productores de Colombia)
+### Actividad 1
 
-[](Starbucks).
 
+#### Tema 1
+
+Elija uno de los dos temas propuestos y en equipo de dos personas conteste las preguntas y comente en clase: 
+
+[Economics of Marihuana](https://drive.google.com/file/d/1hyya9tpTPaNVeCV6nyihrH0Voh-tuCM_/view?usp=sharing).
+
+Únicamente leer sección  **3.1 Issues in drug prices** y **3.4 Marijuana has become substantially cheaper**
+
+1.- Discuta las particularidades de la fijación del precio de un producto como las dorgas.
+
+2. ¿A qué se refiere el autor cuando señala que la fijación del precio de algunas drogas se comporta como un "*experience good"*
+
+3.- ¿Qué elmentos indica el autor que pueden ser de importancia en la categoria de "*non-monetary cost*" para la integración del precio de algunas drogas.
+
+4.- ¿Cómo ha sido la trayectoria temporal del precio de la marihuana en los ultimos años? 
+
+5.-¿Cómo ha impactado el precio de la marihuana, los cambiso tecnológicos? 
+
+
+### Tema 2 
+
+Examine el siguiente articulo sobre la franquicia Starbucks y responda las preguntas que se indicarn para dicutir en clase. 
+
+
+[Articulo desde Drive](https://drive.google.com/file/d/1deZInDzsky308EDEKFlHSAKM3y7t3iLp/view?usp=sharing)
+
+o acceso desde el enlace en web html.
+
+[Starbucks](https://www.economist.com/1843/2020/07/22/why-we-speak-starbucks)
+
+
+[Precios esperados](https://www.nytimes.com/2021/08/12/business/coffee-prices-higher.html)
+
+o Descargue desde drive
+
+[Artículo Precios esperados](https://drive.google.com/file/d/1Q7owYaq-i1u83gfQQmG_4DwWoQpb75RW/view?usp=sharing)
+
+1. Acorde con la teoría microeconómica, uno de los determiantes más importantes de la demanda se define por las preferencias del consumidor. En el caso particular, ¿De que manera este determinate es importante para la consolidación global de demanda de starbucks. 
+
+
+2.- Acorde con el articulo del New york times, que factores estan afectando la determinación del precio del café. 
+
+3.-¿Qué países se indican en el análisis como posibles regiones que influyen en el precio de este producto? 
+
+4.-¿De qué manera influye en el precio los denominados coffe futures?
+-------------------------------------
 
 **POblación:**  Hay una relación directa entre el incremento de la población y la demanda de un bien particular. 
 
@@ -175,8 +220,7 @@ Los viajes en autobús son en este caso un **bien inferior**.
 
 ##### Dos usos importantes de la curva de DEMANDA**. 
 
-El primero es predecir la cantidad demandada dado un precio particular, por ejemplo sabemos por la curva que la demanda **(q)**
-al precio P1=50 será q1=1
+El primero es predecir la cantidad demandada dado un precio particular, por ejemplo sabemos por la curva, que la demanda **(q)** al precio P1=50 será q1=1 En el ejemplo sobre demanda de laptops. 
 
 
 ### EXCEDENTE DEL CONSUMIDOR 
@@ -290,7 +334,7 @@ Una mejora **tecnológica,** permite una **nueva curva** desplazada a la derecha
 
 El modelo de **oferta y demanda** permite establecer un escenario inicial sobre el funcionamiento del **mercado**, su interacción permite determinar una situación de equilibrio donde tanto el precio como la cantidad demandada se establecen. 
 
-#### El papel del precio como regulador
+#### El papel del precio como regulador.
 
 El precio actúa como **regulador** entre los dos componentes del modelo **oferta y demanda**, de tal modo que si **la demanda excede la oferta** (ej. una combinación p, q, inferior al precio de mercado) disponible, **el precio se incrementará** hasta alcanzar su nivel de equilibrio, por el contrario **cuando la oferta supera** la **demanda** el precio tenderá a **disminuir** hasta que, tanto los niveles de oferta como demanda, coincidan. 
 
