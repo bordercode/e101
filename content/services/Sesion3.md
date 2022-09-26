@@ -177,12 +177,23 @@ Note diferencia entre movimiento a lo largo y desplazamiento de la curva.
 
 ![](/images/0demanda3.jpg)
 
-##### Actividad
+##### Actividad 2.
 
 Analizar los determinates de la demanda.
 
-[](clip sobre población en Japón)
+[Estructura poblacional y demanda](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2020)659419)
 
+
+[Material complementario](https://www.youtube.com/watch?v=hJCr5WJapm8)
+
+1- Acorde con la infomración presentada por el artículo y considerando la teoria microeconómica sobre la demanda? 
+
+Que escenario se prevee para la demanda de bienes de consumo en población de la tercera edad en Japón en las proximas décadas. 
+
+
+2.- ¿De qué forma la estructura poblacional moldea la demanda de bienes y servicios en una sociedad?
+
+3.-
 
 Analizar los determinates de la demanda.
 
