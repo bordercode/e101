@@ -193,7 +193,7 @@ Que escenario se prevee para la demanda de bienes de consumo en población de la
 
 2.- ¿De qué forma la estructura poblacional moldea la demanda de bienes y servicios en una sociedad?
 
-3.-
+3.-Dado el escenario en este pais ¿Que podemos esperar respecto a la demanda de productos peatricos vs. aquellos geriátricos?
 
 Analizar los determinates de la demanda.
 
@@ -215,8 +215,20 @@ Si el **ingreso se incrementa** y tengo la opción de utilizar **UBER** o transp
 
 Los viajes en transporte público son un **bien inferior** en este caso. 
 
+#### Actividad
 
-[](Nota sobre la demanda de UBER)
+Lea el siguiente artículo y analice el caso con base en las preguntas que se presentan. 
+
+[TUBER](https://www.economist.com/business/2019/04/27/can-uber-ever-make-money?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=17210591673&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclsrc=ds&gclsrc=ds)
+
+1. ¿De que manera la existencia de bienes subtitutos influye en la determinación del precio en este caso?
+
+2.-En que medida la demanda por servicios como UBER permite determinar la estructura de mercado en un segmento como el transporte? 
+
+3. Que papel tiene en estela marca como elemento para moldear las preferencias del consumidor? 
+
+4. En su opinión la destitución de los monpolios mediante la incursión de nuevos competidores a un mercado regulado como el de trasporte privado tiene impactos beneficos en el largo plazo?  Considera que la demanda por este servicios se mantega con un dinamismo como el visto hasta el momento en algunas ciuades? 
+
 
 **Ejemplo** 
 
