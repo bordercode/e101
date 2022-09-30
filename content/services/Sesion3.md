@@ -1,4 +1,4 @@
-.---
+---
 date: "2022-09-06T15:14:39+10:00"
 draft: false
 featured: true
@@ -104,16 +104,17 @@ En síntesis estos son los 6 determinantes de la **demanda:**
 
 ### Actividad 1
 
+Elija uno de los dos temas propuestos y en equipo de dos personas conteste las preguntas y comente en clase: 
 
 #### Tema 1
 
-Elija uno de los dos temas propuestos y en equipo de dos personas conteste las preguntas y comente en clase: 
+
 
 [Economics of Marihuana](https://drive.google.com/file/d/1hyya9tpTPaNVeCV6nyihrH0Voh-tuCM_/view?usp=sharing).
 
 Únicamente leer sección  **3.1 Issues in drug prices** y **3.4 Marijuana has become substantially cheaper**
 
-1.- Discuta las particularidades de la fijación del precio de un producto como las dorgas.
+1.- Discuta las particularidades de la fijación del precio de un producto como las drogas.
 
 2. ¿A qué se refiere el autor cuando señala que la fijación del precio de algunas drogas se comporta como un "*experience good"*
 
@@ -121,12 +122,12 @@ Elija uno de los dos temas propuestos y en equipo de dos personas conteste las p
 
 4.- ¿Cómo ha sido la trayectoria temporal del precio de la marihuana en los ultimos años? 
 
-5.-¿Cómo ha impactado el precio de la marihuana, los cambiso tecnológicos? 
+5.-¿Cómo los cambios tecnológicos han impactado el precio de la marihuana, ? 
 
 
 ### Tema 2 
 
-Examine el siguiente articulo sobre la franquicia Starbucks y responda las preguntas que se indicarn para dicutir en clase. 
+Examine el siguiente artículo sobre la franquicia **Starbucks** y responda las preguntas que se indican para discutir en clase. 
 
 
 [Articulo desde Drive](https://drive.google.com/file/d/1deZInDzsky308EDEKFlHSAKM3y7t3iLp/view?usp=sharing)
@@ -142,17 +143,21 @@ o Descargue desde drive
 
 [Artículo Precios esperados](https://drive.google.com/file/d/1Q7owYaq-i1u83gfQQmG_4DwWoQpb75RW/view?usp=sharing)
 
-1. Acorde con la teoría microeconómica, uno de los determiantes más importantes de la demanda se define por las preferencias del consumidor. En el caso particular, ¿De que manera este determinate es importante para la consolidación global de demanda de starbucks. 
+1. Acorde con la teoría microeconómica, uno de los determiantes más importantes de la demanda se define por las preferencias del consumidor. En el caso particular, ¿De que manera este determinate es importante para la consolidación global de demanda de cafe en la cadena **Starbucks**. 
 
 
-2.- Acorde con el articulo del New york times, que factores estan afectando la determinación del precio del café. 
+2.- Acorde con el articulo del **New York Times**, qué factores estan afectando la determinación del precio del café. 
 
 3.-¿Qué países se indican en el análisis como posibles regiones que influyen en el precio de este producto? 
 
-4.-¿De qué manera influye en el precio los denominados coffe futures?
+4.- ¿De qué manera influye en el precio los denominados *coffe futures* ?
+
+
 -------------------------------------
 
-**POblación:**  Hay una relación directa entre el incremento de la población y la demanda de un bien particular. 
+##### Población:
+
+Hay una relación directa entre el incremento de la población y la demanda de un bien particular. 
 
 **Ejemplo**
 
@@ -188,12 +193,12 @@ Analizar los determinates de la demanda.
 
 1- Acorde con la infomración presentada por el artículo y considerando la teoria microeconómica sobre la demanda? 
 
-Que escenario se prevee para la demanda de bienes de consumo en población de la tercera edad en Japón en las proximas décadas. 
+¿Qué escenario se prevee para la demanda de bienes de consumo en población de la tercera edad en Japón en las proximas décadas? 
 
 
 2.- ¿De qué forma la estructura poblacional moldea la demanda de bienes y servicios en una sociedad?
 
-3.-Dado el escenario en este pais ¿Que podemos esperar respecto a la demanda de productos peatricos vs. aquellos geriátricos?
+3.-Dado el escenario en este pais ¿Qué podemos esperar respecto a la demanda de productos pediátricos vs. aquellos geriátricos?
 
 Analizar los determinates de la demanda.
 
@@ -233,7 +238,9 @@ Lea el siguiente artículo y analice el caso con base en las preguntas que se pr
 
 3. ¿Qué papel tiene en la marca como elemento para moldear las **preferencias del consumidor** y a su vez la demanda por este servicio? 
 
-4. En su opinión la destitución de los monpolios mediante la incursión de nuevos competidores a un mercado regulado como el de trasporte privado tiene impactos beneficos en el largo plazo?  Considera que la demanda por este servicios se mantega con un dinamismo como el visto hasta el momento en algunas ciuades? 
+4. En su opinión ¿la destitución de los monpolios mediante la incursión de nuevos competidores a un mercado regulado como el de trasporte privado tiene impactos beneficos en el largo plazo?  
+
+5.-¿Considera que la demanda por este servicios se mantega con un dinamismo como el visto hasta el momento en algunas ciuades?  Si, no, porqué
 
 
 **Ejemplo** 
@@ -243,7 +250,7 @@ Si el **ingreso se incrementa**, es probable que la cantidad de viajes en avión
 Los viajes en autobús son en este caso un **bien inferior**. 
 
 
-[](nota sobre demanda por boletos de avión)
+[](boletos de avión)
 
 
 
@@ -283,18 +290,22 @@ La sensibilidad que tiene la cantidad demandada de un bien respecto a variacione
 Intuitavamente la definición de **elasticidad** nos permite determinar qué tan flexible es la demanda cuando experimentamos un incremento en el precio de un bien. 
 
 
-Ahora bien, es importante notar que los bienes se pueden clasifican en **substitutos** y **complementarios**
+Ahora bien, es importante notar que los bienes se pueden clasificar en **substitutos** y **complementarios**
 
 
-Por ejemplo un  **iphone** puede ser un substituto de un telefono samsung (android). Pero  unos audifonos son un bien **complementio de ambos celulares.
+Por ejemplo un  **iphone** puede ser un substituto de un telefono samsung (android). Pero  unos audifonos son un bien **complementario** de ambos celulares.
 
 Típicamente, productos que no tienen **substitutos** cercanos, como por ejemplo, la **insulina** en el caso de enfermos por diabetes o la gasolina para los usuarios de automóviles, algunas drogas como la mariguana, (|e|=0.41), (ver [Estudio aquí](https://www.upo.es/revistas/index.php/RevMetCuant/article/view/2689)), heroina, crack, psp, cristal, etc, etc.,   
 
-Tendrán una **elasticidad menor**,  serán menos inelásticos (el rango de interes en este indicador  se ubica en el intervalo [0,$\infty$], con **|e|>1**, indicando productos que experimentan **una reducción más que proporcional en la demanda** ante un incremento en su precio, **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio). 
+Tendrán una **elasticidad menor**,  serán  inelásticos.
 
-Contrario por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyería y en general artículos **no escenciales o relativamente abundantes** o con una diversidad de productos considerados como substitutos cercanos.
+El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].
 
++ Donde  **|e|>1**, representa productos que experimentan **una reducción más que proporcional en la demanda** ante un incremento en su precio.
 
++ Mientras que valores **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio). 
+
+Contrario, por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyería y en general artículos **no escenciales o relativamente abundantes** o con una diversidad de productos considerados como substitutos cercanos.
 
 ##### Actividad  
 
@@ -322,16 +333,18 @@ b) **Demanda inelástica**
 
 5. ¿Qué influencia describen los autores en relación al incremento del número de consumidores y el efecto de servicios complementarios con respecto al cálculo del excedente del consumidor para el consumo de servicios como internet?
 
-6.-¿Cuál es el estimado de **excedente del consumidor** que presentan los autores para servicios como **Wikipedia** y el consumo de banda ancha para proveer internet, en 2006?  
+6.-¿Cuál es el estimado de **excedente del consumidor** que presentan los autores para servicios como **Wikipedia** y el consumo de **banda ancha** para proveer internet, en 2006?  
 
 ------------------------------------------
+
+## La oferta y la determinación del precio de equilibrio.
 
 ### La curva de oferta un componente básico del modelo de determinación de precios en el mercado.
 
 
 ¿Cuáles son los determiantes de la  conformación de la curva de oferta y su relación con la fijación de precio del bien producido?
 
-El nivel de **oferta** depende de el precio del bien particular en el mercado.   Y de 6 factores fundamentales:
+El nivel de **oferta** depende del precio del bien particular en el mercado.   Y depende de  6 factores fundamentales:
 
 $$Sx=f(Px, Precios factores de producción(K,L,t),Py, Env, tech, #oferentes, Xpect-p en t+1 )$$
 
@@ -347,7 +360,7 @@ $$Sx=f(Px, Precios factores de producción(K,L,t),Py, Env, tech, #oferentes, Xpe
 
 Una regulación impulsa la organzación sindical y se produce un incremento en los salarios de la industria automotriz para cumplir con los requisitos del T-MEC. 
 
-Como resultado, el incremento en el costo de los factores de producción genera una reducción de la curva de oferta con un mayor precio de equilibrio y una menor cantidad producida.
+Como resultado, el incremento en el costo de los factores de producción se experimenta una reducción de la curva de oferta con un mayor precio de equilibrio y una menor cantidad producida.
 
 **Ejempo 3**
 
@@ -357,7 +370,7 @@ Una mejora **tecnológica,** permite una **nueva curva** desplazada a la derecha
 
 ![](/image/effect_supply.jpg)
 
-+ Únicamente un Cambio en el precio del bien producido genera un movimiento a lo largo de la curva de oferta.
++ Únicamente un **Cambio en el precio del bien producido** genera un **movimiento a lo largo** de la curva de oferta.
 
 #### Importancia de la oferta para la determinación del precio de equilibrio en el mercado.
 
@@ -365,20 +378,18 @@ El modelo de **oferta y demanda** permite establecer un escenario inicial sobre 
 
 #### El papel del precio como regulador.
 
-El precio actúa como **regulador** entre los dos componentes del modelo **oferta y demanda**, de tal modo que si **la demanda excede la oferta** (ej. una combinación p, q, inferior al precio de mercado) disponible, **el precio se incrementará** hasta alcanzar su nivel de equilibrio, por el contrario **cuando la oferta supera** la **demanda** el precio tenderá a **disminuir** hasta que, tanto los niveles de oferta como demanda, coincidan. 
+El precio actúa como **regulador** entre los dos componentes del modelo **oferta y demanda**, de tal modo que si **la demanda excede la oferta** (ej. una combinación (p, q), inferior al precio de mercado) disponible, **el precio se incrementará** hasta alcanzar su nivel de equilibrio, por el contrario **cuando la oferta supera** la **demanda** el precio tenderá a **disminuir** hasta que, tanto los niveles de oferta como demanda, coincidan. 
 
-Interacción de la Oferta y la demanda para la determinación del precio de equilibrio en el mercado.
-
+**Interacción de la Oferta y la demanda para la determinación del precio de equilibrio en el mercado.**
 
 ![](/images/supply_demand_eq.jpg)
-
-
 
 ### Actividad 
 
 Revise el siguiente escenario y responda las preguntas:
 
-![Ejercicio](\images\coffe_ejercicio.jpg)
+
+![Ejercicio](/images/coffe_ejercicio.jpg)
 
 
 
