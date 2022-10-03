@@ -337,7 +337,7 @@ Lea el  [artículo](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwur
 
 5. ¿En qué consite el principio de invariabilidad? 
 
-6. ¿En el ejemplo sobre el surgimiento de un "padecimiento Asiatico" que se menciona en página 343, parrafo 4,  columna 1 y parrafo 1  columna 2; El resultado se descibe como un escenario de aversión al riesgo o una situación de busqueda de riesgo?  Explique por que en cualquier caso. 
+6. ¿En el ejemplo sobre el surgimiento de un "padecimiento Asiático" que se menciona en página 343, parrafo 4,  columna 1 y parrafo 1  columna 2; El resultado se descibe como un escenario de aversión al riesgo o una situación de busqueda de riesgo?  Explique por que en cualquier caso. 
 
 
 
