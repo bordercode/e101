@@ -244,9 +244,6 @@ Responda las siguientes preguntas:
 ### Discusión en clase con base en la repuestas del grupo.  
 
 
-
-
-
 #### Lectura recomendada. 
 
 Para repaso de conceptos. Leer capitulos I, II y II del libro **Principles of Economics by Karl Menger.**
@@ -268,6 +265,7 @@ Uno de los mecanísmos de análisis en economía es la construcción de modelos.
 Por ejemplo un modelo básico del funcionamiento de la economía es:
 
 ![](/images/circular.jpg)
+
 *Source: Gregory Mankiw*
 
 Los modelos se basan en **supuestos** y  estos parten de concepciones teóricas de la realidad que pueden o no ser verdaderos. 
