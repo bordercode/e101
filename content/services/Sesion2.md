@@ -277,7 +277,7 @@ Un segundo modelo denominado frontera de posibilidades de producción permite re
 
 La escasez expresada por la frontera de posibilidades de producción. 
 
-![](/images/PPF.jpg)
+![](/images/PPF1.jpg)
 *Source: Gregory Mankiw Principles of economics*
 
 + Note que las combinaciones de producción posibles se ubican dentro o sobre la curva (denominada frontera de posibilidades de producción).
@@ -293,7 +293,7 @@ Un escenario de producción fuera de la frontera no es asequible.
 La siguiente figura muestra que el modelo de la **FPP** no es estático, de hecho permite introducir un concepto muy importante: la **innovación tecnologica** que lleva al **crecimiento económico**  
 Ante la presencia de una **innovación tecnológica**, lo que permite alcanzar niveles superiores de producción ej. las posibilidades productivas se expaden y la relación de costos de oportunidad se ajusta. 
 
-![](/images/PPF2.jpg)
+![](/images/PPF2x.jpg)
 *Source: Gregory Mankiw. Principles of economics* 
 
 En síntesis, en este modelo básico, vemos los siguientes conceptos fundamentales del instrumental económico: 
