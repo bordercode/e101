@@ -292,6 +292,8 @@ La siguiente figura muestra que el modelo de la **FPP** no es estático, de hech
 Ante la presencia de una **innovación tecnológica**, lo que permite alcanzar niveles superiores de producción ej. las posibilidades productivas se expaden y la relación de costos de oportunidad se ajusta. 
 
 ![](/images/PPF2x.jpg)
+
+
 *Source: Gregory Mankiw. Principles of economics* 
 
 En síntesis, en este modelo básico, vemos los siguientes conceptos fundamentales del instrumental económico: 
