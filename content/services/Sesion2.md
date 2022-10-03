@@ -1,5 +1,5 @@
 ---
-date: "2022-10-03T15:00:34+10:00"
+date: "2022-10-04T15:00:34+10:00"
 draft: false
 featured: true
 title: 2. Areas de estudio principales en economía
