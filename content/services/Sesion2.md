@@ -291,7 +291,7 @@ Un escenario de producción fuera de la frontera no es asequible.
 La siguiente figura muestra que el modelo de la **FPP** no es estático, de hecho permite introducir un concepto muy importante: la **innovación tecnologica** que lleva al **crecimiento económico**  
 Ante la presencia de una **innovación tecnológica**, lo que permite alcanzar niveles superiores de producción ej. las posibilidades productivas se expaden y la relación de costos de oportunidad se ajusta. 
 
-![](/images/PPF2x.jpg)
+![](/images/2x.jpg)
 
 
 *Source: Gregory Mankiw. Principles of economics* 
