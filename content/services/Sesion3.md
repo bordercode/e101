@@ -33,7 +33,7 @@ La **DEMANDA** representa el nivel mínimo de **recursos (p)** que los consumido
 Los 4 determinantes principales de la **demanda** son: 
 
 
-El **precio del propio bien**, el precio de bienes relacionados (**substitutos** o **complementarios**), el ingreso del consumidor, las preferenias, la expectativas del precio el tamaño de la población y las expectativas del ingreso.
+El **precio del propio bien**, el precio de bienes relacionados (**substitutos** o **complementarios**), el ingreso del consumidor, las preferenias, la expectativas del precio, el tamaño de la población y las expectativas del ingreso.
 
 
 **Dx=f(-px, py, I, Pr)**
@@ -67,6 +67,7 @@ La forma de la curva refleja el hecho de que el **consumo de unidades sucesivas*
 
 
 ![](/images/demandacurve.jpg)
+
 **Fig. 1**  *Curva de demanda.*
 
 + Este comportamiento explica el concepto de **utilidad marginal decreciente**

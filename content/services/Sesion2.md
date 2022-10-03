@@ -331,13 +331,13 @@ Lea el  [artículo](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwur
 
 2.- ¿Considerando el trabajo pionero de **Bernoulli** sobre el papel de la perspectiva sicológica en la toma de decisiones:  ¿Cómo ejemplifican los autores una decisión caracterizada por aversión al riesgo?
 
-3.- ¿Cómo ejemplifica el autor un comportamiento de **busqueda de riesgo** en el *dominio de las perdidas* en la toma de decisiones sobre una apuesta? 
+3.- ¿Cómo ejemplifica el autor un comportamiento de **busqueda de riesgo** en el *dominio de las pérdidas* en la toma de decisiones sobre una apuesta? 
 
 4.- ¿Describa en que consiste el axioma de transitividad propuesto por  **Von Newman y Morgenstern**?
 
-5. ¿En que consite el principio de invariabilidad? 
+5. ¿En qué consite el principio de invariabilidad? 
 
-6. ¿En el ejemplo sobre el surgimiento de un "padecimiento Asiatico" que se menciona en página 343, parrafo 4columna 1 y parrafo 1  columna 2; El resultado se descibe como un escenario de aversión al riesgo o una situación de busqueda de riesgo?  Explique por que en cualquier caso. 
+6. ¿En el ejemplo sobre el surgimiento de un "padecimiento Asiatico" que se menciona en página 343, parrafo 4,  columna 1 y parrafo 1  columna 2; El resultado se descibe como un escenario de aversión al riesgo o una situación de busqueda de riesgo?  Explique por que en cualquier caso. 
 
 
 
