@@ -222,7 +222,7 @@ Con base en la información del clip anterior responda los siguientes cuestionam
 
 **Assignment in-class Analyisis :**
 
-Leer sección *The Nature and Origin of Value* del capitulo   III (The Theory of value), pagina 114-121 del libro **Principles of Economics by Karl Menger, Carl Menger**   [disponible aquí](https://drive.google.com/file/d/1MH_odBz6NGxSoY6gS98BV5R4m0Zs0i4z/view?usp=sharing) 
+Leer sección *The Nature and Origin of Value* del capitulo   III (The Theory of value), pagina 114-121 del libro **Principles of Economics by  Carl Menger**   [disponible aquí](https://drive.google.com/file/d/1MH_odBz6NGxSoY6gS98BV5R4m0Zs0i4z/view?usp=sharing) 
 
 Responda las siguientes preguntas: 
 
