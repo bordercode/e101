@@ -106,7 +106,7 @@ Observa el siguiente material y escribe un argumento (media cuartilla) sobre la 
 
 [I pencil ](https://youtu.be/IYO3tOqDISE)
 
-### Principios básicos que guían el análisis económico
+## Principios básicos que guían el análisis económico
 
 ##### La noción de costo económico incluye el costo de oportuniad.
 
