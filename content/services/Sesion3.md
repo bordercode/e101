@@ -1,5 +1,5 @@
 ---
-date: "2022-10-10T15:14:39+10:00"
+date: "2022-10-03T15:14:39+10:00"
 draft: false
 featured: true
 title: 3. Teoría de la demanda.
