@@ -201,11 +201,7 @@ Analizar los determinates de la demanda.
 
 3.-Dado el escenario en este pais ¿Qué podemos esperar respecto a la demanda de productos pediátricos vs. aquellos geriátricos?
 
-Analizar los determinates de la demanda.
-
-[Demanda por prodctos causa deforestación en Brazil](https://www.economist.com/graphic-detail/2020/06/11/a-study-names-firms-that-buy-products-from-areas-with-deforestation)
-
-
+-----------------------------------------------
 
 Para finalizar esta sección es importante mencionar que, acorde con el **comportamiento de la demanda**, podemos clasificar los bienes en dos categorias: 
 
