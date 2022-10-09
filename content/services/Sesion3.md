@@ -101,6 +101,19 @@ En síntesis estos son los 6 determinantes de la **demanda:**
 
 **Expectativas de Precios** Si se anticipa un incremento (**disminución**) en los precios del bien. Ej. si la cosecha de café se pierde por un evento meteorológico inesperado en **Brazil** o **Colombia**. (o en Coatepec, Veracruz, Chiapas, ), se prevé que el precio en Starbucks de la taza, se incremente.
 
+## Objetivos de la sesión
+
++ Estudiar como los determinates de la demanda se expresan en **industrias particulares**.
+
++ Analizar los efecto de los determinates: precios esperados ingresos y población sobre la **demanda** de mercado.
+
++ Presentar las definiciones de bienes complementarios, substitutos, normales e inferiors.
+
++ Definir las principales estructuras de mercado
+
+#### Metas de aprendizaje.
+
+Una vez que se ha expuesto las bases teóricas y fundamentos conceptuales, la meta es comprender los fundamentos de la demanda a paritr de casos de estudio concretos. 
 
 
 ### Actividad 1
@@ -211,11 +224,23 @@ Para finalizar esta sección es importante mencionar que, acorde con el **compor
 + **Bienes Inferiores:** Tienen una relación inversa entre ingreso del individuo y la cantidad demandada. 
 
 
-**Ejemplo** 
+**Ejemplo 1** 
 
 Si el **ingreso se incrementa** y tengo la opción de utilizar **UBER** o transporte público, es muy probable que la demanda por viajes en trasporte público disminuya en favor de la demanda por **UBER**.
 
 Los viajes en transporte público son un **bien inferior** en este caso. 
+
+
+**Ejemplo 2: Bienes inferiores. Relación Demanda ingreso. **
+
+
+Considere la demanda por medios de transporte ante impacto en una modificación del ingreso. 
+
+Si el **ingreso se incrementa**, es probable que la cantidad de viajes en **avión** se incremente (bien normal) mientras aquellos en **autobús** disminuyan. 
+
+Los viajes en autobús son en este caso un **bien inferior**. 
+
+
 
 #### Actividad
 
@@ -225,8 +250,6 @@ Lea el siguiente artículo y analice el caso con base en las preguntas que se pr
 
 [UBER y competencia](https://www.youtube.com/watch?v=g1dTjROL8Uc)
 
-[Material recomendado. Opcional para casa](https://www.youtube.com/watch?v=NiWZjN0B0h0)
-
 
 
 1. ¿De qué manera la existencia de bienes subtitutos influye en la determinación del precio en este caso?
@@ -235,19 +258,31 @@ Lea el siguiente artículo y analice el caso con base en las preguntas que se pr
 
 3. ¿Qué papel tiene en la marca como elemento para moldear las **preferencias del consumidor** y a su vez la demanda por este servicio? 
 
-4. En su opinión ¿la destitución de los monpolios mediante la incursión de nuevos competidores a un mercado regulado como el de trasporte privado tiene impactos beneficos en el largo plazo?  
+4. En su opinión ¿la destitución de los monpolios mediante la incursión de nuevos competidores a un mercado regulado como el de trasporte privado tiene impactos benéficos en el largo plazo?  
 
 5.-¿Considera que la demanda por este servicios se mantega con un dinamismo como el visto hasta el momento en algunas ciuades?  Si, no, porqué
 
 
-**Ejemplo** 
 
-Si el **ingreso se incrementa**, es probable que la cantidad de viajes en avión se incremente (bien normal) mientras aquellos en autobús disminuyan. 
-
-Los viajes en autobús son en este caso un **bien inferior**. 
+**Caso de estudio: La relación del precio y la demanda en el funcionamiento s de mercados especificos** 
 
 
-[](boletos de avión)
+
+
+[El efecto de la competencia.](https://research.stlouisfed.org/publications/page1-econ/2018/11/01/the-economics-of-flying-how-competitive-are-the-friendly-skies/)
+
+1.-¿Cómo describe el autor el mecanismo de la ley de la demanda y los efectos sobre la industria de las aerolíneas.
+
+2.-¿Desde el punto de vista de la competecia ¿Cuales son los cuatro tipos de mercado de que describe el autor? 
+
+3.¿Cómo describe el autor los **costos fijos** y cuál es su importancia en la industria en cuestion? 
+
+4.¿Cómo ejemplifica el autor el concepto de economias de escala? 
+
+5.-Considera que la industria mexicana de aerolineas se integra como un oligopolio? 
+
+6.-
+
 
 
 
@@ -258,7 +293,7 @@ El primero es predecir la cantidad demandada dado un precio particular, por ejem
 
 ### EXCEDENTE DEL CONSUMIDOR 
 
-**El segundo uso** es que podemos saber el **excedente del consumidor**, esto es la diferencia entre el precio pagado y la disponibilidad a pagar del individuo,  por ejemplo 
+**El segundo uso** es que podemos saber el **excedente del consumidor**, esto es la diferencia entre el precio pagado y la disponibilidad a pagar del individuo,  por ejemplo. 
 
 ¿Cuál es el excente del consumidor a un precio de  **\$43K**, la diferencia entre la máxima disponibilidad a pagar y este precio pagado es el excedente del consumidor, en este caso **\$22K**.
 
@@ -277,17 +312,16 @@ La curva de demanda para un mercado particular muestra entonces una **relación 
 **Figura 2.** Curva de demanda del mercado.
 
 
-**Note:** la relación inversa entre  p y q: Observamos el area correspondiente al concepto de excedente del consumidor como el area bajo la curva de demanda, (*en términos de un rango especÍfico podemos, usando cálculo integral encontrar el valor de esa área de manera precisa*).
+**Note:** la relación inversa entre  p y q: Observamos el area correspondiente al concepto de excedente del consumidor como el area bajo la curva de demanda, (*en términos de un rango específico podemos, usando cálculo integral para encontrar el valor de esa área de manera precisa*).
 
 
 ### Elasticidad de la demanda.
 
-La sensibilidad que tiene la cantidad demandada de un bien respecto a variaciones en su precio se denomina elasticidad. 
+La **sensibilidad** que tiene la cantidad demandada de un bien respecto a variaciones en su precio se denomina elasticidad. 
 
 Intuitavamente la definición de **elasticidad** nos permite determinar qué tan flexible es la demanda cuando experimentamos un incremento en el precio de un bien. 
 
-
-Ahora bien, es importante notar que los bienes se pueden clasificar en **substitutos** y **complementarios**
+Es importante notar que los bienes se pueden clasificar en **substitutos** y **complementarios**
 
 
 Por ejemplo un  **iphone** puede ser un substituto de un telefono samsung (android). Pero  unos audifonos son un bien **complementario** de ambos celulares.
