@@ -361,7 +361,7 @@ Típicamente, productos que no tienen **substitutos** cercanos, como por ejemplo
 
 Tendrán una **elasticidad menor**,  serán  inelásticos.
 
-El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].
+El rango de interés en este indicador  se ubica en el intervalo $$[0,-\infty]$$.
 
 + Donde  **|e|>1**, representa productos que experimentan **una reducción más que proporcional en la demanda** ante un incremento en su precio.
 
