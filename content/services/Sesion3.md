@@ -215,6 +215,14 @@ En el caso de esta nota, referida a la reducción de la oferta de **petróleo** 
 
 
 
+Ejemplo 2. 
+
+Las caída de los **precios** en las computadoras personales ha propiciado la expansión de su **demanda** a lo largo del tiempo.  Hoy en día vemos esta misma transición con los  telefonos celulares y smart phones.
+
+
+![](/images/cpu.jpg)
+
+
 
 
 ##### Actividad 2.
