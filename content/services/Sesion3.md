@@ -244,9 +244,8 @@ Los viajes en autobús son en este caso un **bien inferior**.
 
 #### Actividad
 
-Lea el siguiente artículo y analice el caso con base en las preguntas que se presentan. 
+Observe  el siguiente materia audio visual y analice el caso con base en las preguntas que se presentan. 
 
-[Nota UBER](https://www.economist.com/business/2019/04/27/can-uber-ever-make-money?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=17210591673&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclsrc=ds&gclsrc=ds)
 
 [UBER y competencia](https://www.youtube.com/watch?v=g1dTjROL8Uc)
 
@@ -264,7 +263,7 @@ Lea el siguiente artículo y analice el caso con base en las preguntas que se pr
 
 
 
-**Caso de estudio: La relación del precio y la demanda en el funcionamiento s de mercados especificos** 
+**Caso de estudio: La relación del precio y la demanda en el funcionamiento de mercados especificos** 
 
 
 
