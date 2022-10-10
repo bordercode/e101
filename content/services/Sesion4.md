@@ -2,7 +2,7 @@
 date: "2022-12-05T12:33:46+10:00"
 draft: false
 featured: true
-title: 4. Costos
+title: 4. Teoría del productor
 weight: 4
 ---
 
@@ -68,8 +68,6 @@ Dada esta estructura de costos, **la decisión óptima será no producir.**
 #### Costo Marginal. 
 
 El costo marginal se define como el valor asociado a producir unidades sucesivas del bien. En términos de notación se representa por el cambio en el costo total generado por producir una unidad adicional. $$\frac{\partial{CT}}{Q}$$   Cambio  en CT / cambio de una unidad Q.
-
-
 
 
 El **costo marginal** es el costo apropiado para **DECIDIR**, la cantidad producida. Mientras el **costo promedio** es el parámetro que indica si se producirá o no. 
