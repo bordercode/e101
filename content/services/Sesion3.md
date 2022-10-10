@@ -232,7 +232,7 @@ Analizar los determinates de la demanda.
 
 [Material complementario](https://www.youtube.com/watch?v=hJCr5WJapm8)
 
-1- Acorde con la infomración presentada por el artículo y considerando la teoria microeconómica sobre la demanda? 
+1- Acorde con la información presentada por el artículo y considerando la teoria microeconómica sobre la demanda? 
 
 ¿Qué escenario se prevee para la demanda de bienes de consumo en población de la tercera edad en Japón en las proximas décadas? 
 
