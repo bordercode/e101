@@ -370,6 +370,14 @@ El rango de interés en este indicador  se ubica en el intervalo $$[0,- \infty]$
 Contrario, por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyería y en general artículos **no escenciales o relativamente abundantes** o con una diversidad de productos considerados como substitutos cercanos.
 
 
+Podemos observar esta noción conceptual, mediante la representación gráfica de la curva de demanda y su pendiente. 
+
+La expresión queda definida por $\epsilon$=Variación porcentual de la demanda / Variación porcentual del precio$$
+
+$\epsilon$=\frac{\partial{Q}}{\partial{P}} \frac{P}{Q}
+
+
+
 [Elasticidad en la práctica](https://www.wsj.com/news/economy?mod=nav_top_section)
 
 ##### Actividad  
