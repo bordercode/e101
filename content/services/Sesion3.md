@@ -427,18 +427,22 @@ El nivel de **oferta** depende del precio del bien particular en el mercado.   Y
 **Ejemplo 1**  Considerando el mercado de productos agrícolas, una afectación climática tendrá un impacto negativo en la producción y la curva de oferta se desplazará elevando el precio para una cantidad de euqilirbio menor. 
 
 
+![](/images/shift_S.jpg)
+
+
 **Ejemplo 2**
 
 Una regulación impulsa la organzación sindical y se produce un incremento en los salarios de la industria automotriz para cumplir con los requisitos del T-MEC. 
 
 Como resultado, el incremento en el costo de los factores de producción se experimenta una reducción de la curva de oferta con un mayor precio de equilibrio y una menor cantidad producida.
 
+
+
+
 **Ejempo 3**
 
 Una mejora **tecnológica,** permite una **nueva curva** desplazada a la derecha de la original y con la demanda fija tenemos como resultado **una reducción de precio** que beneficia a los consumidores y permite tener una mayor cantidad de equilibrio en el mercado. 
 
-
-![](/images/shift_S.jpg)
 
 ![](/images/effect_supply.jpg)
 
