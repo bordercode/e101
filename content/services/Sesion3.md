@@ -105,7 +105,7 @@ En síntesis estos son los 6 determinantes de la **demanda:**
 
 + Estudiar como los determinates de la demanda se expresan en **industrias particulares**.
 
-+ Analizar los efecto de los determinates: precios esperados ingresos y población sobre la **demanda** de mercado.
++ Analizar los efecto de los determinates: precios esperados, ingresos y población sobre la **demanda** de mercado.
 
 + Presentar las definiciones de bienes complementarios, substitutos, normales e inferiors.
 
@@ -113,7 +113,7 @@ En síntesis estos son los 6 determinantes de la **demanda:**
 
 #### Metas de aprendizaje.
 
-Una vez que se ha expuesto las bases teóricas y fundamentos conceptuales, la meta es comprender los fundamentos de la demanda a paritr de casos de estudio concretos. 
+Una vez que se han expuesto las bases teoricas y conceptuales, la meta es comprender los fundamentos de la demanda a paritr de casos de estudio concretos. 
 
 
 ### Actividad 1
