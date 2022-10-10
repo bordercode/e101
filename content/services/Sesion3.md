@@ -346,6 +346,32 @@ La curva de demanda para un mercado particular muestra entonces una **relación 
 **Note:** la relación inversa entre  p y q: Observamos el area correspondiente al concepto de excedente del consumidor como el area bajo la curva de demanda, (*en términos de un rango específico podemos, usando cálculo integral para encontrar el valor de esa área de manera precisa*).
 
 
+### Elasticidad de la demanda.
+
+La **sensibilidad** que tiene la cantidad demandada de un bien respecto a variaciones en su precio se denomina elasticidad. 
+
+Intuitavamente la definición de **elasticidad** nos permite determinar qué tan flexible es la demanda cuando experimentamos un incremento en el precio de un bien. 
+
+Es importante notar que los bienes se pueden clasificar en **substitutos** y **complementarios**
+
+
+Por ejemplo un  **iphone** puede ser un substituto de un telefono samsung (android). Pero  unos audifonos son un bien **complementario** de ambos celulares.
+
+Típicamente, productos que no tienen **substitutos** cercanos, como por ejemplo, la **insulina** en el caso de enfermos por diabetes o la gasolina para los usuarios de automóviles, algunas drogas como la mariguana, (|e|=0.41), (ver [Estudio aquí](https://www.upo.es/revistas/index.php/RevMetCuant/article/view/2689)), heroina, crack, psp, cristal, etc, etc.,   
+
+Tendrán una **elasticidad menor**,  serán  inelásticos.
+
+El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].
+
++ Donde  **|e|>1**, representa productos que experimentan **una reducción más que proporcional en la demanda** ante un incremento en su precio.
+
++ Mientras que valores **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio). 
+
+Contrario, por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyería y en general artículos **no escenciales o relativamente abundantes** o con una diversidad de productos considerados como substitutos cercanos.
+
+
+[Elasticidad en la práctica](https://www.wsj.com/news/economy?mod=nav_top_section)
+
 ##### Actividad  
 
 Lea el siguiente artículo  de **The Economist** sobre las particularidades de la medición del concepto de excedente del consumidor desde el punto de vista empírico y responda lo siguiente: 
@@ -373,37 +399,6 @@ b) **Demanda inelástica**
 5. ¿Qué influencia describen los autores en relación al incremento del número de consumidores y el efecto de servicios complementarios con respecto al cálculo del excedente del consumidor para el consumo de servicios como internet?
 
 6.-¿Cuál es el estimado de **excedente del consumidor** que presentan los autores para servicios como **Wikipedia** y el consumo de **banda ancha** para proveer internet, en 2006?  
-
-
-
-
-
-### Elasticidad de la demanda.
-
-La **sensibilidad** que tiene la cantidad demandada de un bien respecto a variaciones en su precio se denomina elasticidad. 
-
-Intuitavamente la definición de **elasticidad** nos permite determinar qué tan flexible es la demanda cuando experimentamos un incremento en el precio de un bien. 
-
-Es importante notar que los bienes se pueden clasificar en **substitutos** y **complementarios**
-
-
-Por ejemplo un  **iphone** puede ser un substituto de un telefono samsung (android). Pero  unos audifonos son un bien **complementario** de ambos celulares.
-
-Típicamente, productos que no tienen **substitutos** cercanos, como por ejemplo, la **insulina** en el caso de enfermos por diabetes o la gasolina para los usuarios de automóviles, algunas drogas como la mariguana, (|e|=0.41), (ver [Estudio aquí](https://www.upo.es/revistas/index.php/RevMetCuant/article/view/2689)), heroina, crack, psp, cristal, etc, etc.,   
-
-Tendrán una **elasticidad menor**,  serán  inelásticos.
-
-El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].
-
-+ Donde  **|e|>1**, representa productos que experimentan **una reducción más que proporcional en la demanda** ante un incremento en su precio.
-
-+ Mientras que valores **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio). 
-
-Contrario, por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyería y en general artículos **no escenciales o relativamente abundantes** o con una diversidad de productos considerados como substitutos cercanos.
-
-
-[Elasticidad en la práctica](https://www.wsj.com/news/economy?mod=nav_top_section)
-
 
 
 ------------------------------------------
