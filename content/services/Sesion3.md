@@ -223,8 +223,6 @@ Las caída de los **precios** en las computadoras personales ha propiciado la ex
 ![](/images/cpu.jpg)
 
 
-
-
 ##### Actividad 2.
 
 Analizar los determinates de la demanda.
@@ -244,6 +242,19 @@ Analizar los determinates de la demanda.
 3.-Dado el escenario en este pais ¿Qué podemos esperar respecto a la demanda de productos pediátricos vs. aquellos geriátricos?
 
 -----------------------------------------------
+
+
+### Clasificación de los bienes.
+
+Acorde con las fluctuaciones de los precios relacionados.
+
+> + Substitutos
+> + Complementarios
+
+Acorde a la realción con el ingreso ($I_{y}$)
+
+> + Normales 
+> + Inferiores
 
 Para finalizar esta sección es importante mencionar que, acorde con el **comportamiento de la demanda**, podemos clasificar los bienes en dos categorias: 
 
