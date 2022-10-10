@@ -279,19 +279,12 @@ Observe  el siguiente materia audio visual y analice el caso con base en las pre
 
 5.-Considera que la industria mexicana de aerolineas se integra como un oligopolio? 
 
-6.-
 
-
-
-
-##### Dos usos importantes de la curva de DEMANDA**. 
-
-El primero es predecir la cantidad demandada dado un precio particular, por ejemplo sabemos por la curva, que la demanda **(q)** al precio P1=50 será q1=1 En el ejemplo sobre demanda de laptops. 
 
 
 ### EXCEDENTE DEL CONSUMIDOR 
 
-**El segundo uso** es que podemos saber el **excedente del consumidor**, esto es la diferencia entre el precio pagado y la disponibilidad a pagar del individuo,  por ejemplo. 
+**El excedente del consumidor**, se define como la diferencia entre el precio pagado y la disponibilidad a pagar del individuo,  por ejemplo. 
 
 ¿Cuál es el excente del consumidor a un precio de  **\$43K**, la diferencia entre la máxima disponibilidad a pagar y este precio pagado es el excedente del consumidor, en este caso **\$22K**.
 
@@ -335,6 +328,9 @@ El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].
 + Mientras que valores **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio). 
 
 Contrario, por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyería y en general artículos **no escenciales o relativamente abundantes** o con una diversidad de productos considerados como substitutos cercanos.
+
+
+[Elasricidad en ka práctuca](https://www.wsj.com/news/economy?mod=nav_top_section)
 
 ##### Actividad  
 
