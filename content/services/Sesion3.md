@@ -264,7 +264,7 @@ Para finalizar esta sección es importante mencionar que, acorde con el **compor
 + **Bienes Inferiores:** Tienen una relación inversa entre ingreso del individuo y la cantidad demandada. 
 
 
-**Ejemplo 1** 
+**Ejemplo** **1**  
 
 Si el **ingreso se incrementa** y tengo la opción de utilizar **UBER** o transporte público, es muy probable que la demanda por viajes en trasporte público disminuya en favor de la demanda por **UBER**.
 
