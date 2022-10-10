@@ -421,7 +421,7 @@ El nivel de **oferta** depende del precio del bien particular en el mercado.   Y
 
 
 
-+ Un cambio en los factores fundamentales genera un desplazammiento de la curva.
++ Un cambio en los factores fundamentales genera un desplazamiento de la curva.
 
 
 **Ejemplo 1**  Considerando el mercado de productos agrícolas, una afectación climática tendrá un impacto negativo en la producción y la curva de oferta se desplazará elevando el precio para una cantidad de euqilirbio menor. 
@@ -440,6 +440,7 @@ Una mejora **tecnológica,** permite una **nueva curva** desplazada a la derecha
 
 
 ![](/image/effect_supply.jpg)
+
 
 + Únicamente un **Cambio en el precio del bien producido** genera un **movimiento a lo largo** de la curva de oferta.
 
