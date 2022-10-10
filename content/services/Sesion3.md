@@ -105,7 +105,7 @@ En síntesis estos son los 6 determinantes de la **demanda:**
 
 + Estudiar cómo los determinantes de la demanda se expresan en **industrias particulares**.
 
-+ Analizar los efecto de los determinates: precios esperados, ingresos y población sobre la **demanda** de mercado.
++ Analizar los efecto de los determinantes: Precios esperados, ingresos y población sobre la **demanda** de mercado.
 
 + Presentar las definiciones de bienes complementarios, substitutos, normales e inferiors.
 
