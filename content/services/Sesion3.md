@@ -372,11 +372,17 @@ Contrario, por ejemplo a un producto como un televisor, unos zapatos para correr
 
 Podemos observar esta noción conceptual, mediante la representación gráfica de la curva de demanda y su pendiente. 
 
-La expresión queda definida por $\epsilon$=Variación porcentual de la demanda / Variación porcentual del precio$$
-
-$\epsilon$=\frac{\partial{Q}}{\partial{P}} \frac{P}{Q}
 
 
+
+
+La expresión queda definida por \epsilon=Variación porcentual de la demanda / Variación porcentual del precio
+
+$$\epsilon=\frac{\partial{Q}}{\partial{P}} \frac{P}{Q}$$
+
+La representación siguiente nos muestra los **tres escenarios** relevantes en cuanto al parámetro de **elasticidad precio de la demanda**. 
+
+![](/images/elasticity.jpg)
 
 [Elasticidad en la práctica](https://www.wsj.com/news/economy?mod=nav_top_section)
 
