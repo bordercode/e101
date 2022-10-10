@@ -199,7 +199,7 @@ Note diferencia entre movimiento a lo largo y desplazamiento de la curva.
 
 Esta relación entre P y Q es tan cotidiana que quizás no los percibimos pero los titulares de los diarios y los acontecimientos diarios en nuestras desiciones de consumo están fuertemente inlfuenciados por esta relación.
 
-Por ejemplo, considere el siguiente titular de los diarios de esta la semana pasada: 
+Por ejemplo, considere el siguiente titular de los diarios del 5 de octubre 2022: 
 
 
 **"OPEC+ Agrees to Biggest Oil Production Cut Since Start of Pandemic"** 
