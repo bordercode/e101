@@ -196,6 +196,27 @@ Note diferencia entre movimiento a lo largo y desplazamiento de la curva.
 
 ![](/images/0demanda3.jpg)
 
+
+Esta relación entre P y Q es tan cotidiana que quizás no los percibimos pero los titulares de los diarios y los acontecimientos diarios en nuestras desiciones de consumo están fuertemente inlfuenciados por esta relación.
+
+Por ejemplo, considere el siguiente titular de los diarios de esta la semana pasada: 
+
+
+**"OPEC+ Agrees to Biggest Oil Production Cut Since Start of Pandemic"** 
+
+*The Wall Street Journal. By Benoit Faucon and Summer Said Updated Oct. 5, 2022 4:25 pm ET*
+
+![](/images/wsj.jpg)
+
+[Analisis de relación precios del petróleo con demanda global](https://www.wsj.com/articles/opec-agrees-to-biggest-oil-production-cut-since-start-of-pandemic-11664978144)
+
+
+En el caso de esta nota, referida a la reducción de la oferta de **petróleo** se espera un incremento de su precio y una tendencia  de incrementos en **precios** de bienes y productos **específicos** como la **gasolina** dada la importancia estratégica de este insumo en los procesos productivos.
+
+
+
+
+
 ##### Actividad 2.
 
 Analizar los determinates de la demanda.
@@ -330,7 +351,9 @@ El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].
 Contrario, por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyería y en general artículos **no escenciales o relativamente abundantes** o con una diversidad de productos considerados como substitutos cercanos.
 
 
-[Elasricidad en ka práctuca](https://www.wsj.com/news/economy?mod=nav_top_section)
+[Elasricidad en la práctica](https://www.wsj.com/news/economy?mod=nav_top_section)
+
+
 
 ##### Actividad  
 
