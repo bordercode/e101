@@ -103,7 +103,7 @@ En síntesis estos son los 6 determinantes de la **demanda:**
 
 ## Objetivos de la sesión
 
-+ Estudiar como los determinates de la demanda se expresan en **industrias particulares**.
++ Estudiar cómo los determinantes de la demanda se expresan en **industrias particulares**.
 
 + Analizar los efecto de los determinates: precios esperados, ingresos y población sobre la **demanda** de mercado.
 
@@ -412,7 +412,7 @@ b) **Demanda inelástica**
 
 El nivel de **oferta** depende del precio del bien particular en el mercado.   Y depende de  6 factores fundamentales:
 
-$$Sx=f(Px, Precios factores de producción(K,L,t),Py, Env, tech, #oferentes, Xpect-p en t+1 )$$
+          Sx=f(Px, Precios factores de producción(K,L,t),Py, Env, tech, #oferentes, Xpect-p en t+1 )
 
 
 
@@ -450,7 +450,7 @@ El precio actúa como **regulador** entre los dos componentes del modelo **ofert
 
 ![](/images/supply_demand_eq.jpg)
 
-### Actividad 
+### Tarea 
 
 Revise el siguiente escenario y responda las preguntas:
 
