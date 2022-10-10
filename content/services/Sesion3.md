@@ -376,7 +376,7 @@ Podemos observar esta noción conceptual, mediante la representación gráfica d
 
 
 
-La expresión queda definida por \epsilon=Variación porcentual de la demanda / Variación porcentual del precio
+La expresión queda definida por $$\epsilon=\frac{ \Delta Q} {\Delta P}\frac{P}{Q}$$
 
 $$\epsilon=\frac{\partial{Q}}{\partial{P}} \frac{P}{Q}$$
 
