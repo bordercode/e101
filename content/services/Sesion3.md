@@ -370,8 +370,7 @@ El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].
 Contrario, por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyería y en general artículos **no escenciales o relativamente abundantes** o con una diversidad de productos considerados como substitutos cercanos.
 
 
-[Elasricidad en la práctica](https://www.wsj.com/news/economy?mod=nav_top_section)
-
+[Elasticidad en la práctica](https://www.wsj.com/news/economy?mod=nav_top_section)
 
 
 ##### Actividad  
