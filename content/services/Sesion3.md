@@ -303,7 +303,7 @@ Observe  el siguiente materia audio visual y analice el caso con base en las pre
 
 
 
-**Caso de estudio: El efecto de la competencia y La relación entre precio  la demanda** 
+**Caso de estudio: El efecto de la competencia y la relación entre precio y demanda** 
 
 
 
