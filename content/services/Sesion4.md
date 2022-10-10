@@ -22,12 +22,12 @@ weight: 4
 
 La empresa es la unidad básica de una industria. 
 
-+ Su objetivo es la maximización de los beneficios (*profits*).
++ Su objetivo es la **maximización** de los beneficios (*profits*), como veremos esta condición implica la **minimización** de costos. 
 
 
-Los tomadores de decisiones en una empresa son Adminstradores (*Managers*) y accionistas. (*shareholders*)
+Los tomadores de decisiones en una empresa son Administradores (*Managers*) y accionistas. (*shareholders*)
 
-Las empresas en su operación incurren en una serie de costos y mediante la integración de insumos genera un producto o servicio que ofrecen a los consumidores. 
+Las empresas en su operación incurren en una serie de **costos** y mediante la integración de insumos genera un producto o servicio que ofrecen a los consumidores. 
 
 En esta sesión estudiaremos **la teoria del productor** y los elementos principales de la estructura de costos, así como los umbrales que determian la decisión del **nivel óptimo de producción** (de cuánto producir) y en qué momento cerrar la operación.
 
@@ -67,7 +67,7 @@ Dada esta estructura de costos, **la decisión óptima será no producir.**
 
 #### Costo Marginal. 
 
-El costo marginal se define como el valor asociado a producir unidades sucesivas del bien. En términos de notación se representa por el cambio en el costo total generado por producir una unidad adicional. $$\frac{\delta{CT}}{Q}$$   Cambio  en CT / cambio de una unidad Q.
+El costo marginal se define como el valor asociado a producir unidades sucesivas del bien. En términos de notación se representa por el cambio en el costo total generado por producir una unidad adicional. $$\frac{\partial{CT}}{Q}$$   Cambio  en CT / cambio de una unidad Q.
 
 
 
