@@ -271,7 +271,7 @@ Si el **ingreso se incrementa** y tengo la opción de utilizar **UBER** o transp
 Los viajes en transporte público son un **bien inferior** en este caso. 
 
 
-**Ejemplo 2: Bienes inferiores. Relación Demanda ingreso. **
+**Ejemplo** **2: Bienes inferiores. Relación Demanda ingreso.**
 
 
 Considere la demanda por medios de transporte ante impacto en una modificación del ingreso. 
