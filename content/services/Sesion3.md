@@ -438,8 +438,9 @@ Como resultado, el incremento en el costo de los factores de producción se expe
 Una mejora **tecnológica,** permite una **nueva curva** desplazada a la derecha de la original y con la demanda fija tenemos como resultado **una reducción de precio** que beneficia a los consumidores y permite tener una mayor cantidad de equilibrio en el mercado. 
 
 
+![](/images/shift_S.jpg)
 
-![](/image/effect_supply.jpg)
+![](/images/effect_supply.jpg)
 
 
 + Únicamente un **Cambio en el precio del bien producido** genera un **movimiento a lo largo** de la curva de oferta.
