@@ -263,12 +263,11 @@ Observe  el siguiente materia audio visual y analice el caso con base en las pre
 
 
 
-**Caso de estudio: La relación del precio y la demanda en el funcionamiento de mercados especificos** 
+**Caso de estudio: El efecto de la competencia y La relación entre precio  la demanda** 
 
 
 
-
-[El efecto de la competencia.](https://research.stlouisfed.org/publications/page1-econ/2018/11/01/the-economics-of-flying-how-competitive-are-the-friendly-skies/)
+[Aerolineas y la fijación de precios ](https://research.stlouisfed.org/publications/page1-econ/2018/11/01/the-economics-of-flying-how-competitive-are-the-friendly-skies/)
 
 1.-¿Cómo describe el autor el mecanismo de la ley de la demanda y los efectos sobre la industria de las aerolíneas.
 
