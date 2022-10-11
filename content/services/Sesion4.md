@@ -68,31 +68,39 @@ En general un proceso productivo tiene dos características distintivas:
 
 En una primera fase exhibe **rendimientos crecientes**, es decir, a medida que se incrementan los insumos el nivel productivo crece a un ritmo proporcionalmente mayor.
 
-Una segunda fase presenta rendimientos decrecientes, la figura siguiente muestra estos rasgos.
+
+Los rendimientos crecientes que observamos en las etapas inciales del proceso productivo estan asociados a la **eficiencia** que permite la **especialización** y la **división del trabajo**
+
+**Ejemplo**  [proceso productivo de Amazon](https://www.youtube.com/watch?v=P_qPvKwULxI)
+Una segunda fase presenta **rendimientos decrecientes**, la figura siguiente muestra estos rasgos.
 
 ![](/images/funciónY.jpg)
 
 
 
-La siguiente gráfica muestra esta conceptualización
+La siguiente gráfica muestra la noción de **rendimientos decrecientes**.
+
+![](/images/producciónR.jpg)
 
 ![](/images/porduction.jpg)
+
 *Producción Marginal decreciente*
 
 Este rasgo **(PMD)** del proceso productivo, asegura que el costo marginal (**CMarg**) , es decir, el costo de la unidad adicional porducida,  sea una función creciente (relación positiva) respecto al nivel de producción (**Q**).
 
-Por su parte el impacto de una innovación tecnológica, permitirá deslplazar la curva de producción a mayores niveles,  manteniendo (*ceteris paribus*) el resto de insumos  constante.
+Por su parte el impacto de una **innovación tecnológica**, permitirá desplazar la curva de producción a mayores niveles,  manteniendo (*ceteris paribus*) el resto de insumos  constante.
 
 **Note** en la figura siguiente, el cambio en la pendiente de la curva que representa la función de producción.
 
 ![](/images/tecnologia.jpg)
 
 
-
-
 ## Definiciones: 
 
-**Costos:** Valor de los insumos necesarios para la producción. Dos categorias generales: **Costos Fijos (CF)**, **Costos Variables (CV)**, la suma de estos determina el **costo total (CT)**
+**Costos:** Valor de los insumos necesarios para la producción. 
+
+
+Podemos distinguir dos categorias generales: **Costos Fijos (CF)**, **Costos Variables (CV)**, la suma de estos determina el **costo total (CT)**
 
 
 Sea: 
@@ -114,16 +122,17 @@ Dada esta estructura de costos, **la decisión óptima será no producir.**
 
 #### Costo Marginal. 
 
-El costo marginal se define como el valor asociado a producir una unidad adicional del bien. Y es el parámetro que define el precio. 
+El costo marginal se define como el valor asociado a producir una unidad adicional del bien. Y es el parámetro que define el **precio** siempre y cuando, como hemos discutido, este sea superior al **costo medio** de producción. 
+
+Note el precio será una función creciente del nivel de producción debido a el fenómeno de rendimientos marginales decrecientes (**RMD**). 
+En otras palabras, dado un costo determinado para los insumos de producción, por ejemplo el trabajo, los **RMD**, aseguran que la aportación por unidad de producción se logrará a **un costo cada vez mayor**. 
+
+En términos de notación se representa por el cambio en el costo total generado por producir una unidad adicional. $$CMarg=\frac{\partial{CT}}{\partial Q}$$   Cambio  en Costo Total / incremento de una unidad producida.
 
 
-Note el precio será una función creciente del nivel de producción debido a el fenómeno de rendimientos marginales decrecientes (**RMD**). En otras palabras, dado un costo determinado para los insumos de producción, por ejemplo el trabajo, los **RMD**, aseguran que la aportación por unidad de producción se logrará a un costo cada vez mayor. 
+El **costo marginal** es el costo apropiado para **DECIDIR**, la cantidad producida.
 
-
-En términos de notación se representa por el cambio en el costo total generado por producir una unidad adicional. $$CMarg=\frac{\partial{CT}}{\partial Q}$$   Cambio  en CT / cambio de una unidad Q.
-
-
-El **costo marginal** es el costo apropiado para **DECIDIR**, la cantidad producida.  esta cantidad se incrementará hasta el punto en el que el costo de producir una unidad adicional (Costo marginal) sea igual al ingreso generado por una unidad adicional **Ingreso marginal**.  
+Esta cantidad se incrementará hasta el punto en el que el costo de producir una unidad adicional (Costo marginal) sea igual al ingreso generado por una unidad adicional **Ingreso marginal**.  
 
 Mientras el **costo promedio** es el parámetro que indica si se producirá o no. Y se producirá simpre  y cuando el Precio sea mayor que el costo medio. $$P \geq CM$$ 
 
