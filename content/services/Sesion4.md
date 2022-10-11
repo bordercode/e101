@@ -39,13 +39,13 @@ Estas decisiones implican el conocimiento de la estrucuctura de costos y la dete
 
 + Y = **Ingresos = P.Q**. P=precio, Q= Cantidad producida. 
 
-+ CT = **Costo total= CV+CF**. CV= Costo Variable, Costo Fijo 
++ CT = **Costo total= CV+CF**. CV= Costo Variable, CF= **Costo Fijo** 
 
 La producción a su vez es posible debido a la **utilización eficiente** de los factores productivos, dado un **proceso tecnológico** concreto, este último, entendido como una manera de combinar los recursos para producir.
 
 En términos generales ej. **Q= f(tierra, trabajo, capital, tech).** 
 
-El incremento de uno de estos factores (trabajo) manteneindo fijo  (*ceteris paribus*) el resto de los factores, implica una aportación cada vez menor sobre la producción. 
+El incremento de uno de estos factores (trabajo) manteniendo fijo  (*ceteris paribus*) el resto de los factores, implica una aportación cada vez menor sobre la producción. 
 
 El efecto de esta relación se resume bajo el concepto de prodductividad marginal decreciente,  $$PMD_{L}=\frac{\partial {y}}{\partial{L}}$$
 
