@@ -39,7 +39,7 @@ Estas decisiones implican el conocimiento de la estrucuctura de costos y la dete
 
 + Y = **Ingresos = P.Q**. P=precio, Q= Cantidad producida. 
 
-+ CT = **Costo total= CV+CF**. CV= Costo Variable, CF= **Costo Fijo** 
++ CT = **Costo total= CV+CF**. CV= Costo Variable, CF= **Costo Fijo**  Un rasgo **importante** es que esta estructura de costos es aplicable al **Corto plazo**, ya que en el **largo plazo** Todos los costos pueden tratarse como variables, es decir, por ejemplo se pueden renogociar los contratos de arrendamiento o reestructurar la renta de ciertos equipos.   
 
 
 ![](/images/costosfv.jpg)
@@ -47,9 +47,16 @@ Estas decisiones implican el conocimiento de la estrucuctura de costos y la dete
 
 + Observe que la suma de los costos fijos y los variables integran los costos totales   $$CM=CT/Q$$.
 
-+ Note además que el crecimiento de la curva de costos totales es más acentuado a partir de un punto de inflexión. 
++ La distancia vertical entre la linea que representa los costos fijos y el costo total, denota el costo variable.  O dicho de otra manera, la distancia que hay entre la curva de costo total y la de costo variable indica el costo fijo.
 
 + Note que la curva de costos no inicia en cero, ya que se tiene costos fijos, ejemplo renta de las instalaciones en el parque industrial.
+
++ Note además que el crecimiento de la curva de costos totales es más acentuado a partir de un punto de inflexión. 
+
+
+![](/images/costoT.jpg)
+
+
 
 La producción a su vez es posible debido a la **utilización eficiente** de los factores productivos, dado un **proceso tecnológico** concreto, este último, entendido como una manera de combinar los recursos para producir.
 
@@ -144,7 +151,24 @@ Analicemos el comportamiento de los costos promedio con mayor detalle.
 
 + La primera observación es que el costo promedio total se integra por la suma de los costos promedio **fijos** y **variables**.
 
-+ En segundo lugar note que los costos variables promedio tiene una clara tendenica decreciente. Esto se debe a que el nivel productivo contínua creciendo y por tanto la relación  $$\frac{\partial CF}{\partial {Q}}<0$$ tiende a cero. 
++ En segundo lugar note que las curvas de costos promedio total y variable tiene forma de **U**. Esto debido a que incialmente la especialización y división del trabajo permite una graducal reducción, sin embargo, a medida que los rendimientos decrecientes se manifiestan, los costos promedio tienen a ser mayores. 
+
+
+Entoces dos fuerzas resultan en esta forma de **U**
+
+
++ Especialización y división del trabajo
+
++ Producto marginal decreceiente expresión de los rendimientos decrecientes de los factores productivos.
+
+Este comportamiento se hace evidente por la definición: 
+
+$$\frac{CT}{Q} = \frac{CF}{Q] + \frac{CV}{Q]$$
+
+
++ Note que los **costos fijos promedio** tienen una clara tendenica decreciente que, contrario a los **costos variables promedio**, no presentan un punto de inflexión, por esta razón la distancia entre la curva de costo medio total y costo medio variable es cada vez menor.
+
+Esto se debe a que el nivel productivo contínua creciendo y por tanto la relación  $$\frac{\partial CFM}{\partial {Q}}<0$$ tiende a cero. 
 
 
 + Finalmente observe que la curva de costos promedio tiene forma de **U** Lo que indica que en una primera fase los costos totales **decrecen** a medida que el nivel de producción se incrementa. es decir inicialmente se tiene capacidad osciosa, sin embargo, una vez que la escala de producción alcanza el nivel en el que se registran los rendimientos decrecientes, los costos promedio comienzan una trayectoria creciente.  
@@ -155,7 +179,15 @@ Analicemos el comportamiento de los costos promedio con mayor detalle.
 Ahora bien, la estructura de costos plantea dos escenarios de interés para el nivel de producción. 
 
 
-1.- Producción cuando los costos promedio estan en su fase descendinte: En este nivelde producción, la empresa siempre pordrá incrementar sus ingresos si incrementa su nivel de producción por que el costo medio será menor a medida que se producen unidades adicionales esto es **I >CT  ya que P>CM; P.q>CM.q**
+1.- Cuando los costos promedio estan en su fase descendente: En este nivel de producción, la empresa siempre prodrá incrementar sus ingresos si incrementa su nivel de producción por que el costo medio será menor a medida que se producen unidades adicionales esto es **I >CT  ya que P>CM; P.q>CM.q**
+
+
+Es importante notar que hay una relación entre el comportamiento del **producto marginal**  y el costo marginal. Cunado el producto marginal alcanza su nivel más alto, el costo marginal presenta su nivel mínimo.
+
+
+![](/images/cyprod.jpg)
+
+
 
 ### Sintesis.
 
