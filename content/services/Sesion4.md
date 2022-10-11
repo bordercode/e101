@@ -63,6 +63,17 @@ $$\frac{\partial PM_{L}}{\partial{L}}<0$$
 
 Donde $$y=f(L)$$
 
+
+En general un proceso productivo tiene dos características distintivas:
+
+En una primera fase exhibe **rendimientos crecientes**, es decir, a medida que se incrementan los insumos el nivel productivo crece a un ritmo proporcionalmente mayor.
+
+Una segunda fase presenta rendimientos decrecientes, la figura siguiente muestra estos rasgos.
+
+![](/images/funciónY.jpg)
+
+
+
 La siguiente gráfica muestra esta conceptualización
 
 ![](/images/porduction.jpg)
