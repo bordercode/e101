@@ -45,12 +45,11 @@ Estas decisiones implican el conocimiento de la estrucuctura de costos y la dete
 ![](/images/costosfv.jpg)
 
 
-+ Observe que la suma de los costos fijos y los variables integran los costos totales promedio  $$CM=CT/Q$$.
++ Observe que la suma de los costos fijos y los variables integran los costos totales   $$CM=CT/Q$$.
 
-+ Note ademas 
++ Note además que el crecimiento de la curva de costos totales es más acentuado a partir de un punto de inflexión. 
 
-![](/images/promedioCOSTOS.jpg)
-
++ Note que la curva de costos no inicia en cero, ya que se tiene costos fijos, ejemplo renta de las instalaciones en el parque industrial.
 
 La producción a su vez es posible debido a la **utilización eficiente** de los factores productivos, dado un **proceso tecnológico** concreto, este último, entendido como una manera de combinar los recursos para producir.
 
@@ -69,8 +68,7 @@ La siguiente gráfica muestra esta conceptualización
 ![](/images/porduction.jpg)
 *Producción Marginal decreciente*
 
-
-Este rasgo **(PMD)** del proceso productivo, asegura que el costo marginal (**CM**) , es decir, el costo de la unidad adicional porducida,  sea una función creciente (relación positiva) respecto al nivel de producción (**Q**).
+Este rasgo **(PMD)** del proceso productivo, asegura que el costo marginal (**CMarg**) , es decir, el costo de la unidad adicional porducida,  sea una función creciente (relación positiva) respecto al nivel de producción (**Q**).
 
 Por su parte el impacto de una innovación tecnológica, permitirá deslplazar la curva de producción a mayores niveles,  manteniendo (*ceteris paribus*) el resto de insumos  constante.
 
@@ -96,18 +94,59 @@ P.q= Ingreso **(I)**
 
 #### Si P<CM, implica que  P.q<CM.q o de otra forma I<CT. 
 
-En otras palabras, si el precio al que se vende la unidad *i* de producción del bien *x*, es inferior a lo que cuesta producirla (Costo medio), es evidente que no será conveniente producir por que se incurriría en perdidas. 
+En otras palabras, si el precio al que se vende la unidad *i* de producción del bien *x*, es inferior a lo que cuesta producirla (**Costo medio**), es evidente que no será conveniente producir por que se incurriría en **perdidas**. 
 
-Esta situación implica que los ingresos generados serán inferiores al costo total, lo que se expreza en **I<CT**.
+Esta situación implica que los **ingresos** generados serán inferiores al **costo total**, lo que se expreza en **I<CT**.
 
 Dada esta estructura de costos, **la decisión óptima será no producir.** 
 
+
 #### Costo Marginal. 
 
-El costo marginal se define como el valor asociado a producir unidades sucesivas del bien. En términos de notación se representa por el cambio en el costo total generado por producir una unidad adicional. $$\frac{\partial{CT}}{Q}$$   Cambio  en CT / cambio de una unidad Q.
+El costo marginal se define como el valor asociado a producir una unidad adicional del bien. Y es el parámetro que define el precio. 
 
 
-El **costo marginal** es el costo apropiado para **DECIDIR**, la cantidad producida. Mientras el **costo promedio** es el parámetro que indica si se producirá o no. 
+Note el precio será una función creciente del nivel de producción debido a el fenómeno de rendimientos marginales decrecientes (**RMD**). En otras palabras, dado un costo determinado para los insumos de producción, por ejemplo el trabajo, los **RMD**, aseguran que la aportación por unidad de producción se logrará a un costo cada vez mayor. 
+
+
+En términos de notación se representa por el cambio en el costo total generado por producir una unidad adicional. $$CMarg=\frac{\partial{CT}}{\partial Q}$$   Cambio  en CT / cambio de una unidad Q.
+
+
+El **costo marginal** es el costo apropiado para **DECIDIR**, la cantidad producida.  esta cantidad se incrementará hasta el punto en el que el costo de producir una unidad adicional (Costo marginal) sea igual al ingreso generado por una unidad adicional **Ingreso marginal**.  
+
+Mientras el **costo promedio** es el parámetro que indica si se producirá o no. Y se producirá simpre  y cuando el Precio sea mayor que el costo medio. $$P \geq CM$$ 
+
+
+Analicemos el comportamiento de los costos promedio con mayor detalle. 
+
+
+![](/images/cpromedio1.jpg)
+
++ La primera observación es que el costo promedio total se integra por la suma de los costos promedio **fijos** y **variables**.
+
++ En segundo lugar note que los costos variables promedio tiene una clara tendenica decreciente. Esto se debe a que el nivel productivo contínua creciendo y por tanto la relación  $$\frac{\partial CF}{\partial {Q}}<0$$ tiende a cero. 
+
+
++ Finalmente observe que la curva de costos promedio tiene forma de **U** Lo que indica que en una primera fase los costos totales **decrecen** a medida que el nivel de producción se incrementa. es decir inicialmente se tiene capacidad osciosa, sin embargo, una vez que la escala de producción alcanza el nivel en el que se registran los rendimientos decrecientes, los costos promedio comienzan una trayectoria creciente.  
+
++ Los costos promedio decrecen hasta alcanzar un **nivel mínimo**, a partir del cual comienzan una trayectoria creciente. 
+
+
+Ahora bien, la estructura de costos plantea dos escenarios de interés para el nivel de producción. 
+
+
+1.- Producción cuando los costos promedio estan en su fase descendinte: En este nivelde producción, la empresa siempre pordrá incrementar sus ingresos si incrementa su nivel de producción por que el costo medio será menor a medida que se producen unidades adicionales esto es **I >CT  ya que P>CM; P.q>CM.q**
+
+### Sintesis.
+
+
+1.- La empresa fijará el precio igual al costo de producción de una unidad adicional.  **P=CMarg** y comenzará a producir a partir del nivel en que los **costos medios** lleguen a su nivel mínimo, en este punto, tanto el costo marginal, como el costo promedio son iguales. 
+
+2.- Niveles de producción en la fase decreciente de la curva de costos promedio se consideran ineficientes, ya que siempre seraá posible incrementar los ingresos derivados a una unidad adicional de producción. 
+
+3- La curva de costo marginal a partir del punto minimo de la de costos medios representa la curva de oferta de la empreza. 
+
+La pendiente positiva refleja el hecho de que existen **rendimientos decrecientes a escala** lo que se traduce en un **producto marginal decreciente**. 
 
 
 **Note.** Es importante estudiar Economía en el **contexto social**, no como un conjunto esóterico de formulaciones matemáticas!
