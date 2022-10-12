@@ -171,9 +171,13 @@ $$\frac{CT}{Q} = \frac{CF}{Q] + \frac{CV}{Q]$$
 Esto se debe a que el nivel productivo contínua creciendo y por tanto la relación  $$\frac{\partial CFM}{\partial {Q}}<0$$ tiende a cero. 
 
 
-+ Finalmente observe que la curva de costos promedio tiene forma de **U** Lo que indica que en una primera fase los costos totales **decrecen** a medida que el nivel de producción se incrementa. es decir inicialmente se tiene capacidad osciosa, sin embargo, una vez que la escala de producción alcanza el nivel en el que se registran los rendimientos decrecientes, los costos promedio comienzan una trayectoria creciente.  
++ Finalmente observe que la curva de costos promedio tiene forma de **U**.
 
-+ Los costos promedio decrecen hasta alcanzar un **nivel mínimo**, a partir del cual comienzan una trayectoria creciente. 
+Lo que indica que en una primera fase los costos totales **decrecen** a medida que el nivel de producción se incrementa. es decir inicialmente se tiene **exceso de capacidad**, sin embargo, una vez que la escala de producción alcanza el nivel en el que se registran los rendimientos decrecientes, los costos promedio comienzan una trayectoria creciente.  
+
++ Los costos promedio decrecen hasta alcanzar un **nivel mínimo**, a partir del cual comienzan una trayectoria creciente. A esta **escala de producción** en la cual los costos promedio alcanzan su nivel mínimo, se le conoce como **escala eficiente** (Punto **M** en grafica de costos).
+
+Cuando la empresa produce por debajo se su escala eficiente denominamos a este escenario como **exceso de capacidad**
 
 
 Ahora bien, la estructura de costos plantea dos escenarios de interés para el nivel de producción. 
