@@ -18,7 +18,7 @@ weight: 4
 
 + Discutir la conformación de la curva de oferta y sus determinantes.
 
-### Teoria del productor. 
+## Teoría del productor.
 
 La empresa es la unidad básica de una industria. 
 
@@ -45,11 +45,11 @@ Estas decisiones implican el conocimiento de la estrucuctura de costos y la dete
 ![](/images/costosfv.jpg)
 
 
-+ Observe que la suma de los costos fijos y los variables integran los costos totales   $$CM=CT/Q$$.
++ Observe que la suma de los costos fijos y los variables integran los costos totales   $$CT=CF+CV$$.
 
 + La distancia vertical entre la linea que representa los costos fijos y el costo total, denota el costo variable.  O dicho de otra manera, la distancia que hay entre la curva de costo total y la de costo variable indica el costo fijo.
 
-+ Note que la curva de costos no inicia en cero, ya que se tiene costos fijos, ejemplo renta de las instalaciones en el parque industrial.
++ Note que la curva de costos totales no inicia en cero, ya que se tienen costos fijos. Ejemplo renta de las instalaciones en el parque industrial.
 
 + Note además que el crecimiento de la curva de costos totales es más acentuado a partir de un punto de inflexión. 
 
@@ -64,11 +64,13 @@ En términos generales ej. **Q= f(tierra, trabajo, capital, tech).**
 
 El incremento de uno de estos factores (trabajo) manteniendo fijo  (*ceteris paribus*) el resto de los factores, implica una aportación cada vez menor sobre la producción. 
 
-El efecto de esta relación se resume bajo el concepto de productividad marginal decreciente,  $$PM_{L}=\frac{\partial {y}}{\partial{L}}>0$$
+El efecto de esta relación se resume bajo el concepto de **productividad marginal decreciente**,  $$PM_{L}=\frac{\partial {y}}{\partial{L}}>0$$
 
 $$\frac{\partial PM_{L}}{\partial{L}}<0$$
 
-Donde $$y=f(L)$$
+Donde $$y=f(L, \overline{K}, \overline{Tierra}, \overline{tech} )$$
+
+Note que en el corto plazo, tenemos un conjunto de factores productivos que permanecen fijos. Este rasgo implica una **productividad marginal decreceinte del factor trabajo**.
 
 
 En general un proceso productivo tiene dos características distintivas:
@@ -244,8 +246,29 @@ Un ejemplo, es el caso de **Amazon** hoy en día esta empresa tiene actividad en
 
 ### ACTIVIDAD 1. 
 
-Analice el siguiente reporte y  responda las preguntas. 
 
+Si en términos teóricos hemos estudiado que el objetivo de la empresa
+es la maxicmización de los beneficios. ¿Cómo podemos explicar que 
+empresas dominantes hoy en en dia como Uber o  Amazon, registren 
+perdidas operativas de gan magnitud? 
+
+
+
+Analice el siguiente reporte y comente. 
+
+[Economias de Escala](https://www.wsj.com/articles/en-ee-uu-muchos-sectores-son-dominados-por-cada-vez-menos-empresas-1445313928?tesla=y)
+
+
+1- A que se refiere el autor con la expresión *"La concentración de mercado es una espada de doble filo."*
+
+2.- Qué información aporta el Indice Herfindahl-Hirschman (HHI, por sus siglas en inglés)
+
+[Adquisición Twitter](https://docs.google.com/document/d/13tk1oDcUYus6B9JhX0rEIRxZ4zIxlzdR/edit?usp=sharing&ouid=115267285659738615212&rtpof=true&sd=true)
+
+
+1.- En el ecositema de adquisiciones y fusiones empresariales (M&A). 
+
+Qué impacto considera que puede tener la adquisicón del gigante de redes sociales, Twitter por Elon Musk? 
 
 
 ------------------------------------------------
