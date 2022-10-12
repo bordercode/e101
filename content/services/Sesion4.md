@@ -203,6 +203,41 @@ La pendiente positiva refleja el hecho de que existen **rendimientos decreciente
 
 **Note.** Es importante estudiar Economía en el **contexto social**, no como un conjunto esóterico de formulaciones matemáticas!
 
+
+
+
+### Economias de Escala 
+
+Características de la organización del proceso productivo que permiten una reducción en los costos promedio totales a medida que el nivel productivo (escala) se incrementa.
+
+
+Asociado a este fenómeno, nos referimos al caso opuesto como **deseconomias de escala.** es decir una situación en la cual el incremento en la escala productiva se asocia con un incremento en los costospormedio.
+
+
+### Economias de alcance.
+
+
+La reducción de costos promedio derivada de una estrategia de producción que incluye la producción conjunta o en paquete de más de un producto. 
+
+La **diferenciación del producto** es la clave de esta estrategia que al aprovechar el conocimiento y experiencia generada en el proceso productivo, permite impactar favorablemente los costos.
+
+Un ejemplo, es el caso de **Amazon** hoy en día esta empresa tiene actividad en de la A a la Z en actividades productivas por ejemplo: Comenzó como una emrpesa dedicada a la **venta de libros en línea**, hoy tiene un programa espacal Blue Origin, una plataforma de servicios web **AWS**, estudios para producir programas y series, etc.,   
+
+
+[Caso Monopolio: Amazon](https://www.youtube.com/watch?v=-IKSEVsHens)
+
+
+
+[Monopilio Amazon Jeff Bezos](https://www.youtube.com/watch?v=RVVfJVj5z8s)
+
+
+
+
+### Ecaanomias de alcance.
+
+
+
+
 ### ACTIVIDAD 1. 
 
 Analice el siguiente reporte y  responda las preguntas. 
