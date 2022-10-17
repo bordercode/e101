@@ -456,6 +456,10 @@ Una mejora **tecnológica,** permite una **nueva curva** desplazada a la derecha
 ![](/images/effect_supply.jpg)
 
 
+
+
+---
+
 + Únicamente un **Cambio en el precio del bien producido** genera un **movimiento a lo largo** de la curva de oferta.
 
 #### Importancia de la oferta para la determinación del precio de equilibrio en el mercado.
@@ -468,11 +472,78 @@ El precio actúa como **regulador** entre los dos componentes del modelo **ofert
 
 **Interacción de la Oferta y la demanda para la determinación del precio de equilibrio en el mercado.**
 
+
+El modelo de oferta y demanda proporciona información sobre
+todos los mercados competitivos. Aquí, aplicaremos lo que has
+aprendido acerca de los efectos de un aumento en la demanda para el mercado mundial de crudo.
+El petróleo crudo es como la sangre vital de la economía global. Se utiliza para alimentar nuestros automóviles, aviones, trenes y autobuses, generar electricidad y producir una amplia gama de plásticos. Cuando sube el precio del crudo,
+el costo del transporte, la energía y los materiales, tienden ha aumentar.
+En 2001, el precio del barril de petróleo era de $20 (usando
+el valor del dinero en 2010). En 2008, ante la
+crisis financiera mundial puso fin a un largo período de expansión económica, el precio alcanzó un máximo de 127 dólares el barril.
+
+Mientras el precio del petróleo subía, la cantidad de
+el petróleo producido y consumido también aumentó. En 2001,
+el mundo producía 65 millones de barriles de petróleo al día. 
+
+Para 2008, esa cantidad fue de 72 millones de barriles.
+¿Quién o qué ha estado subiendo el precio del petróleo? 
+
+Es la acción de los productores de petróleo codiciosos? 
+
+Los  productores de petróleo pueden ser codiciosos, y algunos de ellos pueden ser suficientemente grandes  como para retener el suministro y aumentar el precio, pero no estaría en su propio interés hacerlo. 
+
+Si es más alto el precio, esto  produciría una mayor cantidad ofrecida de otros productores y el beneficio para el productor la oferta limitada, caería.
+
+
+
+Los productores de petróleo podrían tratar de cooperar y
+retener el suministro. La Organización del Petróleo
+Los países exportadores, la OPEP, es uno de esos grupos de productores. 
+
+Pero la OPEP no controla el suministro mundial
+y el interés propio de sus miembros es producir las cantidades que les proporcionen el máximo beneficio posible.
+
+Entonces, aunque el mercado mundial del petróleo tiene grandes
+jugadores, ellos no fijan el precio. En cambio, las acciones
+de miles de compradores y vendedores y las fuerzas de
+la demanda y la oferta determinan el precio del petróleo.
+
+Entonces, ¿cómo han cambiado la demanda y la oferta?
+
+
+Dado que  tanto el precio como la cantidad han
+aumentado, la demanda de petróleo debe haber aumentado.
+
+La oferta también podría haber cambiado, pero aquí supondremos que la oferta se ha mantenido igual.
+
+La demanda mundial de petróleo ha aumentado por una
+razón principal: el ingreso mundial ha aumentado. el
+aumento ha sido particularmente grande en los países emergentes, las economías de Brasil, China e India. 
+
+Aumentó la renta mundial y ha aumentado la demanda de productos que utilizan petróleo bienes como la electricidad, la gasolina y los plásticos, que a su vez ha aumentado la demanda de petróleo.
+
+
+La figura ilustra los efectos del aumento de
+demanda en el mercado mundial del petróleo. El suministro de petróleo permaneció constante a lo largo de la curva de oferta S. La demanda para el petróleo en 2001 fue D2001, por lo que en 2001 el precio fue $\$20$ el barril y la cantidad era de 65 millones de barriles por día.
+
+La demanda de petróleo aumentó y para el 2008 se había llegado a D2008. El precio del petróleo aumentó a $127
+por barril y la cantidad aumentó a 72 millones de barriles por día. El aumento en la cantidad es un aumento
+en la cantidad ofrecida, no un aumento en la oferta.
+
+![](\img\oilx.jpg)
+![](\img\oilx1.jpg)
+
+
+--------------
+
+
 ![](/images/supply_demand_eq.jpg)
 
 ### Tarea 
 
 Revise el siguiente escenario y responda las preguntas:
+
 
 
 ![Ejercicio](/images/coffe_ejercicio.jpg)
