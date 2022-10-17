@@ -81,6 +81,7 @@ En una primera fase exhibe **rendimientos crecientes**, es decir, a medida que s
 Los rendimientos crecientes que observamos en las etapas inciales del proceso productivo estan asociados a la **eficiencia** que permite la **especialización** y la **división del trabajo**
 
 **Ejemplo**  [proceso productivo de Amazon](https://www.youtube.com/watch?v=P_qPvKwULxI)
+
 Una segunda fase presenta **rendimientos decrecientes**, la figura siguiente muestra estos rasgos.
 
 ![](/images/funciónY.jpg)

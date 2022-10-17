@@ -309,9 +309,9 @@ Observe  el siguiente materia audio visual y analice el caso con base en las pre
 
 [Aerolineas y la fijación de precios ](https://research.stlouisfed.org/publications/page1-econ/2018/11/01/the-economics-of-flying-how-competitive-are-the-friendly-skies/)
 
-1.-¿Cómo describe el autor el mecanismo de la ley de la demanda y los efectos sobre la industria de las aerolíneas.
+1.-¿Cómo describe el autor el mecanismo de la ley de la demanda y los efectos sobre la industria de las aerolíneas?
 
-2.-¿Desde el punto de vista de la competecia ¿Cuales son los cuatro tipos de mercado de que describe el autor? 
+2.-¿Desde el punto de vista de la competencia ¿Cuales son los cuatro tipos de mercado de que describe el autor? 
 
 3.¿Cómo describe el autor los **costos fijos** y cuál es su importancia en la industria en cuestion? 
 
