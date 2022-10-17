@@ -361,11 +361,11 @@ Típicamente, productos que no tienen **substitutos** cercanos, como por ejemplo
 
 Tendrán una **elasticidad menor**,  serán  inelásticos.
 
-El rango de interés en este indicador  se ubica en el intervalo $$[0,- \infty]$$.
+El rango de interés en este indicador  se ubica en el intervalo: $$[0,- \infty]$$.
 
 + Donde  **|e|>1**, representa productos que experimentan **una reducción más que proporcional en la demanda** ante un incremento en su precio.
 
-+ Mientras que valores **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio). 
++ Mientras que valores **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio. 
 
 Contrario, por ejemplo a un producto como un televisor, unos zapatos para correr de lujo, boletos de avión, joyería y en general artículos **no escenciales o relativamente abundantes** o con una diversidad de productos considerados como substitutos cercanos.
 
@@ -419,10 +419,10 @@ b) **Demanda inelástica**
 
 ## La oferta y la determinación del precio de equilibrio.
 
-### La curva de oferta un componente básico del modelo de determinación de precios en el mercado.
+### La curva de oferta. Un componente básico del modelo de determinación de precios en el mercado.
 
 
-¿Cuáles son los determiantes de la  conformación de la curva de oferta y su relación con la fijación de precio del bien producido?
+**¿Cuáles son los determiantes de la  conformación de la curva de oferta y su relación con la fijación de precio del bien producido?**
 
 El nivel de **oferta** depende del precio del bien particular en el mercado.   Y depende de  6 factores fundamentales:
 
