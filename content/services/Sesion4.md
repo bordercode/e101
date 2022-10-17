@@ -8,7 +8,7 @@ weight: 4
 
 ## Objetivo: Estudiar los conceptos básicos relacionados a la teoría del produtor.
 
-### Particulares;
+### Particulares:
 
 + Comprender las definiciones principales  de la estrucutra de costos de la empresa.
 

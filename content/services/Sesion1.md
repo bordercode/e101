@@ -122,7 +122,7 @@ Entre sus obras sobre economía, el clásico de 1848: **Principios de economía 
 
 Obras de interés escritas por John Stuart Mill recomendadas para comprender fundamentos de economía *On liberty*  y **Utilitarianism.**
 
-Importante notar la influencia de autores como **Jeremy Betham** en el desarrollo del **utilitarismo.** Una teoría influenciada por el hedonismo. 
+Importante notar la influencia de autores como **Jeremy Bentham** en el desarrollo del **utilitarismo.** Una teoría influenciada por el hedonismo. 
 
 ![](/images/arete.jpg)
 
