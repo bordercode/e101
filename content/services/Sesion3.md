@@ -562,7 +562,7 @@ El precio del petróleo aumentó a **$127** por barril y la cantidad aumentó a 
 ![](/images/oilx1.jpg)
 
 
-### Tarea 
+## Tarea 
 
 Revise el siguiente escenario y responda las preguntas:
 
