@@ -475,6 +475,10 @@ El precio actúa como **regulador** entre los dos componentes del modelo **ofert
 #### Interacción de la Oferta y la demanda para la determinación del precio de equilibrio en el mercado.
 
 
+
+![](/images/oilx.jpg)
+
+
 El modelo de oferta y demanda proporciona información sobre
 todos los mercados competitivos. 
 
@@ -552,19 +556,11 @@ La demanda de petróleo aumentó y para el 2008 se había llegado a D2008.
 
 **El resultado:**
 
-*El precio del petróleo aumentó a $127 por barril y la cantidad aumentó a 72 millones de barriles por día. *
+El precio del petróleo aumentó a **$127** por barril y la cantidad aumentó a **72  millones** de barriles por día. 
 
-
-
-![](/images/oilx.jpg)
 
 ![](/images/oilx1.jpg)
 
-
---------------
-
-
-![](/images/supply_demand_eq.jpg)
 
 ### Tarea 
 
