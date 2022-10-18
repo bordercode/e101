@@ -531,8 +531,8 @@ La demanda de petróleo aumentó y para el 2008 se había llegado a D2008. El pr
 por barril y la cantidad aumentó a 72 millones de barriles por día. El aumento en la cantidad es un aumento
 en la cantidad ofrecida, no un aumento en la oferta.
 
-![](\img\oilx.jpg)
-![](\img\oilx1.jpg)
+![](\images\oilx.jpg)
+![](\images\oilx1.jpg)
 
 
 --------------
