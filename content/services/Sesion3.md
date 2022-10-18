@@ -476,26 +476,40 @@ El precio actúa como **regulador** entre los dos componentes del modelo **ofert
 
 
 El modelo de oferta y demanda proporciona información sobre
-todos los mercados competitivos. Aquí, aplicaremos lo que has
-aprendido acerca de los efectos de un aumento en la demanda para el mercado mundial de crudo.
-El petróleo crudo es como la sangre vital de la economía global. Se utiliza para alimentar nuestros automóviles, aviones, trenes y autobuses, generar electricidad y producir una amplia gama de plásticos. Cuando sube el precio del crudo,
-el costo del transporte, la energía y los materiales, tienden ha aumentar.
-En 2001, el precio del barril de petróleo era de $20 (usando
-el valor del dinero en 2010). En 2008, ante la
-crisis financiera mundial puso fin a un largo período de expansión económica, el precio alcanzó un máximo de 127 dólares el barril.
+todos los mercados competitivos. 
 
-Mientras el precio del petróleo subía, la cantidad de
-el petróleo producido y consumido también aumentó. En 2001,
-el mundo producía 65 millones de barriles de petróleo al día. 
+Aplicaremos lo estudiado acerca de los efectos de un aumento en la demanda al **mercado mundial de crudo**.
+
+El petróleo crudo es como la sangre vital de la economía global. 
+
+Se utiliza para alimentar nuestros automóviles, aviones, trenes y autobuses, generar electricidad y producir una amplia gama de plásticos. 
+
+Cuando sube el precio del crudo,
+el costo del transporte, la energía y los materiales, tienden ha aumentar.
+
+En 2001, el precio del barril de petróleo era de $20 (usando el valor del dinero en 2010). 
+
+En 2008, la
+crisis financiera mundial puso fin a un largo período de **expansión económica**, el precio alcanzó un máximo de 127 dólares el barril.
+
+**En octubre de 2022 el precio por barril es 85.76 dólares.**
+
+Mientras el precio del petróleo subía, la cantidad del petróleo producido y consumido también aumentó. 
+
+En **2001**, el mundo producía 65 millones de barriles de petróleo al día. 
 
 Para 2008, esa cantidad fue de 72 millones de barriles.
-¿Quién o qué ha estado subiendo el precio del petróleo? 
+
+
+En 2022 el nivel es 101.2 mb/d,
+
+**¿Quién o qué ha estado subiendo el precio del petróleo?**
 
 Es la acción de los productores de petróleo codiciosos? 
 
 Los  productores de petróleo pueden ser codiciosos, y algunos de ellos pueden ser suficientemente grandes  como para retener el suministro y aumentar el precio, pero no estaría en su propio interés hacerlo. 
 
-Si es más alto el precio, esto  produciría una mayor cantidad ofrecida de otros productores y el beneficio para el productor la oferta limitada, caería.
+Si es más alto el precio, esto  produciría una mayor cantidad ofrecida de otros productores y el beneficio para el productor la oferta limitada, caería.  (En teoría pero hoy vemos el grupo OPEC+, como una organización con gran influencia).
 
 
 
