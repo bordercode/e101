@@ -507,6 +507,9 @@ Para 2008, esa cantidad fue de 72 millones de barriles.
 
 En 2022 el nivel es 101.2 mb/d,
 
+[Oil Market Report](https://www.iea.org/reports/oil-market-report-october-2022)
+
+
 **¿Quién o qué ha estado subiendo el precio del petróleo?**
 
 Es la acción de los productores de petróleo codiciosos? 
