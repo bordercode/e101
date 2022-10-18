@@ -513,42 +513,52 @@ Si es más alto el precio, esto  produciría una mayor cantidad ofrecida de otro
 
 
 
-Los productores de petróleo podrían tratar de cooperar y
-retener el suministro. La Organización del Petróleo
-Los países exportadores, la OPEP, es uno de esos grupos de productores. 
+Los productores de petróleo podrían tratar de cooperar y retener el suministro (Exactamente lo que vemos hoy co Russia y los paises del bloque árabe).
 
-Pero la OPEP no controla el suministro mundial
+Los países exportadores, la OPEC+, es uno de esos grupos de productores. 
+
+Pero la OPEC+ no controla el suministro mundial
 y el interés propio de sus miembros es producir las cantidades que les proporcionen el máximo beneficio posible.
 
-Entonces, aunque el mercado mundial del petróleo tiene grandes
-jugadores, ellos no fijan el precio. En cambio, las acciones
-de miles de compradores y vendedores y las fuerzas de
-la demanda y la oferta determinan el precio del petróleo.
+Entonces, aunque el mercado mundial del petróleo tiene grandes jugadores, ellos no fijan el precio. 
+
+En cambio, las acciones de miles de compradores y vendedores y las fuerzas de la demanda y la oferta determinan el precio del petróleo.
 
 Entonces, ¿cómo han cambiado la demanda y la oferta?
 
 
-Dado que  tanto el precio como la cantidad han
-aumentado, la demanda de petróleo debe haber aumentado.
-
-La oferta también podría haber cambiado, pero aquí supondremos que la oferta se ha mantenido igual.
-
-La demanda mundial de petróleo ha aumentado por una
-razón principal: el ingreso mundial ha aumentado. el
-aumento ha sido particularmente grande en los países emergentes, las economías de Brasil, China e India. 
-
-Aumentó la renta mundial y ha aumentado la demanda de productos que utilizan petróleo bienes como la electricidad, la gasolina y los plásticos, que a su vez ha aumentado la demanda de petróleo.
+Acorde con el modelo **teórico** un incremento del **ingreso** genera un desplazamiento de la **demanda**.
 
 
-La figura ilustra los efectos del aumento de
-demanda en el mercado mundial del petróleo. El suministro de petróleo permaneció constante a lo largo de la curva de oferta S. La demanda para el petróleo en 2001 fue D2001, por lo que en 2001 el precio fue $\$20$ el barril y la cantidad era de 65 millones de barriles por día.
+Vemos en el caso de estudio que la demanda de petróleo ha aumentado (desplazamiento de la demanda). El resultado es que tanto el **precio** como la **cantidad** han aumentado, 
 
-La demanda de petróleo aumentó y para el 2008 se había llegado a D2008. El precio del petróleo aumentó a $127
-por barril y la cantidad aumentó a 72 millones de barriles por día. El aumento en la cantidad es un aumento
-en la cantidad ofrecida, no un aumento en la oferta.
+La **oferta** también podría haber cambiado, pero aquí supondremos que la oferta se ha mantenido igual.
 
-![](\images\oilx.jpg)
-![](\images\oilx1.jpg)
+La demanda mundial de petróleo ha aumentado por una razón principal: el ingreso mundial ha aumentado. 
+
+### El aumento ha sido particularmente grande en los países emergentes, las economías de Brasil, China e India. 
+
+Aumentó el **ingreso mundial** y ha **aumentado la demanda de productos** que utilizan petróleo: bienes como la electricidad, la gasolina y los plásticos, que a su vez ha aumentado la demanda de petróleo.
+
+
+##### La figura ilustra los efectos del aumento de demanda en el mercado mundial del petróleo. 
+
+
+El suministro de petróleo permaneció constante a lo largo de la **curva de oferta**. 
+
+La demanda para el petróleo en 2001 fue D2001, por lo que en 2001 el precio fue $\$20$ el barril y la cantidad era de **65 millones** de barriles por día.
+
+La demanda de petróleo aumentó y para el 2008 se había llegado a D2008. 
+
+**El resultado:**
+
+*El precio del petróleo aumentó a $127 por barril y la cantidad aumentó a 72 millones de barriles por día. *
+
+
+
+![](/images/oilx.jpg)
+
+![](/images/oilx1.jpg)
 
 
 --------------
