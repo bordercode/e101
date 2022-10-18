@@ -470,7 +470,9 @@ El modelo de **oferta y demanda** permite establecer un escenario inicial sobre 
 
 El precio actúa como **regulador** entre los dos componentes del modelo **oferta y demanda**, de tal modo que si **la demanda excede la oferta** (ej. una combinación (p, q), inferior al precio de mercado) disponible, **el precio se incrementará** hasta alcanzar su nivel de equilibrio, por el contrario **cuando la oferta supera** la **demanda** el precio tenderá a **disminuir** hasta que, tanto los niveles de oferta como demanda, coincidan. 
 
-**Interacción de la Oferta y la demanda para la determinación del precio de equilibrio en el mercado.**
+## Caso de estudio
+
+#### Interacción de la Oferta y la demanda para la determinación del precio de equilibrio en el mercado.**
 
 
 El modelo de oferta y demanda proporciona información sobre
