@@ -472,7 +472,7 @@ El precio actúa como **regulador** entre los dos componentes del modelo **ofert
 
 ## Caso de estudio
 
-#### Interacción de la Oferta y la demanda para la determinación del precio de equilibrio en el mercado.**
+#### Interacción de la Oferta y la demanda para la determinación del precio de equilibrio en el mercado.
 
 
 El modelo de oferta y demanda proporciona información sobre
