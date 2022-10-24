@@ -333,7 +333,7 @@ De igual manera al comprar la segunda computadora, el individuo  "ahorra": **\$7
 
 La suma de estos valores, representa lo que denominamos**el excedente del consumidor**
 
-En términos de la figura 1, el excedente del consumdor es **$29** y está dado por el área bajo la curva de demanda entre el precio pagado, en este caso **p=\$50** y la máxima disponibilidad a pagar. **\$65**.
+En términos de la figura 1, el excedente del consumdor es **$22** y está dado por el área bajo la curva de demanda entre el precio pagado, en este caso **p=\$43** y la máxima disponibilidad a pagar. **\$65**.
 
 La curva de demanda en el **mercado** de un bien particular, resume la suma del comportamiento de los consumidores de ese bien, en particular, **resume su relación entre precio** y  disposición a pagar.
 
