@@ -388,7 +388,7 @@ La representación siguiente nos muestra los **tres escenarios** relevantes en c
 
 ![](/images/elasticity.jpg)
 
-[Elasticidad en la práctica](https://www.wsj.com/news/economy?mod=nav_top_section)
+[Elasticidad en la práctica](https://www.wsj.com/video/series/price-index/why-ceos-from-coca-cola-to-hershey-are-talking-about-price-elasticity/FAB951C0-6251-4FD5-9128-E76658CA144C) 
 
 ##### Actividad  
 
