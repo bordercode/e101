@@ -249,9 +249,9 @@ Un ejemplo, es el caso de **Amazon** hoy en día esta empresa tiene actividad en
 
 
 Si en términos teóricos hemos estudiado que el objetivo de la empresa
-es la maxicmización de los beneficios. ¿Cómo podemos explicar que 
-empresas dominantes hoy en en dia como Uber o  Amazon, registren 
-perdidas operativas de gan magnitud? 
+es la maximización de los beneficios. ¿Cómo podemos explicar que 
+empresas dominantes hoy en en día como Uber o  Amazon, registren 
+pérdidas operativas de gran magnitud? 
 
 
 
