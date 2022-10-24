@@ -343,10 +343,10 @@ La curva de demanda para un mercado particular muestra entonces una **relación 
 **Figura 2.** Curva de demanda del mercado.
 
 
-**Note:** la relación inversa entre  p y q: Observamos el area correspondiente al concepto de excedente del consumidor como el area bajo la curva de demanda, (*en términos de un rango específico, usandocálculo integral podemos  encontrar el valor de esa área de manera precisa*).
+**Note:** la relación inversa entre  p y q: Observamos el area correspondiente al concepto de excedente del consumidor como el area bajo la curva de demanda, (*en términos de un rango específico, usando cálculo integral podemos  encontrar el valor de esa área de manera precisa*).
 
 
-### Elasticidad de la demanda.
+## Elasticidad de la demanda.
 
 La **sensibilidad** que tiene la cantidad demandada de un bien respecto a variaciones en su precio se denomina elasticidad. 
 
