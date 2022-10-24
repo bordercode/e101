@@ -350,7 +350,7 @@ La curva de demanda para un mercado particular muestra entonces una **relación 
 
 La **sensibilidad** que tiene la cantidad demandada de un bien respecto a variaciones en su precio se denomina elasticidad. 
 
-Intuitavamente la definición de **elasticidad** nos permite determinar qué tan flexible es la demanda cuando experimentamos un incremento en el precio de un bien. 
+Intuitivamente la definición de **elasticidad** nos permite determinar qué tan flexible es la demanda cuando experimentamos un incremento en el precio de un bien. 
 
 Es importante notar que los bienes se pueden clasificar en **substitutos** y **complementarios**
 
@@ -358,6 +358,10 @@ Es importante notar que los bienes se pueden clasificar en **substitutos** y **c
 Por ejemplo un  **iphone** puede ser un substituto de un telefono samsung (android). Pero  unos audifonos son un bien **complementario** de ambos celulares.
 
 Típicamente, productos que no tienen **substitutos** cercanos, como por ejemplo, la **insulina** en el caso de enfermos por diabetes o la gasolina para los usuarios de automóviles, algunas drogas como la mariguana, (|e|=0.41), (ver [Estudio aquí](https://www.upo.es/revistas/index.php/RevMetCuant/article/view/2689)), heroina, crack, psp, cristal, etc, etc.,   
+
+
+<iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0" scrolling="no" width="512" height="288" src="https://video-api.wsj.com/api-video/player/v3/iframe.html?guid=FAB951C0-6251-4FD5-9128-E76658CA144C"></iframe>
+
 
 Tendrán una **elasticidad menor**,  serán  inelásticos.
 
