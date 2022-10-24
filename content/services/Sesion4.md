@@ -240,7 +240,7 @@ Un ejemplo, es el caso de **Amazon** hoy en día esta empresa tiene actividad en
 
 
 
-### Ecaanomias de alcance.
+### Economías de alcance.
 
 
 
