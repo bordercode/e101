@@ -29,6 +29,6 @@ Recuerda que nuestra sesiones se llevan  a cabo los dias:
 **Noviembre** 
 | Día       | Horario         |
 | --------- | --------------- |
-| Lunes  7  | 4 pm   -    6pm |
+| Lunes  8  | 10:00   - 12:00 |
 
 
