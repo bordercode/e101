@@ -11,7 +11,7 @@ Recuerda que nuestra sesiones se llevan  a cabo los dias:
 **Septiembre**
 | Día       | Horario         |
 | --------- | --------------- |
-| Lunes 19  | 3 pm   -    5pm |
+| Viernes 6 | 10 am -     5pm |
 | Mié 21    | 3 pm   -    5pm |
 | Viernes 23| 12 am   -   2pm |
 | Lunes 26  | 4 pm   -    6pm |
