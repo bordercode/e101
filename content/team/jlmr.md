@@ -9,4 +9,4 @@ weight: 1
 ---
 
 
-José Luis  es un  apasionado explorador de datos y analista de política pública. Es doctor en economía y  es miembro del Sistema Nacional de investigadores. 
+José Luis  es un  apasionado explorador de datos y analista de política pública. Es doctor en economía.
