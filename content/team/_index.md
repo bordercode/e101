@@ -35,7 +35,7 @@ Fecha exposición de tema seleccionado:
  **Viernes 8 de Noviembre**
 
 
-## Carta descriptiva del curso [PDF](https://drive.google.com/file/d/1vjQKptKxNeFDfN8-TYTYTiLL-CQegwLR/view?usp=sharing)
+## Carta descriptiva del curso [PDF](https://drive.google.com/file/d/14e8nsI1ZYY09N3cng254yF4_CJ-VGUfZ/view?usp=sharing)
 
 
 ## Temas para exposición:
@@ -50,20 +50,20 @@ Fecha exposición de tema seleccionado:
 
 **Oligopolio: La producción de cerveza en México.**
 
-**Provisión de servicios públicos monopolio natural y la disyuntiva (Eficiencia equidad) entre provisión privada y administrada centralmente: El caso de Veolia**
+**Provisión de servicios públicos monopolio natural y la disyuntiva (Eficiencia equidad) entre provisión privada y administrada centralmente:**
 
 **Racionalidad y comportamiento del consumidor.**
 
 [Daniel kahneman ](https://www.uzh.ch/cmsssl/suz/dam/jcr:ffffffff-fad3-547b-ffff-ffffe54d58af/10.18_kahneman_tversky_81.pdf)
 
-**Distribución del ingreso. Homeless at the US Mexico border, a market driven issue  (Aplicación de la curva de Lorenz**
+**Distribución del ingreso. Homeless at the US Mexico border, a market driven issue  (Aplicación de la curva de Lorenz)**
 
 **Mercado laboral y factores de la producción: Efectos de AI sobre productividad**  
 
 [AI 2041 Ten visions for our future](https://drive.google.com/file/d/1Ow1DjyrV21YRIOmzSVl60aPGbrNJj3ef/view?usp=sharing)
 
 
-El dinero como medio de intercambio. Bitcoin como sustituto actual del dinero.  Materiales de Referencia [Thank god for Bitconin](https://drive.google.com/file/d/16xCDFf9J5A2Vsur0rmqoGpH1DV-9oxss/view?usp=sharing)
+El dinero como medio de intercambio. Bitcoin como sustituto actual del dinero.  Materiales de Referencia [Thank god for Bitcoin](https://drive.google.com/file/d/16xCDFf9J5A2Vsur0rmqoGpH1DV-9oxss/view?usp=sharing)
 
 
 [Estructura de Mercado: Monopolio ](https://drive.google.com/file/d/1GYbt60-frwofKmlX1l3tspzausw14R-D/view?usp=sharing) See capitulo 5 pags. 69-85.
