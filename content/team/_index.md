@@ -20,15 +20,15 @@ title: Evaluación
 
 ### Fecha de exámenes: 
 
-> Examen 1: **Viernes 18 Octubre**
+> Examen 1: **Viernes 27 Septiembre**
 
-> Examen 2: **Viernes 29 Noviembre**
+> Examen 2: **Viernes 25 Octubre**
 
 Fecha entrega de reporte de coyuntura económica:  
-**Viernes 25 de Octubre.**
+**Viernes 11 de Octubre.**
 
 Fecha debate grupal:  
-**Viernes 22 de Noviembre**
+**Viernes 18 de Octubre**
 
 Fecha exposición de tema seleccionado:
 
