@@ -18,13 +18,13 @@ Recuerda que nuestra sesiones se llevan  a cabo los dias:
 
 **Octubre**
 
-| Día       | Horario         |
-| --------- | --------------- |
-| Lunes 3   | 4 pm   -    6pm |
-| Lunes 10  | 4 pm   -    6pm |
-| Lunes 17  | 4 pm   -    6pm |
-| Lunes 24  | 4 pm   -    6pm |
-| Lunes 31  | 4 pm   -    6pm |
+| Día         | Horario         |
+| ---------   | --------------- |
+| Viernes 4   | 10:00   - 12:00 |
+| Viernes 11  | 10:00   - 12:00 |
+| Viernes 18  | 10:00   - 12:00 |
+| Viernes 25  | 10:00   - 12:00 |
+
 
 **Noviembre** 
 | Día       | Horario         |
