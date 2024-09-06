@@ -11,10 +11,10 @@ Recuerda que nuestra sesiones se llevan  a cabo los dias:
 **Septiembre**
 | Día       | Horario         |
 | --------- | --------------- |
-| Viernes 6 | 10 am -     5pm |
-| Mié 21    | 3 pm   -    5pm |
-| Viernes 23| 12 am   -   2pm |
-| Lunes 26  | 4 pm   -    6pm |
+| Viernes 6 | 11:30   - 13:30 |
+| Viernes 13| 10:00   - 12:00 |
+| Viernes 20| 10:00   - 12:00 |
+| Viernes 27| 10:00   - 12:00 |
 
 **Octubre**
 
