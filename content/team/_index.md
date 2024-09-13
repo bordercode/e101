@@ -90,6 +90,24 @@ El caso del consumo de mariguana ante su legalización en algunas regiones del m
 
 La economia Chilena,  30 años de un paradigma de Mercado con libertad individual. 
 
+
+Aplicación de recursos públicos a programas sociales en el contexto de la asignación eficiente de recursos escasos. 
+
+#### Preguntas detonadoras: 
+
+¿Qué consecuencias tiene esta práctica actual?
+
+¿Beneficia al país en su conjunto o es una practica clientelar con beneficios políticos de corto plazo? 
+
+¿Qué papel y consecuencias tiene esta política en el largo plazo? 
+
+¿Quién paga la deuda? 
+
+¿Cómo se generan los recursos que son otorgados por estos programas sociales? 
+
+Un equipo argumentará a favor de la aplicación de esta política en el contexto de la discusión de la idea fundamental sobre la asignación eficiente de recursos escasos. Mientras el otro equipo defenderá la postura opuesta.
+
+
 ## Temas pare el reporte de coyuntura económica. 
 
 1. La maquiladora en la frontera norte de Mexico, localización estrategica, costos de mano de obra. Empleos precarios? 
