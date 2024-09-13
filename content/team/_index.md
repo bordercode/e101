@@ -88,8 +88,6 @@ El caso del consumo de mariguana ante su legalización en algunas regiones del m
 
 ## Tema para el debate. 
 
-La economia Chilena,  30 años de un paradigma de Mercado con libertad individual. 
-
 
 Aplicación de recursos públicos a programas sociales en el contexto de la asignación eficiente de recursos escasos. 
 
