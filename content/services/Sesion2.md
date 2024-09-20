@@ -175,6 +175,30 @@ El costo económico difiere de los gastos realizados por que el primero **incluy
 
 [Bastian article on freedom and liberty](https://drive.google.com/file/d/1zkJV4ZiA1hJBSu8hmlByNvlSrdxw9xoL/view?usp=sharing)  pp.  434 y 435. Reflexión sobre **10 Laissez- faire**  y **9 Freedom**  pp. 433 y 434
 
+
+### Actividad en clase 
+
+Actividad. Lea el prefacio de la obra de Bastiat “The Law” y comente los siguientes cuestionamientos. 
+[“The Law”](https://drive.google.com/file/d/1vKUsf3zwZdxKR0AzDGmJYhm46tMKCvvQ/view?usp=sharing)
+
+1.- Con base en el siguiente escenario y considerando la postura de Bastiat referida en la obra  The Law. sobre la noción de: rent avoidance. Comente sobre el vínculo entre la organización política y la actividad económica. 
+Decreto del Gobierno Mexicano (2020): En diciembre de 2020, el presidente Andrés Manuel López Obrador firmó un decreto que ordenaba la eliminación gradual del uso de glifosato en México para el año 2024. Este decreto busca prohibir la importación, distribución y uso del glifosato en todo el país, promoviendo al mismo tiempo el uso de alternativas agroecológicas. La medida también prohíbe el uso del maíz transgénico para el consumo humano en el mismo periodo.
+Tras el decreto, Monsanto (ahora Bayer) y otras entidades vinculadas a la agroindustria han presentado amparos para detener o retrasar la implementación de la prohibición. Estos amparos han buscado proteger sus intereses comerciales, argumentando que el glifosato es una herramienta esencial para la agricultura y que la eliminación de su uso podría afectar gravemente la producción agrícola.
+
+2.-Considere el papel de la educación pública y el sistema educativo mexicano actual en particular desde la perspectiva de los postulados de Bastiat. 
+¿Es el sistema educativo y particularmente la intervención gubernamental en este, un instrumento para influir en la conducción de objetivos particulares de una facción política? 
+
+3.- ¿Qué postura tiene Bastiat sobre el movimiento socialista? ¿Qué rasgos de este sistema pueden influir en el entorno económico y la asignación eficiente de recursos? 
+
+4.-¿Qué elemento esencial sobre la estructura dictatorial es necesaria para su existencia? Considere el caso actual sobre la reforma al poder Judicial impulsada en México y la particular conformación de representatividad en el poder legislativo actual en México.
+
+5.-Comente la postura de Bastiat sobre el papel que tienen los lideres y figuras emblemáticas (“great men, fathers of their countries”), para la consecución de una sociedad libre.  Presente ejemplos de mandatarios o figuras emblemáticas que teniendo el poder político definen el rumbo económico de los países que representan.  Ej. Chávez, Maduro, Allende, Correa. Piñera, Javier Milei, etc.
+
+6.Desde una perspectiva histórica para el caso de “América”, ¿Cuáles son dos grandes excepciones que observa Bastiat en relación a la consecución de los ideales de una sociedad que promueve los derechos de la vida, la propiedad y la libertad?
+
+7.- ¿Qué argumento conclusivo de la obra “The Law” propone Bastiat para el logro de una sociedad libre?
+
+
 ###  Determinación del valor
 
 Uno de los primeros objetivos en economía fue la **explicación de la fuente del valor**.  Si bien este puede parecer un planteamiento filosófico con la subjetividad propia, los diversos autores que integran el pensamiento económico sistematizaron **explicaciones** sobre este importante concepto.
