@@ -250,7 +250,7 @@ Con base en la información del clip anterior responda los siguientes cuestionam
 
 
 
-### Actividad 5 
+### Actividad 5  Tarea.
 
 **Assignment in-class Analyisis :**
 
@@ -346,7 +346,7 @@ El problema del uso de supuestos para entender la realidad, es que, estos no sie
 
 Uno de los supuestos fundamentales en economía y particularmente en el subcampo de **MICROECONOMÍA**  es la **racionalidad** de los agentes. Es decir las decisiones que los individuos toman, se basan en un proceso de **contraste de costo-beneficio**. 
 
-#### Actividad 7 
+#### Actividad 7  Control de lectura.
 
 Analicemos el siguiente artículo en donde se muestra por qué los supuestos y en consecuencia los modelos, si bien útiles, para describir un fenómeno en economía en términos teóricos, pueden y con frecuencia lo estan, alejados de la realidad.
 
@@ -369,7 +369,7 @@ Lea el  [artículo](https://drive.google.com/file/d/17I9if9nirP7JDQfRvFVSbohAwur
 
 5. ¿En qué consite el principio de invariabilidad? 
 
-6. ¿En el ejemplo sobre el surgimiento de un "padecimiento Asiático" que se menciona en página 343, parrafo 4,  columna 1 y parrafo 1  columna 2; El resultado se descibe como un escenario de aversión al riesgo o una situación de busqueda de riesgo?  Explique por que en cualquier caso. 
+6. ¿En el ejemplo sobre el surgimiento de un "padecimiento Asiático" que se menciona en página 343, parrafo 4,  columna 1 y parrafo 1  columna 2; El resultado se descibe como un escenario de aversión al riesgo o una situación de búsqueda de riesgo?  Explique por que en cualquier caso. 
 
 
 
