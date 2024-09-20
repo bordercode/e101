@@ -146,6 +146,9 @@ Para ilustrar el concepto de **costo de oportnunidad** revise el siguiente mater
 
 Comente el fragmento anterior de la obra de [**Bastiat**](https://drive.google.com/file/d/1zkJV4ZiA1hJBSu8hmlByNvlSrdxw9xoL/view?usp=drive_link)
 
+*Bastiat un economista libertario*, influencia  de autores como:
+**Ludwig von Mises**, **Friedrich Hayek**, and **Milton Friedman**.
+
 - Argumente sobre los beneficios para la sociedad de la acción del niño.
 
 - ¿Cuales son los efectos que no se ven en este caso?
