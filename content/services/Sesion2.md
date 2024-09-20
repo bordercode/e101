@@ -146,7 +146,7 @@ Para ilustrar el concepto de **costo de oportnunidad** revise el siguiente mater
 
 Comente el fragmento anterior de la obra de [**Bastiat**](https://drive.google.com/file/d/1zkJV4ZiA1hJBSu8hmlByNvlSrdxw9xoL/view?usp=drive_link)
 
-*Bastiat un economista libertario*, influencia  de autores como:
+*Bastiat un economista libertario*. Uno de los primeros defensores de la teoría de la elección pública, (*Public choice theory*) que examina cómo se toman las decisiones políticas y cómo los gobiernos pueden ser ineficientes o corruptos al asignar recursos. Influencia  de autores como:
 **Ludwig von Mises**, **Friedrich Hayek**, and **Milton Friedman**.
 
 - Argumente sobre los beneficios para la sociedad de la acción del niño.
@@ -169,6 +169,11 @@ Comente el fragmento anterior de la obra de [**Bastiat**](https://drive.google.c
 En **síntesis.** La toma de desiciones en economía debe de considerar el costo de oportunidad. 
 
 El costo económico difiere de los gastos realizados por que el primero **incluye costos** que no son explicitos.
+
+
+**Lectura recomendada:**
+
+[Bastian article on freedom and liberty](https://drive.google.com/file/d/1zkJV4ZiA1hJBSu8hmlByNvlSrdxw9xoL/view?usp=sharing)  pp.  434 y 435. Reflexión sobre **10 Laissez- faire**  y **9 Freedom**  pp. 433 y 434
 
 ###  Determinación del valor
 
