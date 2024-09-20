@@ -192,7 +192,7 @@ Tras el decreto, Monsanto (ahora Bayer) y otras entidades vinculadas a la agroin
 
 4.-¿Qué elemento esencial sobre la estructura dictatorial es necesaria para su existencia? Considere el caso actual sobre la reforma al poder Judicial impulsada en México y la particular conformación de representatividad en el poder legislativo actual en México.
 
-5.-Comente la postura de Bastiat sobre el papel que tienen los lideres y figuras emblemáticas (“great men, fathers of their countries”), para la consecución de una sociedad libre.  Presente ejemplos de mandatarios o figuras emblemáticas que teniendo el poder político definen el rumbo económico de los países que representan.  Ej. Chávez, Maduro, Allende, Correa. Piñera, Javier Milei, etc.
+5.-Comente la postura de Bastiat sobre el papel que tienen los lideres y figuras emblemáticas (“great men, fathers of their countries”), para la consecución de una sociedad libre.  Presente ejemplos de mandatarios o figuras emblemáticas que teniendo el poder político definen el rumbo económico de los países que representan.  Ej. Chávez, Maduro, Allende, Correa. Piñera, Javier Milei, Luiz Inácio Lula da Silva, Dilma Rousseff, Daniel Ortega, Evo Morales, Gustavo Petro,Pedro Castillo, Cristina Fernández de Kirchner, etc.
 
 6.Desde una perspectiva histórica para el caso de “América”, ¿Cuáles son dos grandes excepciones que observa Bastiat en relación a la consecución de los ideales de una sociedad que promueve los derechos de la vida, la propiedad y la libertad?
 
