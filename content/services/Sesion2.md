@@ -144,7 +144,7 @@ Para ilustrar el concepto de **costo de oportnunidad** revise el siguiente mater
 
 [Broken window falacy](https://www.youtube.com/watch?v=erJEaFpS9ls)
 
-Comente el fragmento anterior de la obra de **Bastiat**. 
+Comente el fragmento anterior de la obra de [**Bastiat**](https://drive.google.com/file/d/1zkJV4ZiA1hJBSu8hmlByNvlSrdxw9xoL/view?usp=drive_link)
 
 - Argumente sobre los beneficios para la sociedad de la acción del niño.
 
