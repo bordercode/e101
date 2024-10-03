@@ -252,16 +252,16 @@ Analizar los determinates de la demanda.
 [Estructura poblacional y demanda](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2020)659419)
 
 
-[Material complementario](https://www.youtube.com/watch?v=hJCr5WJapm8)
+[Material complementario](https://www.youtube.com/watch?v=hJCr5WJapm8)  (Material para revisión en casa).
 
-1- Acorde con la información presentada por el artículo y considerando la teoria microeconómica sobre la demanda? 
+1- Acorde con la información presentada por el artículo y considerando la teoría microeconómica sobre la demanda:
 
-¿Qué escenario se prevee para la demanda de bienes de consumo en población de la tercera edad en Japón en las proximas décadas? 
+¿Qué escenario se prevee para la demanda de bienes de consumo en población de la tercera edad en Japón en las próximas décadas? 
 
 
 2.- ¿De qué forma la estructura poblacional moldea la demanda de bienes y servicios en una sociedad?
 
-3.-Dado el escenario en este pais ¿Qué podemos esperar respecto a la demanda de productos pediátricos vs. aquellos geriátricos?
+3.-Dado el escenario en este país ¿Qué podemos esperar respecto a la demanda de productos pediátricos vs. aquellos geriátricos?
 
 -----------------------------------------------
 
@@ -271,6 +271,7 @@ Analizar los determinates de la demanda.
 Acorde con las fluctuaciones de los precios relacionados.
 
 > + Substitutos
+Ejemplo: Vehículos eléctricos y vehículos de combustión interna: Si el precio de la gasolina aumenta, muchas personas podrían optar por comprar un vehículo eléctrico como sustituto, dado que ya no dependen de combustibles fósiles.
 > + Complementarios
 
 Acorde a la realción con el ingreso ($I_{y}$)
