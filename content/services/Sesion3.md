@@ -218,10 +218,10 @@ En el caso de esta nota, referida a la reducción de la oferta de **petróleo** 
 
 **Ejemplo 2.** 
 
+[Una relación inversa. La demanda y los precios de vehículos electricos EV](https://www.economist.com/briefing/2024/01/11/western-firms-are-quaking-as-chinas-electric-car-industry-speeds-up)
+
 ![](/images/china.jpg)
 
-
-[Una relación inversa. La demanda y los precios de vehículos electricos EV](https://www.economist.com/briefing/2024/01/11/western-firms-are-quaking-as-chinas-electric-car-industry-speeds-up)
 
 [Enlace](https://drive.google.com/file/d/1VWYZWyFhzGVkJGCauFWQNL6D1xBCgocW/view?usp=sharing)
 
