@@ -63,7 +63,7 @@ El eje vertical mide **la disposición a pagar** (exprezada en este caso con un 
 
 Se tiene una  **relación inversa** entre la disposición a pagar un **precio determinado (p)** y el **consumo de  unidades sucesivas del bien (q)**. Lo que permite delinear su curva de demanda por este bien en particular. 
 
-La forma de la curva refleja el hecho de que el **consumo de unidades sucesivas** de un bien, reporta una utilidad cada vez menor.  
+La forma de la curva refleja el hecho de que el **consumo de unidades sucesivas** de un bien, reporta una utilidad cada vez menor. 
 
 
 ![](/images/demandacurve.jpg)
