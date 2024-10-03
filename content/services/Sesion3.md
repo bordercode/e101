@@ -208,7 +208,7 @@ Por ejemplo, considere el siguiente titular de los diarios del 3 de octubre 2024
 
 ![](/images/wsj.jpg)
 
-[Analisis de relación precios del petróleo con demanda global](https://www.wsj.com/articles/opec-agrees-to-biggest-oil-production-cut-since-start-of-pandemic-11664978144)
+[Analisis de relación precios del petróleo con fluctuaciones dela oferta global](https://www.wsj.com/business/energy-oil/saudi-minister-warns-of-50-oil-as-opec-members-flout-production-curbs-216dc070?mod=WTRN_pos1&cx_testId=3&cx_testVariant=cx_164&cx_artPos=0)
 
 ![](/images/gasoline.jpg)
 
