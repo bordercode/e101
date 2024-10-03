@@ -271,10 +271,14 @@ Analizar los determinates de la demanda.
 Acorde con las fluctuaciones de los precios relacionados.
 
 > + Substitutos
+
 Ejemplo: Vehículos eléctricos y vehículos de combustión interna: Si el precio de la gasolina aumenta, muchas personas podrían optar por comprar un vehículo eléctrico como sustituto, dado que ya no dependen de combustibles fósiles.
+
 > + Complementarios
 
-Acorde a la realción con el ingreso ($I_{y}$)
+Ejeplo: Smartphones y aplicaciones móviles: Los teléfonos inteligentes y las aplicaciones son complementarios, ya que sin el primero no se pueden utilizar las segundas.
+
+Acorde a la relación con el ingreso ($I_{y}$)
 
 > + Normales 
 > + Inferiores
