@@ -98,7 +98,7 @@ En síntesis estos son los 6 determinantes de la **demanda:**
 
 **Expectativas de Ingreso:** Si hay una **expectativa de incremento del ingreso** por ejemplo debido a mejores condicones de crédito, (ej. el banco central ha anunciado una reducción en la tasa de interés de referencia). O bien, las percepciones del individuo aumentan por que se gradua de un postgrado y puede acceder a mejores ofertas laborales.
 
-Este determinante (expectativas de ingreso), impacta la demanda en el tiempo. Por ejemplo, si la expectativa es a un incremento del ingreso, esto genera un mayor consumo hoy, lo que se expresa como un desplazamiento a la derecha de la curva de demanda). 
+Este determinante (expectativas de ingreso), impacta la demanda en el tiempo. Por ejemplo, si la expectativa es a un incremento del ingreso, esto genera un **mayor consumo hoy**, lo que se expresa como un desplazamiento a la derecha de la curva de demanda). 
 
 
 **Expectativas de Precios** Si se anticipa un incremento (**disminución**) en los precios del bien. Ej. si la cosecha de café se pierde por un evento meteorológico inesperado en **Brazil** o **Colombia**. (o en Coatepec, Veracruz, Chiapas, ), se prevé que el precio en Starbucks de la taza, se incremente.
@@ -109,13 +109,13 @@ Este determinante (expectativas de ingreso), impacta la demanda en el tiempo. Po
 
 + Analizar los efecto de los determinantes: Precios esperados, ingresos y población sobre la **demanda** de mercado.
 
-+ Presentar las definiciones de bienes complementarios, substitutos, normales e inferiors.
++ Presentar las definiciones de bienes complementarios, substitutos, normales e inferiores.
 
 + Definir las principales estructuras de mercado
 
 #### Metas de aprendizaje.
 
-Una vez que se han expuesto las bases teoricas y conceptuales, la meta es comprender los fundamentos de la demanda a paritr de casos de estudio concretos. 
+Una vez que se han expuesto las bases teóricas y conceptuales, la meta es comprender los fundamentos de la demanda a paritr de casos de estudio concretos. 
 
 
 ### Actividad 1
@@ -125,20 +125,15 @@ Elija uno de los dos temas propuestos y en equipo de dos personas conteste las p
 #### Tema 1
 
 
+[Bitcoin’s price is surging. What happens next?](https://drive.google.com/file/d/1hC9FnytnWipZH7tt98W97h7qXLy0nd_T/view?usp=sharing).
 
-[Economics of Marihuana](https://drive.google.com/file/d/1hyya9tpTPaNVeCV6nyihrH0Voh-tuCM_/view?usp=sharing).
 
-Únicamente leer sección  **3.1 Issues in drug prices** y **3.4 Marijuana has become substantially cheaper**
+1.- Considerando que, activos como la criptomoneda Bitcoin, parte de un stock limitado, (por definición esta moneda tiene una oferta limitada en existencia -justo como otros activos  populares como el ORO), ¿Qué efectos, sobre el precio de la criptomoneda, han tenido las acciones recientes de organismos reguladores como la Comisión de Bolsa de Valores (Securities and Exchange Commission) con la  aprobación de aplicaciones (11) para crear fondos cotizados en bolsa (exchange-traded funds  ETFs) de bitcoin?
 
-1.- Discuta las particularidades de la fijación del precio de un producto como las drogas.
+2.- Describa la trayectoria de las fluctuaciones del precio que presenta el autor en relación a esta crypto moneda.
 
-2. ¿A qué se refiere el autor cuando señala que la fijación del precio de algunas drogas se comporta como un "*experience good"*
 
-3.- ¿Qué elmentos indica el autor que pueden ser de importancia en la categoria de "*non-monetary cost*" para la integración del precio de algunas drogas.
-
-4.- ¿Cómo ha sido la trayectoria temporal del precio de la marihuana en los ultimos años? 
-
-5.-¿Cómo los cambios tecnológicos han impactado el precio de la marihuana, ? 
+3.- Comente los determinantes que aborda el autor sobre los escenarios de expectativas en el precio de la cryptomoneda.  
 
 
 ### Tema 2 
