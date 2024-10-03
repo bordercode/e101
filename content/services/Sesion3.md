@@ -278,7 +278,7 @@ Ejemplo: Vehículos eléctricos y vehículos de combustión interna: Si el preci
 
 Ejeplo: Smartphones y aplicaciones móviles: Los teléfonos inteligentes y las aplicaciones son complementarios, ya que sin el primero no se pueden utilizar las segundas.
 
-Acorde a la relación con el ingreso $D({y})$
+Acorde a la relación con el ingreso $D(Y)$
 
 > + Normales 
 > + Inferiores
