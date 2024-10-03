@@ -218,13 +218,34 @@ En el caso de esta nota, referida a la reducción de la oferta de **petróleo** 
 
 **Ejemplo 2.** 
 
-Las caída de los **precios** en las computadoras personales ha propiciado la expansión de su **demanda** a lo largo del tiempo.  Hoy en día vemos esta misma transición con los  telefonos celulares y smart phones.
+![](/images/china.jpg)
 
 
-![](/images/cpu.jpg)
+[Una relación inversa. La demanda y los precios de vehículos electricos EV](https://www.economist.com/briefing/2024/01/11/western-firms-are-quaking-as-chinas-electric-car-industry-speeds-up)
+
+[Enlace](https://drive.google.com/file/d/1VWYZWyFhzGVkJGCauFWQNL6D1xBCgocW/view?usp=sharing)
+
+**Comente en equipos los siguientes cuestionamientos**
+
+1.- ¿Qué elementos refiere el autor en cuanto al efecto de la competencia sobre los precios en el caso del mercado Chino?
+
+
+2.- Argumente sobre la relación inversa entre el volumen de autos eléctricos producidos y la evolución de su precio.
+
+
+3.- Cuáles son los factores  que señala el autor como importantes para determinar los costos de producción en el mercado de vehículos eléctricos chinos? (Note que el costo de producción está directamente relacionado con el precio del producto).
+
+4.- En este tema, ¿qué segmento de mercado indica al autor para el caso de México?
+
+5.-. Con base en la información de la nota, mencione 2 elementos de intervención gubernamental que han favorecido el desarrollo del segmento de vehículos eléctricos en el mercado. Así como dos elementos que actúan en detrimento de la incursión de los vehículos eléctricos producidos por China en los mercados de Europa, Estados Unidos o México.
+
+
+6.- Según la nota, ¿Qué elementos referentes a las preferencias del consumidor impulsan el crecimiento del segmento en China?
 
 
 ##### Actividad 2.
+
+
 
 Analizar los determinates de la demanda.
 
