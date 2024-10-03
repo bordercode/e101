@@ -82,12 +82,12 @@ Adicionalmente hay **dos effectos** que afectan la cantidad demandada que tienen
 1. **Efeccto substitución**: Este se manifiesta por el mayor incentivo que tiene los consumidores a dirigir sus acciones de consumo hacia bienes similares ante un incremento del precio de un bien en particular.
 Entre mayor sea el número de bienes substitutos, mayor será este efecto.
 
-2.**Efecto ingreso**. Partimos del supuesto básico de que los individuos cuentan con una **restriccion presupuestal** determinada, es deir un **ingreso fijo**  cuya distribución se hace entre los diferentes bienes de consumo.
+2.**Efecto ingreso**. Partimos del supuesto básico de que los individuos cuentan con una **restriccion presupuestal** determinada, es decir, un **ingreso fijo**  cuya distribución se hace entre los diferentes bienes de consumo.
 
 Si el precio de un bien particular se **incrementa**, la condición fija del **presupuesto** (restricción  presupuestal), implica limitar la cantidad consumida del bien particular en nuestra canasta de bienes. 
 
 
-+ Adicionalmente, si el bien es **normal**, hay una relación directa entre la demanda de un bien y el nivel de ingreso, (ej. cuando se eleva el ingreso, la cantidad demandada se incrementará).
++ Adicionalmente, si el bien es **normal**, hay una relación directa entre la demanda de un bien y el nivel de ingreso, (ej. cuando se eleva el ingreso, la curva de demanda se desplaza a la derecha, indicando una mayor demanda a todos los niveles de precio).
 
 
 
@@ -96,7 +96,7 @@ En síntesis estos son los 6 determinantes de la **demanda:**
 
 **Dx=f(-px, py, I, Pr)** Adicionalmente podemos incluir las expectativas y la variable **poblacional**.
 
-**Expectativas de Ingreso:** Si hay una **expectativa de incremento del ingreso** por ejemplo debido a mejores condicones de crédito, (ej. el banco central ha anunciado una reducción en la tasa de interés de referencia).  Bien las percepciones del individuo aumentan por que se gradua de un postgrado y puede acceder a mejores ofertas laborals.
+**Expectativas de Ingreso:** Si hay una **expectativa de incremento del ingreso** por ejemplo debido a mejores condicones de crédito, (ej. el banco central ha anunciado una reducción en la tasa de interés de referencia). O bien, las percepciones del individuo aumentan por que se gradua de un postgrado y puede acceder a mejores ofertas laborales.
 
 
 **Expectativas de Precios** Si se anticipa un incremento (**disminución**) en los precios del bien. Ej. si la cosecha de café se pierde por un evento meteorológico inesperado en **Brazil** o **Colombia**. (o en Coatepec, Veracruz, Chiapas, ), se prevé que el precio en Starbucks de la taza, se incremente.
