@@ -79,7 +79,7 @@ Cuando nos referimos a una unidad adicional hacemos referencia al **consumo marg
 Adicionalmente hay **dos effectos** que afectan la cantidad demandada que tienen lugar ante las variaciones en el precio.
 
 
-1. **Efeccto substitución**: Este se maniiesta por el mayor incentivo que tiene los consumidores a dirigir sus acciones de consumo hacia bienes similares ante un incremento del precio de un bien en particular.
+1. **Efeccto substitución**: Este se manifiesta por el mayor incentivo que tiene los consumidores a dirigir sus acciones de consumo hacia bienes similares ante un incremento del precio de un bien en particular.
 Entre mayor sea el número de bienes substitutos, mayor será este efecto.
 
 2.**Efecto ingreso**. Partimos del supuesto básico de que los individuos cuentan con una **restriccion presupuestal** determinada, es deir un **ingreso fijo**  cuya distribución se hace entre los diferentes bienes de consumo.
