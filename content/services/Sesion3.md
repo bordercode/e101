@@ -237,7 +237,7 @@ En el caso de esta nota, referida a la reducción de la oferta de **petróleo** 
 
 4.- En este tema, ¿qué segmento de mercado indica al autor para el caso de México?
 
-5.-. Con base en la información de la nota, mencione 2 elementos de intervención gubernamental que han favorecido el desarrollo del segmento de vehículos eléctricos en el mercado. Así como dos elementos que actúan en detrimento de la incursión de los vehículos eléctricos producidos por China en los mercados de Europa, Estados Unidos o México.
+5.- Con base en la información de la nota, mencione 2 elementos de intervención gubernamental que han favorecido el desarrollo del segmento de vehículos eléctricos en el mercado. Así como dos elementos que actúan en la incursión de los vehículos eléctricos producidos por China en los otros mercados analizados.
 
 
 6.- Según la nota, ¿Qué elementos referentes a las preferencias del consumidor impulsan el crecimiento del segmento en China?
