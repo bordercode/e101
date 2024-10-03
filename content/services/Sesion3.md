@@ -98,7 +98,7 @@ En síntesis estos son los 6 determinantes de la **demanda:**
 
 **Expectativas de Ingreso:** Si hay una **expectativa de incremento del ingreso** por ejemplo debido a mejores condicones de crédito, (ej. el banco central ha anunciado una reducción en la tasa de interés de referencia). O bien, las percepciones del individuo aumentan por que se gradua de un postgrado y puede acceder a mejores ofertas laborales.
 
-Este determinante (expectativsa de ingreso), impacta la demanda en el timepo. POr ejemplo, si la expectativa es a un incremento del ingreso, esto genera un mayor consumo hoy, lo que se expresa como un desplazamiento a la derecha de la curva de demanda). 
+Este determinante (expectativas de ingreso), impacta la demanda en el tiempo. Por ejemplo, si la expectativa es a un incremento del ingreso, esto genera un mayor consumo hoy, lo que se expresa como un desplazamiento a la derecha de la curva de demanda). 
 
 
 **Expectativas de Precios** Si se anticipa un incremento (**disminución**) en los precios del bien. Ej. si la cosecha de café se pierde por un evento meteorológico inesperado en **Brazil** o **Colombia**. (o en Coatepec, Veracruz, Chiapas, ), se prevé que el precio en Starbucks de la taza, se incremente.
