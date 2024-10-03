@@ -166,7 +166,7 @@ o Descargue desde drive
 
 -------------------------------------
 
-##### Población:
+## Población:
 
 Hay una relación directa entre el incremento de la población y la demanda de un bien particular. 
 
@@ -194,19 +194,23 @@ Note diferencia entre movimiento a lo largo y desplazamiento de la curva.
 ![](/images/0demanda3.jpg)
 
 
-Esta relación entre P y Q es tan cotidiana que quizás no los percibimos pero los titulares de los diarios y los acontecimientos diarios en nuestras desiciones de consumo están fuertemente inlfuenciados por esta relación.
+Esta relación entre P y Q es tan cotidiana que quizás no los percibimos pero los titulares de los periódicos y los acontecimientos diarios en nuestras desiciones de consumo están fuertemente influenciados por esta relación.
 
-Por ejemplo, considere el siguiente titular de los diarios del 5 de octubre 2022: 
+Por ejemplo, considere el siguiente titular de los diarios del 3 de octubre 2024: 
 
 
-**"OPEC+ Agrees to Biggest Oil Production Cut Since Start of Pandemic"** 
+### Oil Surges After Biden Says U.S. Discussing Israel Attack on Iran Facilities. **A calm 2024 for petroleum prices has given way to bets that a spike in energy prices could follow** 
 
-*The Wall Street Journal. By Benoit Faucon and Summer Said Updated Oct. 5, 2022 4:25 pm ET*
+**Por David Uberti Oct. 3, 2024 12:36 pm ET**
+
+*A rise in oil prices intensified Thursday after President Biden suggested that U.S. officials are considering whether to support an Israeli strike on Iranian oil facilities, a move that could push prices higher just weeks before the presidential election. *
+
 
 ![](/images/wsj.jpg)
 
 [Analisis de relación precios del petróleo con demanda global](https://www.wsj.com/articles/opec-agrees-to-biggest-oil-production-cut-since-start-of-pandemic-11664978144)
 
+![](/images/gasoline.jpg)
 
 En el caso de esta nota, referida a la reducción de la oferta de **petróleo** se espera un incremento de su precio y una tendencia  de incrementos en **precios** de bienes y productos **específicos** como la **gasolina** dada la importancia estratégica de este insumo en los procesos productivos.
 
