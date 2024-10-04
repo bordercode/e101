@@ -144,7 +144,7 @@ Elija uno de los dos temas propuestos y en equipo de dos personas conteste las p
 
 ### Tema 2 
 
-Examine el siguiente artículo sobre la franquicia **Starbucks** y responda las preguntas que se indican para discutir en clase. 
+Examine el siguiente artículo sobre la franquicia **Starbucks** y responda las preguntas que se indican para discutir en clase. (15 min.)
 
 
 [Articulo desde Drive](https://drive.google.com/file/d/1deZInDzsky308EDEKFlHSAKM3y7t3iLp/view?usp=sharing)
@@ -225,7 +225,7 @@ En el caso de esta nota, referida a la reducción de la oferta de **petróleo** 
 
 [Enlace](https://drive.google.com/file/d/1VWYZWyFhzGVkJGCauFWQNL6D1xBCgocW/view?usp=sharing)
 
-**Comente en equipos los siguientes cuestionamientos**
+**Comente en equipos los siguientes cuestionamientos**  (25 min.)
 
 1.- ¿Qué elementos refiere el autor en cuanto al efecto de la competencia sobre los precios en el caso del mercado Chino?
 
