@@ -122,6 +122,8 @@ Este determinante (**expectativas de ingreso**), impacta la **demanda en el tiem
 
 **Expectativas de Precios** Si se anticipa un incremento (**disminución**) en los precios del bien. Ej. si la cosecha de café se pierde por un evento meteorológico inesperado en **Brazil** o **Colombia**. (o en Coatepec, Veracruz, Chiapas, ), se prevé que el precio en Starbucks de la taza, se incremente.
 
+Eñ efecto sobre la demanda es el incremento del consumo hoy ($d_t$)
+
 ### Actividad 1
 
 Elija uno de los dos temas propuestos y en equipo de dos personas conteste las preguntas y comente en clase: 
