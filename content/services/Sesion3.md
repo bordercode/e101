@@ -6,6 +6,23 @@ title: 3. Teoría de la demanda.
 weight: 3
 ---
 
+
+## Objetivos de la sesión
+
++ Estudiar cómo los determinantes de la demanda se expresan en **industrias particulares**.
+
++ Analizar los efecto de los determinantes: Precios esperados, ingresos y población sobre la **demanda** de mercado.
+
++ Presentar las definiciones de bienes complementarios, substitutos, normales e inferiores.
+
++ Definir las principales estructuras de mercado
+
+#### Metas de aprendizaje.
+
+Una vez que se han expuesto las bases teóricas y conceptuales, la meta es comprender los fundamentos de la demanda a paritr de casos de estudio concretos. 
+
+
+
 ## Objetivo: 
 
 Estudiar los determinantes de la demanda y derivar la construcción de la relación entre precio y cantidad demandada en un mercado particular.
@@ -102,21 +119,6 @@ Este determinante (expectativas de ingreso), impacta la demanda en el tiempo. Po
 
 
 **Expectativas de Precios** Si se anticipa un incremento (**disminución**) en los precios del bien. Ej. si la cosecha de café se pierde por un evento meteorológico inesperado en **Brazil** o **Colombia**. (o en Coatepec, Veracruz, Chiapas, ), se prevé que el precio en Starbucks de la taza, se incremente.
-
-## Objetivos de la sesión
-
-+ Estudiar cómo los determinantes de la demanda se expresan en **industrias particulares**.
-
-+ Analizar los efecto de los determinantes: Precios esperados, ingresos y población sobre la **demanda** de mercado.
-
-+ Presentar las definiciones de bienes complementarios, substitutos, normales e inferiores.
-
-+ Definir las principales estructuras de mercado
-
-#### Metas de aprendizaje.
-
-Una vez que se han expuesto las bases teóricas y conceptuales, la meta es comprender los fundamentos de la demanda a paritr de casos de estudio concretos. 
-
 
 ### Actividad 1
 
