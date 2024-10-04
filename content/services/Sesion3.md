@@ -37,7 +37,7 @@ Estudiar los determinantes de la demanda y derivar la construcción de la relaci
 3.- Estudiar la noción de elasticidad de la demanda desde una perspectiva empirica y sus implicaciones.
 
 
-#### Metas de aprendizaje:
+##### Al finalizar la sesión:
 
 El alumno será capaz de identificar qué factores influyen en el comportamiento de la demanda Y definir los posibles efectos de cambios en cada uno de los principales causantes. 
 Así mismo, podrá distinguir entre cambios en la cantidad demandada y fluctuaciones de la demanda del mercado en su conjunto.
