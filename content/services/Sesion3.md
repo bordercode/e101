@@ -325,6 +325,7 @@ Observe  el siguiente materia audio visual y analice el caso con base en las pre
 5.-¿Considera que la demanda por este servicios se mantega con un dinamismo como el visto hasta el momento en algunas ciuades?  Si, no, porqué
 
 
+**Actividad**(Control)
 
 **Caso de estudio: El efecto de la competencia y la relación entre precio y demanda** 
 
