@@ -149,12 +149,8 @@ Examine el siguiente artículo sobre la franquicia **Starbucks** y responda las 
 
 [Articulo desde Drive](https://drive.google.com/file/d/1deZInDzsky308EDEKFlHSAKM3y7t3iLp/view?usp=sharing)
 
-o acceso desde el enlace en web html.
-
-[Starbucks](https://www.economist.com/1843/2020/07/22/why-we-speak-starbucks)
 
 
-[Precios esperados](https://www.nytimes.com/2021/08/12/business/coffee-prices-higher.html)
 
 o Descargue desde drive
 
