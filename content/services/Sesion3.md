@@ -348,7 +348,7 @@ Observe  el siguiente materia audio visual y analice el caso con base en las pre
 
 
 
-### EXCEDENTE DEL CONSUMIDOR 
+## Excedente del Consumidor
 
 **El excedente del consumidor**, se define como la diferencia entre el precio pagado y la disponibilidad a pagar del individuo,  por ejemplo. 
 
