@@ -17,7 +17,7 @@ weight: 3
 
 + Definir las principales estructuras de mercado
 
-#### Metas de aprendizaje.
+### Metas de aprendizaje.
 
 Una vez que se han expuesto las bases teóricas y conceptuales, la meta es comprender los fundamentos de la demanda a paritr de casos de estudio concretos. 
 
