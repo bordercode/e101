@@ -247,7 +247,7 @@ En el caso de esta nota, referida a la reducción de la oferta de **petróleo** 
 
 
 
-Analizar los determinates de la demanda.
+Analizar los determinates de la demanda (actividad en clase 10 min.)
 
 [Estructura poblacional y demanda](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2020)659419)
 
@@ -278,17 +278,13 @@ Ejemplo: Vehículos eléctricos y vehículos de combustión interna: Si el preci
 
 Ejeplo: Smartphones y aplicaciones móviles: Los teléfonos inteligentes y las aplicaciones son complementarios, ya que sin el primero no se pueden utilizar las segundas.
 
-Acorde a la relación con el ingreso D(Y)
-
-> + Normales 
-> + Inferiores
-
 Para finalizar esta sección es importante mencionar que, acorde con el **comportamiento de la demanda**, podemos clasificar los bienes en dos categorias: 
 
 
 + **Bienes normales**: Aquellos que presentan una relación directa entre fluctuaciones en el ingreso y la demada. 
 
 + **Bienes Inferiores:** Tienen una relación inversa entre ingreso del individuo y la cantidad demandada. 
+
 
 
 **Ejemplo** **1**  
@@ -314,7 +310,7 @@ Los viajes en autobús son en este caso un **bien inferior**.
 Observe  el siguiente materia audio visual y analice el caso con base en las preguntas que se presentan. 
 
 
-[UBER y competencia](https://www.youtube.com/watch?v=g1dTjROL8Uc)
+[UBER y competencia](https://www.youtube.com/watch?v=g1dTjROL8Uc)  (5  min. + análisis  15 min. )
 
 
 
@@ -340,12 +336,13 @@ Observe  el siguiente materia audio visual y analice el caso con base en las pre
 
 2.-¿Desde el punto de vista de la competencia ¿Cuales son los cuatro tipos de mercado de que describe el autor? 
 
-3.¿Cómo describe el autor los **costos fijos** y cuál es su importancia en la industria en cuestion? 
+3.¿Cómo describe el autor los **costos fijos** y cuál es su importancia en la industria en cuestión? 
 
 4.¿Cómo ejemplifica el autor el concepto de economias de escala? 
 
 5.-Considera que la industria mexicana de aerolineas se integra como un oligopolio? 
 
+6.- En su opinión,  ¿es útil contar con organismos que promueven la competencia y vigilan el surgimiento de prácticas monopolicas. Ej. la Comisión Federal de Competencia Económica (COFECE).
 
 
 
