@@ -330,7 +330,7 @@ Observe  el siguiente materia audio visual y analice el caso con base en las pre
 
 
 
-[Aerolineas y la fijación de precios ](https://research.stlouisfed.org/publications/page1-econ/2018/11/01/the-economics-of-flying-how-competitive-are-the-friendly-skies/)
+[Aerolineas y la fijación de precios ](https://research.stlouisfed.org/publications/page1-econ/2018/11/01/the-economics-of-flying-how-competitive-are-the-friendly-skies/)  (20 min.)
 
 1.-¿Cómo describe el autor el mecanismo de la ley de la demanda y los efectos sobre la industria de las aerolíneas?
 
@@ -343,6 +343,8 @@ Observe  el siguiente materia audio visual y analice el caso con base en las pre
 5.-Considera que la industria mexicana de aerolineas se integra como un oligopolio? 
 
 6.- En su opinión,  ¿es útil contar con organismos que promueven la competencia y vigilan el surgimiento de prácticas monopolicas. Ej. la Comisión Federal de Competencia Económica (COFECE).
+
+7.- Acorde con la tipología de mercado propuesta por el autor,  clasifique el sector aereo en Mexico? (Tip: considere la existencia de barreras a la entrada, el número de aerolíneas, la noción de economías de scala.
 
 
 
