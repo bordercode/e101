@@ -150,7 +150,7 @@ Examine el siguiente artículo sobre la franquicia **Starbucks** y responda las 
 [Articulo desde Drive](https://drive.google.com/file/d/1deZInDzsky308EDEKFlHSAKM3y7t3iLp/view?usp=sharing)
 
 
-o Descargue desde drive
+y descargue desde drive
 
 [Artículo Precios esperados](https://drive.google.com/file/d/1Q7owYaq-i1u83gfQQmG_4DwWoQpb75RW/view?usp=sharing)
 
