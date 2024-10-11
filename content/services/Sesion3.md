@@ -322,7 +322,7 @@ Observe  el siguiente materia audio visual y analice el caso con base en las pre
 
 4. En su opinión ¿la destitución de los monpolios mediante la incursión de nuevos competidores a un mercado regulado como el de trasporte privado tiene impactos benéficos en el largo plazo?  
 
-5.-¿Considera que la demanda por este servicios se mantega con un dinamismo como el visto hasta el momento en algunas ciuades?  Si, no, porqué
+5.-¿Considera que la demanda por este servicio se mantega con un dinamismo como el visto hasta el momento en algunas ciuades?  Si, no, porqué.
 
 
 **Actividad**(Control)
