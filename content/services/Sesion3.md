@@ -363,7 +363,7 @@ La curva de demanda en el **mercado** de un bien particular, resume la suma del 
 La curva de demanda para un mercado particular muestra entonces una **relación inversa entre precio y cantidad demanda** en un escenario contínuo. 
 
 
-![](/images/demandcurve.jpg)
+![](/images/demandacurve.jpg)
 
 ![](/images/cs.jpg)
 **Figura 2.** Curva de demanda del mercado.
