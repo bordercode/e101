@@ -356,15 +356,14 @@ Observe  el siguiente materia audio visual y analice el caso con base en las pre
 ¿Cuál es el excente del consumidor a un precio de  **\$43K**, la diferencia entre la máxima disponibilidad a pagar y este precio pagado es el excedente del consumidor, en este caso **\$22K**.
 
 
-De igual manera al comprar la segunda computadora, el individuo  "ahorra": **\$7k** respecto de tu **disponibilidad a pagar**  por la segunda que es **\$50K**. 
-
-La suma de estos valores, representa lo que denominamos**el excedente del consumidor**
-
 En términos de la figura 1, el excedente del consumdor es **$22** y está dado por el área bajo la curva de demanda entre el precio pagado, en este caso **p=\$43** y la máxima disponibilidad a pagar. **\$65**.
 
 La curva de demanda en el **mercado** de un bien particular, resume la suma del comportamiento de los consumidores de ese bien, en particular, **resume su relación entre precio** y  disposición a pagar.
 
 La curva de demanda para un mercado particular muestra entonces una **relación inversa entre precio y cantidad demanda** en un escenario contínuo. 
+
+
+![](/images/demandcurve.jpg)
 
 ![](/images/cs.jpg)
 **Figura 2.** Curva de demanda del mercado.
