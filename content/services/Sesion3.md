@@ -372,6 +372,38 @@ La curva de demanda para un mercado particular muestra entonces una **relación 
 **Note:** la relación inversa entre  p y q: Observamos el area correspondiente al concepto de excedente del consumidor como el area bajo la curva de demanda, (*en términos de un rango específico, usando cálculo integral podemos  encontrar el valor de esa área de manera precisa*).
 
 
+##### Actividad  
+
+Lea el siguiente artículo  de **The Economist** sobre las particularidades de la medición del concepto de excedente del consumidor desde el punto de vista empírico y responda lo siguiente: 
+
+
+[The economist](https://drive.google.com/file/d/1dkpogBhrw1wW9zUXprLEHhjC5tnOdP_q/view?usp=sharing)
+
+
+1. ¿Qué empresas se analizan en el artículo como ejemplo para la medición del excedente del consumior?
+
+2.- ¿Cuál es el problema que se menciona para la medición del excedente del consumidor en relación la precio? 
+
+3.- Considerando la información del artículo, ¿cómo caracterizan los autores la elasticidad de la demanda de servicios como **Facebook** o **Google**. 
+
+a) **Demanda Elástica.**
+
+b) **Demanda inelástica**
+
+**Recuerde** que la sensibilidad de la demanda respecto a modificaciones en el precio de un bien es un concepto que se define como la elasticidad de la demanda [definición](https://stats.oecd.org/glossary/detail.asp?ID=3206#:~:text=In%20principle%2C%20the%20price%20elasticity,of%20minus%2010%20to%20zero.) y refleja la flexibilidad que tiene la demanda de un producto ante variaciones en su precio.
+
+
+4. ¿Qué factores identifican los autores como motivos potenciales para incrementar el excedente del consumidor en el escenario actual del uso de plataformas proveedoras de internet?
+
+
+5. ¿Qué influencia describen los autores en relación al incremento del número de consumidores y el efecto de servicios complementarios con respecto al cálculo del excedente del consumidor para el consumo de servicios como internet?
+
+6.-¿Cuál es el estimado de **excedente del consumidor** que presentan los autores para servicios como **Wikipedia** y el consumo de **banda ancha** para proveer internet, en 2006?  
+
+
+
+
+
 ## Elasticidad de la demanda.
 
 La **sensibilidad** que tiene la cantidad demandada de un bien respecto a variaciones en su precio se denomina elasticidad. 
@@ -416,33 +448,6 @@ La representación siguiente nos muestra los **tres escenarios** relevantes en c
 
 [Elasticidad en la práctica](https://www.wsj.com/video/series/price-index/why-ceos-from-coca-cola-to-hershey-are-talking-about-price-elasticity/FAB951C0-6251-4FD5-9128-E76658CA144C) 
 
-##### Actividad  
-
-Lea el siguiente artículo  de **The Economist** sobre las particularidades de la medición del concepto de excedente del consumidor desde el punto de vista empírico y responda lo siguiente: 
-
-
-[The economist](https://drive.google.com/file/d/1dkpogBhrw1wW9zUXprLEHhjC5tnOdP_q/view?usp=sharing)
-
-
-1. ¿Qué empresas se analizan en el artículo como ejemplo para la medición del excedente del consumior?
-
-2.- ¿Cuál es el problema que se menciona para la medición del excedente del consumidor en relación la precio? 
-
-3.- Considerando la información del artículo, ¿cómo caracterizan los autores la elasticidad de la demanda de servicios como **Facebook** o **Google**. 
-
-a) **Demanda Elástica.**
-
-b) **Demanda inelástica**
-
-**Recuerde** que la sensibilidad de la demanda respecto a modificaciones en el precio de un bien es un concepto que se define como la elasticidad de la demanda [definición](https://stats.oecd.org/glossary/detail.asp?ID=3206#:~:text=In%20principle%2C%20the%20price%20elasticity,of%20minus%2010%20to%20zero.) y refleja la flexibilidad que tiene la demanda de un producto ante variaciones en su precio.
-
-
-4. ¿Qué factores identifican los autores como motivos potenciales para incrementar el excedente del consumidor en el escenario actual del uso de plataformas proveedoras de internet?
-
-
-5. ¿Qué influencia describen los autores en relación al incremento del número de consumidores y el efecto de servicios complementarios con respecto al cálculo del excedente del consumidor para el consumo de servicios como internet?
-
-6.-¿Cuál es el estimado de **excedente del consumidor** que presentan los autores para servicios como **Wikipedia** y el consumo de **banda ancha** para proveer internet, en 2006?  
 
 
 ------------------------------------------
