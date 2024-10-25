@@ -617,6 +617,8 @@ Entonces, ¿cómo han cambiado la demanda y la oferta?
 
 ¿Qué impacto tendrá el proceso de transición energética para la demanda global de petróleo? 
 
+### Considerciones teóricas adicionales.
+
 Acorde con el modelo **teórico** un incremento del **ingreso** genera un desplazamiento de la **demanda**.
 
 
