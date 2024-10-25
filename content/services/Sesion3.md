@@ -558,13 +558,14 @@ Al 25 de octubre de 2024 el volumen producido es 81.1 mb/d (Millones de barriles
 
 ![](/images/mexico.jpg)
 
-After 2029, world oil supply is forecast to swing into contraction in line with a deceleration in oil demand growth due to, amongst other factors, the continued uptake of **EVs** and intensified efforts to substitute oil use in Middle East power generation.
+Cita del Oil report  2024 de la  **iea** (international energy agency.)
+*After 2029, world oil supply is forecast to swing into contraction in line with a deceleration in oil demand growth due to, amongst other factors, the continued uptake of EVs and intensified efforts to substitute oil use in Middle East power generation.*
 
-The **United States** and **Canada** break fresh annual records throughout the sevenyear period. Qatar reaches its highest ever oil output in **2027** and then climbs
-further on the back of its LNG expansion.
+*The United States and Canada break fresh annual records throughout the sevenyear period.* 
+*Qatar reaches its highest ever oil output in 2027 and then climbs further on the back of its LNG expansion*
 
 "By contrast, **Mexico** posts the single
-largest capacity loss of any producer in the world due to underinvestment." [Consulte el Oil Market Report. Full](https://drive.google.com/file/d/1yClSZqJii2MBIrRqMWMzHHoPXY9GfFhL/view?usp=sharing)
+largest **capacity loss** of any producer in the world due to underinvestment." [Consulte el Oil Market Report. Full](https://drive.google.com/file/d/1yClSZqJii2MBIrRqMWMzHHoPXY9GfFhL/view?usp=sharing)
 
 
 **¿Quién o qué ha estado subiendo el precio del petróleo?**
