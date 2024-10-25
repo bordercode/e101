@@ -612,10 +612,7 @@ Entonces, ¿cómo han cambiado la demanda y la oferta?
 ¿Qué relación se presenta entre la tendencia en la oferta del Gas Natural líquido  NGL´s y la tendencia en la demanda de la industria petroquímica?
 
 
-¿Qué impacto se prevee por el ritmo de la actividad productiva de países como Estados Unidos, respecto al stock y excedentes de oferta mundial de petróleo hacia el 2030? 
-
-
-¿Que implicaciones tendría un escenario de menores precios para la actividad productiva del gas no convencional en Estados Unidos (shale industry).
+¿Qué impacto se prevé por el ritmo de la actividad productiva de países como Estados Unidos, respecto al stock y excedentes de oferta mundial de petróleo hacia el 2030? 
 
 
 ¿Qué impacto tendrá el proceso de transición energética para la demanda global de petróleo? 
