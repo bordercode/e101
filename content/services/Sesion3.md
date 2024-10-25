@@ -553,7 +553,7 @@ Al 25 de octubre de 2024 el volumen producido es 81.1 mb/d (Millones de barriles
 ![](/images/spare_suply.jpg)
 
 
-**Cómo figura la oferta de México durante las políticas económicas implementados por el movimiento actual**
+**¿Cómo figura la oferta de México durante las políticas económicas implementados por el movimiento actual?**
 
 
 ![](/images/mexico.jpg)
