@@ -597,6 +597,29 @@ Entonces, ¿cómo han cambiado la demanda y la oferta?
 [Oil Market Report](https://www.iea.org/reports/oil-2024/executive-summary)
 
 
+¿En el escenario de los próximos 20 años, ¿Cómo se espera que la oferta global de petróleo impacte los precios de este insumo básico de la economía mundial?
+
+¿Como se espera que evolucione la trayectoria de la demanda mundial de petróleo hacia 2030?
+
+¿Qué factores se prevén como de importancia para  configurar la trayectoria en la demanda mundial de petróleo en el periodo pronosticado en el análisis? 
+
+
+¿Qué regiones (y países) del mundo se conisderan las que impulsan el crecimiento de la demanda global de petróleo en el periodo analizado? 
+
+¿Qué países son los que impulsarán la oferta mundial de petróleo segun el estudio?
+
+
+¿Qué relación se presenta entre la tendencia en la oferta del Gas Natural líquido  NGL´s y la tendencia en la demanda de la industria petroquímica?
+
+
+¿Qué impacto se prevee por el ritmo de la actividad productiva de países como Estados Unidos, respecto al stock y excedentes de oferta mundial de petróleo hacia el 2030? 
+
+
+¿Que implicaciones tendría un escenario de menores precios para la actividad productiva del gas no convencional en Estados Unidos (shale industry).
+
+
+¿Qué impacto tendrá el proceso de transición energética para la demanda global de petróleo? 
+
 Acorde con el modelo **teórico** un incremento del **ingreso** genera un desplazamiento de la **demanda**.
 
 
@@ -628,7 +651,7 @@ El precio del petróleo aumentó a **$127** por barril y la cantidad aumentó a 
 ![](/images/oilx1.jpg)
 
 
-## Asignacion para casa.  
+## Actividad en clase.  
 
 Revise el siguiente escenario y responda las preguntas:
 
