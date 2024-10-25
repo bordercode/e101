@@ -574,7 +574,7 @@ Es la acción de los productores de petróleo codiciosos?
 
 Los  productores de petróleo pueden ser codiciosos, y algunos de ellos pueden ser suficientemente grandes  como para retener el suministro y aumentar el precio, pero no estaría en su propio interés hacerlo. 
 
-Si es más alto el precio, esto  produciría una mayor cantidad ofrecida de otros productores y el beneficio para el productor la oferta limitada, caería.  (En teoría, pero hoy vemos el grupo OPEC+, como una organización con gran influencia).
+Si es más alto el precio, esto  produciría una mayor cantidad ofrecida de otros productores y el beneficio para el productor de oferta limitada, caería.  (En teoría, pero hoy vemos el grupo OPEC+, como una organización con gran influencia).
 
 
 
