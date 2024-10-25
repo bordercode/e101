@@ -533,16 +533,21 @@ crisis financiera mundial puso fin a un largo período de **expansión económic
 
 **En octubre de 2022 el precio por barril es 85.76 dólares.**
 
+Al 25 de octubre de 2024 el precio por barril es 71.13 USD,
+
+![](/images/oil_price.jpg)
+
+
 Mientras el precio del petróleo subía, la cantidad del petróleo producido y consumido también aumentó. 
 
 En **2001**, el mundo producía 65 millones de barriles de petróleo al día. 
 
-Para 2008, esa cantidad fue de 72 millones de barriles.
+Para 2008, esa cantidad fué de 72 millones de barriles.
 
 
-En 2022 el nivel es 101.2 mb/d,
+Al 25 de octubre de 2024 el volumen producido es 81.1 mb/d (Millones de barriles por día).
 
-[Oil Market Report](https://www.iea.org/reports/oil-market-report-october-2022)
+![](/images/oil_price.jpg)
 
 
 **¿Quién o qué ha estado subiendo el precio del petróleo?**
@@ -551,11 +556,11 @@ Es la acción de los productores de petróleo codiciosos?
 
 Los  productores de petróleo pueden ser codiciosos, y algunos de ellos pueden ser suficientemente grandes  como para retener el suministro y aumentar el precio, pero no estaría en su propio interés hacerlo. 
 
-Si es más alto el precio, esto  produciría una mayor cantidad ofrecida de otros productores y el beneficio para el productor la oferta limitada, caería.  (En teoría pero hoy vemos el grupo OPEC+, como una organización con gran influencia).
+Si es más alto el precio, esto  produciría una mayor cantidad ofrecida de otros productores y el beneficio para el productor la oferta limitada, caería.  (En teoría, pero hoy vemos el grupo OPEC+, como una organización con gran influencia).
 
 
 
-Los productores de petróleo podrían tratar de cooperar y retener el suministro (Exactamente lo que vemos hoy co Russia y los paises del bloque árabe).
+Los productores de petróleo podrían tratar de cooperar y retener el suministro (Exactamente lo que vemos hoy con Russia y los paises del bloque árabe).
 
 Los países exportadores, la OPEC+, es uno de esos grupos de productores. 
 
@@ -567,6 +572,11 @@ Entonces, aunque el mercado mundial del petróleo tiene grandes jugadores, ellos
 En cambio, las acciones de miles de compradores y vendedores y las fuerzas de la demanda y la oferta determinan el precio del petróleo.
 
 Entonces, ¿cómo han cambiado la demanda y la oferta?
+
+## Actividad. Análisis y comentario en clase. 
+
+
+[Oil Market Report](https://www.iea.org/reports/oil-2024/executive-summary)
 
 
 Acorde con el modelo **teórico** un incremento del **ingreso** genera un desplazamiento de la **demanda**.
@@ -600,7 +610,7 @@ El precio del petróleo aumentó a **$127** por barril y la cantidad aumentó a 
 ![](/images/oilx1.jpg)
 
 
-## Tarea 
+## Asignacion para casa.  
 
 Revise el siguiente escenario y responda las preguntas:
 
@@ -616,7 +626,7 @@ a) Incremento en demada
 
 b) Reducción en demanda.
 
-2. Represente graficamente el efecto de la contingencia ambiental sobre la curva de oferta de café.
+2. Represente gráficamente el efecto de la contingencia ambiental sobre la curva de oferta de café.
 
 a) Incremento de la oferta.
 
