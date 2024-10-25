@@ -604,7 +604,7 @@ Entonces, ¿cómo han cambiado la demanda y la oferta?
 ¿Qué factores se prevén como de importancia para  configurar la trayectoria en la demanda mundial de petróleo en el periodo pronosticado en el análisis? 
 
 
-¿Qué regiones (y países) del mundo se conisderan las que impulsan el crecimiento de la demanda global de petróleo en el periodo analizado? 
+¿Qué regiones (y países) del mundo se consideran las que impulsan el crecimiento de la demanda global de petróleo en el periodo analizado? 
 
 ¿Qué países son los que impulsarán la oferta mundial de petróleo segun el estudio?
 
