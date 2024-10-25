@@ -531,9 +531,9 @@ En 2001, el precio del barril de petróleo era de $20 (usando el valor del diner
 En 2008, la
 crisis financiera mundial puso fin a un largo período de **expansión económica**, el precio alcanzó un máximo de 127 dólares el barril.
 
-**En octubre de 2022 el precio por barril es 85.76 dólares.**
+En octubre de 2022 el precio por barril es 85.76 dólares.
 
-Al 25 de octubre de 2024 el precio por barril es 71.13 USD,
+**Al 25 de octubre de 2024 el precio por barril es 71.13 USD**
 
 ![](/images/oil_price.jpg)
 
@@ -550,7 +550,7 @@ Al 25 de octubre de 2024 el volumen producido es 81.1 mb/d (Millones de barriles
 **Proyecciones de oferta -exceso de capacidad productiva-**
 
 
-![](/images/spare_suply.jpg)
+![](/images/spare_supply.jpg)
 
 
 **¿Cómo figura la oferta de México durante las políticas económicas implementados por el movimiento actual?**
