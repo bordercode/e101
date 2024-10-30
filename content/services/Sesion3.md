@@ -654,11 +654,12 @@ El precio del petróleo aumentó a **$127** por barril y la cantidad aumentó a 
 
 Revise el siguiente escenario y responda las preguntas:
 
+[Coffe Prices FT](https://www.ft.com/content/f02f2888-2349-47be-b484-22c8bcf38b35)
 
-
-![Ejercicio](/images/coffe_ejercicio.jpg)
 
 ![coffe](/images/coffe.jpg)
+
+![coffe](/images/coffe_prices.jpg)
 
 1.- Represente  graficamente el efecto de la expectativa de incremento del **precio del café** sobre la  curva de demanda. 
 
