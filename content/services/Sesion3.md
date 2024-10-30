@@ -658,7 +658,7 @@ Revise el siguiente escenario y responda las preguntas:
 
 ![Ejercicio](/images/coffe_ejercicio.jpg)
 
-
+![coffe](/images/coffe.jpg)
 
 1.- Represente  graficamente el efecto de la expectativa de incremento del **precio del café** sobre la  curva de demanda. 
 
