@@ -656,6 +656,8 @@ Revise el siguiente escenario y responda las preguntas:
 
 [Coffe Prices FT](https://www.ft.com/content/f02f2888-2349-47be-b484-22c8bcf38b35)
 
+[Enlace aquí](https://drive.google.com/file/d/1glHfAwFN7aACmKfJypMpmOVwqxr554En/view?usp=sharing)
+
 
 ![coffe](/images/coffe.jpg)
 
