@@ -82,7 +82,9 @@ Este rasgo implica una **productividad marginal decreciente del factor trabajo**
 
 En general un proceso productivo tiene dos características distintivas:
 
-En una primera fase exhibe **rendimientos crecientes**, es decir, a medida que se incrementan los insumos, el nivel productivo crece a un ritmo proporcionalmente mayor.
+En una primera fase exhibe **rendimientos crecientes**, es decir, a medida que se incrementan los insumos, el nivel productivo crece a **un ritmo proporcionalmente mayor**.
+
+Tenemos capacidad instalada suficiente.
 
 
 Los rendimientos crecientes que observamos en las etapas inciales del proceso productivo estan asociados a la **eficiencia** que permite la **especialización** y la **división del trabajo**
