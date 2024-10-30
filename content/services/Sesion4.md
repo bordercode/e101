@@ -103,6 +103,44 @@ La siguiente gráfica muestra la noción de **rendimientos decrecientes**.
 
 ![](/images/porduction.jpg)
 
+## Actividad en clase.
+
+Analice el siguiente material sobre la estrcutura de costos de la empresa Amazon y responda los cuestionamientos.
+
+[Descargar aquí](https://drive.google.com/file/d/1_i7cgEXUiHtsd4XUUjdMy0wyQBlCO4dx/view?usp=sharing)
+
+[Enlace ](https://www.economist.com/business/2023/01/26/can-amazon-deliver-again)
+
+![](/images/amazonnn.jpg)
+
+1.- Considerando el desempeño de la compañia, ¿Qué lugar ocupa en el mundo en términos de valuación, del empleo que genera y de la generación de valor?
+
+
+¿Cómo impacto la pandemia de COVID-19 el desempeño de la actividad de la compañía? 
+
+
+Considerando las presiones de costos, ¿qué acciones ha tomado la compañia para mitigar la reducción de ganancias obaservadas tras el periodo de pandemia? ¿Cuántos trabajadores se despidieron?
+
+¿Acorde con el autor ¿qué factores han contribuido con la situación actual (reducción en la tasa de crecimiento de bene3ficios) en la que se encuentra Amazon? 
+
+
+¿De qué magnitud se admite que ha sido la sobre contratación de la empresa en el periodo de estudio?  y el exceso de contruicción?  ¿De qué manera esto impacto la estructura de costos de la empresa? 
+
+
+
+¿Qué Papel podría tener la afiliación sindical en este caso sobre la estructura de costos de la empresa?
+
+¿Cuál es el monto de las perdidas operativas del periodo estudiado según los analistas? 
+
+
+¿Cuales son algunos costos importantes para la filial AWS?
+
+¿Qué papel tiene la competencia para la situación de crecimiento y rentabilidad actual de Amazon? 
+
+
+
+
+
 ##Producción Marginal decreciente
 
 Este rasgo **(PMD)** del proceso productivo, asegura que el costo marginal (**CMarg**) , es decir, el costo de la unidad adicional porducida,  sea una función creciente (relación positiva) respecto al nivel de producción (**Q**).
