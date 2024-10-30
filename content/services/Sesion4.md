@@ -39,7 +39,9 @@ Estas decisiones implican el conocimiento de la estrucuctura de costos y la dete
 
 + Y = **Ingresos = P.Q**. P=precio, Q= Cantidad producida. 
 
-+ CT = **Costo total= CV+CF**. CV= Costo Variable, CF= **Costo Fijo**  Un rasgo **importante** es que esta estructura de costos es aplicable al **Corto plazo**, ya que en el **largo plazo** Todos los costos pueden tratarse como variables, es decir, por ejemplo se pueden renogociar los contratos de arrendamiento o reestructurar la renta de ciertos equipos.   
++ CT = **Costo total= CV+CF**. CV= Costo Variable, CF= **Costo Fijo**  Un rasgo **importante** es que esta estructura de costos es aplicable al **Corto plazo**, ya que en el **largo plazo, todos los costos pueden tratarse como variables**, 
+
+Por ejemplo se pueden renogociar los contratos de arrendamiento o reestructurar la renta de ciertos equipos.   
 
 
 ![](/images/costosfv.jpg)
@@ -47,7 +49,9 @@ Estas decisiones implican el conocimiento de la estrucuctura de costos y la dete
 
 + Observe que la suma de los costos fijos y los variables integran los costos totales   $$CT=CF+CV$$.
 
-+ La distancia vertical entre la linea que representa los costos fijos y el costo total, denota el costo variable.  O dicho de otra manera, la distancia que hay entre la curva de costo total y la de costo variable indica el costo fijo.
++ La distancia vertical entre la linea que representa los costos fijos y el costo total, denota el costo variable.  
+
+Dicho de otra manera, la distancia que hay entre la curva de costo total y la de costo variable indica el costo fijo.
 
 + Note que la curva de costos totales no inicia en cero, ya que se tienen costos fijos. Ejemplo renta de las instalaciones en el parque industrial.
 
