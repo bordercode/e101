@@ -624,7 +624,7 @@ Acorde con el modelo **teórico** un incremento del **ingreso** genera un despla
 
 Vemos en el caso de estudio que la demanda de petróleo ha aumentado (desplazamiento de la demanda). El resultado es que tanto el **precio** como la **cantidad** han aumentado, 
 
-La **oferta** también podría haber cambiado, pero aquí supondremos que la oferta se ha mantenido igual.
+
 
 La demanda mundial de petróleo ha aumentado por una razón principal: el ingreso mundial ha aumentado. 
 
