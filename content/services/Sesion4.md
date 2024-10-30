@@ -66,7 +66,7 @@ La producción a su vez es posible debido a la **utilización eficiente** de los
 
 En términos generales ej. **Q= f(tierra, trabajo, capital, tech).** 
 
-El incremento de uno de estos factores (trabajo) manteniendo fijo  (*ceteris paribus*) el resto de los factores, implica una aportación cada vez menor sobre la producción. 
+El incremento de uno de estos factores, por ejemplo **trabajo**,  manteniendo fijo  (**ceteris paribus**) el resto de los factores, implica una aportación (de este factor) cada vez menor sobre la producción. 
 
 El efecto de esta relación se resume bajo el concepto de **productividad marginal decreciente**,  $$PM_{L}=\frac{\partial {y}}{\partial{L}}>0$$
 
@@ -74,7 +74,9 @@ $$\frac{\partial PM_{L}}{\partial{L}}<0$$
 
 Donde $$y=f(L, \overline{K}, \overline{Tierra}, \overline{tech} )$$
 
-Note que en el corto plazo, tenemos un conjunto de factores productivos que permanecen fijos. Este rasgo implica una **productividad marginal decreceinte del factor trabajo**.
+Note que en el corto plazo, tenemos **un conjunto de factores productivos** que permanecen **fijos**. 
+
+Este rasgo implica una **productividad marginal decreciente del factor trabajo**.
 
 
 En general un proceso productivo tiene dos características distintivas:
