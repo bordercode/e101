@@ -103,7 +103,7 @@ La siguiente gráfica muestra la noción de **rendimientos decrecientes**.
 
 ![](/images/porduction.jpg)
 
-*Producción Marginal decreciente*
+##Producción Marginal decreciente
 
 Este rasgo **(PMD)** del proceso productivo, asegura que el costo marginal (**CMarg**) , es decir, el costo de la unidad adicional porducida,  sea una función creciente (relación positiva) respecto al nivel de producción (**Q**).
 
